@@ -1,10 +1,13 @@
 {{ define "main" }}
+{{ $podicon := resources.Get "/icons/podd-icon.webp" }}
 <article>
 	<div class="container mx-auto px-6">
 		
 		{{ if .Params.podcast }}
 			<div class="my-6 flex flex-row items-center gap-6 rounded-lg">
-				<div class="bg-opace rounded-2xl w-36 aspect-square"></div>
+				<div class="bg-opace rounded-2xl w-28 md:w-36 aspect-square overflow-hidden">
+					<img src="{{ $podicon.RelPermalink }}" />
+				</div>
 				<div class="essential_audio" data-url="{{ .Params.podcast }}"></div>
 			</div>
 		{{ end }}
