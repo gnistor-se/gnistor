@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+p {
+	@apply my-6;
+}
+
+.dark {
+	@apply bg-dark;
+}
+
+.marker {
+	@apply bg-primary;
+}
+
+#list li.hidden {
+	display: none;
+}
+
+.tooltip {
+	@apply absolute hidden group-hover:flex flex-col gap-1 leading-tight -top-3 -translate-y-full bg-dark w-48 px-3 py-3 rounded-lg text-center text-white text-xs after:content-[''] after:absolute after:left-1/2 after:top-[100%] after:-translate-x-1/2 after:border-8 after:border-x-transparent after:border-b-transparent after:border-t-dark;
+}
+
+.tooltip.marker {
+	@apply absolute hidden group-hover:flex flex-col gap-1 leading-tight -top-3 -translate-y-full bg-primary w-48 px-3 py-3 rounded-lg text-center text-white text-xs after:content-[''] after:absolute after:left-1/2 after:top-[100%] after:-translate-x-1/2 after:border-8 after:border-x-transparent after:border-b-transparent after:border-t-primary;
+}
+
+article a {
+	@apply underline;
+}
+
+article a:hover {
+	@apply no-underline;
+}
+
+article ul {
+	@apply list-disc list-inside;
+}
+
+article h2 {
+	@apply font-bold text-xl;
+}

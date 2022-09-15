@@ -1,0 +1,9 @@
+baseURL = 'http://example.org/'
+languageCode = 'sv-SE'
+defaultContentLanguage = 'sv'
+defaultContentLang = 'sv'
+title = 'Gnistor'
+buildFuture = true
+[taxonomies]
+	location = 'locations' 
+	form = 'forms'  

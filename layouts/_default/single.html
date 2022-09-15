@@ -1,0 +1,34 @@
+{{ define "main" }}
+<article>
+	<div class="container mx-auto px-6">
+		
+		{{ if .Params.podcast }}
+			<div class="my-6 flex flex-row items-center gap-6 rounded-lg">
+				<div class="bg-opace rounded-2xl w-36 aspect-square"></div>
+				<div class="essential_audio" data-url="{{ .Params.podcast }}"></div>
+			</div>
+		{{ end }}
+		
+		<h1 class="font-bold text-3xl md:text-5xl my-9">{{ .Title }}</h1>
+		
+		<span>{{ .Date.Format "2 January" }}</span>
+		<span>{{ .Date.Format "15:04" }}</span>
+		
+		<ul class="flex flex-row gap-3 list-none">
+			{{ range (.GetTerms "locations") }}
+				<li><a class="underline hover:no-underline" href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+			{{ end }}
+			{{ range (.GetTerms "forms") }}
+				<li><a class="underline hover:no-underline" href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+			{{ end }}
+		</ul>
+	</div>
+
+	<div class="container mx-auto px-6 grid grid-cols-1 md:grid-cols-10 gap-x-28 gap-y-12">
+		<div class="md:col-span-6 text-sm md:text-base leading-snug">
+			{{ .Content }}
+		</div>
+	</div>
+	
+</article>
+{{ end }}

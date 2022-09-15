@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>{{ .Page.Title }}</title>
+	{{ $style := resources.Get "style.css" }}
+	<link rel="stylesheet" href="{{ $style.Permalink }}"> 
+	{{ $audio := resources.Get "essential_audio.css" }}
+	<link rel="stylesheet" href="{{ $audio.Permalink }}"> 
+	{{ with .OutputFormats.Get "rss" -}}
+  		{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+	{{ end -}}
+</head>
+
+<body class="text-dark bg-base">
+	{{ partial "nav.html" . }}
+		{{ block "main" . }}
+		{{ end }}
+	
+	{{ partial "footer.html" . }}
+	
+	{{ $script := resources.Get "script.js" }}
+	<script src="{{ $script.Permalink }}"> </script>
+	{{ $audio := resources.Get "essential_audio.js" }}
+	<script src="{{ $audio.Permalink }}"> </script>
+</body>
+</html>

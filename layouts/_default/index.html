@@ -1,0 +1,7 @@
+{{ define "main" }}
+	{{ $scratch := newScratch }}
+	{{ $pages := .Site.RegularPages.ByDate }}
+	
+	{{ partial "list.html"  $pages  }}
+	
+{{ end }}
