@@ -1,21 +1,35 @@
 <header>
-	<div class="container mx-auto my-9 px-6">
+	<div class="container mx-auto my-6 px-6 md:my-9">
 
 		<nav class="flex flex-row justify-between items-center">
 			<div class="font-bold text-2xl">
 				<a href="{{ .Site.BaseURL }}">
 					{{ $asset := resources.Get "/logo.webp" }}
-					<figure class="w-28 md:w-36 mb-6">
+					<figure class="w-28 md:w-36 mb-3 md:mb-6">
 						<img alt="Gnistor" src="{{ $asset.RelPermalink }}" />
 					</figure>
 				</a>
 			</div>
-			<ul class="flex flex-row gap-6 text-sm font-bold">
+			{{ $menu := resources.Get "/icons/menu.svg" }}
+			{{ $close := resources.Get "/icons/x.svg" }}
+			<button id="toggle-nav" class="inline-block md:hidden">
+				<img src="{{ $menu.RelPermalink }}">
+				<img class="hidden" src="{{ $close.RelPermalink }}">
+			</button>
+			<ul class="hidden md:inline-block flex flex-row gap-6 text-sm font-bold">
 			{{ range where .Site.RegularPages "Type" "page" }}
 				<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
 			{{ end }}
 			</ul>
 		</nav>
+		<nav id="mobile-nav" class="hidden mt-3 md:mt-6">
+			<ul class="flex flex-col gap-6 text-sm font-bold">
+				{{ range where .Site.RegularPages "Type" "page" }}
+					<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+				{{ end }}
+			</ul>	
+		</nav>
+
 		<hr class="my-6" />
 	</div>
 </header>
