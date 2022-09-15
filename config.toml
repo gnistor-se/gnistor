@@ -5,5 +5,5 @@ defaultContentLang = 'sv'
 title = 'Gnistor'
 buildFuture = true
 [taxonomies]
-	location = 'locations' 
-	form = 'forms'  
+	location = 'locations'
+	form = 'forms'
