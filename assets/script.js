@@ -1,6 +1,6 @@
 window.onload = function(event) {
 	let show = 5;
-	let show_hide = 1;
+	let show_hide = 3;
 	let items = document.querySelectorAll('#list li');
 	if ( items.length > 0 ) {
 		show_hide_list( show, items );
@@ -13,6 +13,20 @@ window.onload = function(event) {
 			});
 		});
 	}
+	
+	let toggle_nav = document.querySelectorAll('#toggle-nav');
+	let mobile_nav = document.querySelector('#mobile-nav');
+	let toggle_icons = document.querySelectorAll('#toggle-nav img');
+	toggle_nav.forEach( item => {
+		item.addEventListener( 'click', function() {
+			if ( mobile_nav ) {
+				mobile_nav.classList.toggle('hidden');
+				toggle_icons.forEach( icon => {
+					icon.classList.toggle('hidden');
+				});
+			}
+		});
+	});
 };
 
 function show_hide_list(show, items) {
