@@ -1,4 +1,5 @@
 {{ $scratch := newScratch }}
+{{ $circle := resources.Get "/circle.svg" }}
 
 <div class="container mx-auto px-6">
 	<div class="grid grid-cols-1 md:grid-cols-10 gap-x-28 gap-y-12">
@@ -62,15 +63,16 @@
 				{{ range seq $this_month.Day }}
 					<div class="flex justify-center items-center">
 						{{ $bgColor := "white text-dark" }}
-						{{ if ( eq (string .) (string now.Day) ) }}
-							{{ $bgColor = "marker text-white" }}
-						{{ else if $scratch.Get (string .) }}
+						{{ if $scratch.Get (string .) }}
 							{{ $bgColor = "dark text-white" }}
 						{{ end }}
 						{{ if $scratch.Get (string .) }}
 							{{ $event := $scratch.Get (string .) }}
-							<div class="{{ $bgColor }} rounded-full w-6 h-6 flex justify-center items-center group relative">
+							<div class="{{ $bgColor }} relative rounded-full w-6 h-6 flex justify-center items-center group relative">
 								{{ . }}
+								{{ if ( eq (string .) (string now.Day) ) }}
+									<img src="{{ $circle.RelPermalink }}" class="w-6 h-6 absolute l-0">
+								{{ end }}
 								<span class="tooltip {{ $bgColor }}">
 									{{ range $permalink, $title := $event }}
 										<div>
@@ -80,7 +82,13 @@
 								</span>
 							</div>
 						{{ else }}
-							<div class="{{ $bgColor }} rounded-full w-6 h-6 flex justify-center items-center">{{ . }}</div>
+							<div class="{{ $bgColor }} rounded-full w-6 h-6 flex justify-center items-center">
+								{{ . }}
+								
+								{{ if ( eq (string .) (string now.Day) ) }}
+									<img src="{{ $circle.RelPermalink }}" class="w-6 h-6 absolute l-0">
+								{{ end }}
+							</div>
 						{{ end }}
 					</div>
 				{{ end }}
