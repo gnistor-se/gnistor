@@ -30,26 +30,22 @@ p + p {
 	@apply absolute hidden group-hover:flex flex-col gap-1 leading-tight -top-3 -translate-y-full bg-primary w-48 px-3 py-3 rounded-lg text-center text-white text-xs after:content-[''] after:absolute after:left-1/2 after:top-[100%] after:-translate-x-1/2 after:border-8 after:border-x-transparent after:border-b-transparent after:border-t-primary;
 }
 
-article h1,
-article h2,
-article h3,
-article h4,
-article h5 {
-	@apply my-3;
+article #content h1,
+article #content h2,
+article #content h3,
+article #content h4,
+article #content h5 {
+	@apply my-3 font-bold;
 }
 
-article a {
+article #content a {
 	@apply underline;
 }
 
-article a:hover {
+article #content a:hover {
 	@apply no-underline;
 }
 
-article ul {
+article #content ul {
 	@apply list-disc list-inside;
-}
-
-article h2 {
-	@apply font-bold text-xl;
 }

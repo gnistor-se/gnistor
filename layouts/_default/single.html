@@ -9,22 +9,34 @@
 			</div>
 		{{ end }}
 		
-		<h1 class="font-bold text-3xl md:text-5xl my-9">{{ .Title }}</h1>
+		<h1 class="font-bold text-3xl md:text-5xl my-9 mb-6">{{ .Title }}</h1>
 		
-		<span>{{ .Date.Format "2 January" }}</span>
-		<span>{{ .Date.Format "15:04" }}</span>
-		
-		<ul class="flex flex-row gap-3 list-none">
-			{{ range (.GetTerms "locations") }}
-				<li><a class="underline hover:no-underline" href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
-			{{ end }}
-			{{ range (.GetTerms "forms") }}
-				<li><a class="underline hover:no-underline" href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
-			{{ end }}
-		</ul>
+		{{ if ( eq .Type "event" ) }}
+		<div class="flex flex-row gap-5 md:gap-7 justify-evenly mb-6">
+			<div class="bg-opace px-4 py-3 md:py-4 rounded-2xl flex flex-col justify-between items-center h-20">
+				<h3 class="font-bold text-lg md:text-2xl">{{ .Date.Day }}</h3>
+				<h4 class="text-xs md:text-sm">{{ substr .Date.Month 0 3 | upper }}</h4>
+			</div>
+			<div class="flex-auto overflow-hidden text-sm">
+				<p class="my-1 text-slate-500 truncate">
+					{{ .Date.Format "2 September, klockan 15:04" }}
+				</p> 
+				<p class="my-1 text-slate-500 truncate">
+					{{ if .Params.organizer }} {{ .Params.organizer }}, {{ end }}
+					{{ range (.GetTerms "locations") }}
+						<a href="{{ .Permalink }}" class="underline hover:no-underline">{{ .Title }}</a>
+					{{ end }}
+				</p>
+				
+				{{ range (.GetTerms "forms") }}
+					<a href="{{ .Permalink }}" class="inline-block rounded-full bg-dark hover:bg-opace text-white hover:text-dark px-2 py-1 leading-none text-xs">{{ .Title }}</a>
+				{{ end }}
+			</div>
+		</div>
+		{{ end }}
 	</div>
 
-	<div class="container mx-auto px-6 grid grid-cols-1 md:grid-cols-10 gap-x-28 gap-y-12">
+	<div id="content" class="container mx-auto px-6 grid grid-cols-1 md:grid-cols-10 gap-x-28 gap-y-12">
 		<div class="md:col-span-6 text-sm md:text-base leading-snug">
 			{{ .Content }}
 		</div>
