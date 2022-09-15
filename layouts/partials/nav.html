@@ -3,7 +3,7 @@
 
 		<nav class="flex flex-row justify-between items-center">
 			<div class="font-bold text-2xl">
-				<a href="/">
+				<a href="{{ .Site.BaseURL }}">
 					{{ $asset := resources.Get "/logo.webp" }}
 					<figure class="w-28 md:w-36 mb-6">
 						<img alt="Gnistor" src="{{ $asset.RelPermalink }}" />
@@ -14,7 +14,6 @@
 			{{ range where .Site.RegularPages "Type" "page" }}
 				<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
 			{{ end }}
-				<li><a href="/poddar">Podd</a></li>
 			</ul>
 		</nav>
 		<hr class="my-6" />
