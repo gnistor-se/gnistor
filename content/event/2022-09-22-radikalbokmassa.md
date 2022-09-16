@@ -1,6 +1,7 @@
 ---
 title: Radikal Bokmässa
 date: 2022-09-22 17:00:00
+expirydate: 2022-09-25 17:00:00
 organizer: Syndikalistiskt forum
 locations: [Göteborg]
 forms: [Forum]
