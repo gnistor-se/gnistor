@@ -11,8 +11,6 @@
 				{{ range where . "Type" "event" }}
 					{{ if (or (.Date.After now) (.ExpiryDate.After now)) }}
 						{{ if (eq .Date.Month now.Month ) }}
-							{{ $mapName := (string .Date.Day) }}
-							{{ $scratch.SetInMap $mapName .Permalink .Title }}
 						{{ end }}
 						<li class="flex flex-row gap-5 md:gap-7 justify-evenly">
 							<div class="bg-opace flex-none w-14 md:w-16 rounded-2xl flex flex-col justify-center items-center">
@@ -71,10 +69,46 @@
 				{{ range seq $days_bf }}
 					<div class="text-gray-200 flex justify-center items-center">-</div>
 				{{ end }}
+				{{ $pages := . }}
 				
 				{{ range seq $this_month.Day }}
 					<div class="flex justify-center items-center">
 						{{ $bgColor := "white text-dark" }}
+						
+						{{ $nowdate := . }}
+						{{ $mapName := (string $nowdate) }}
+						{{ range where $pages "Type" "event" }}
+							{{ if .ExpiryDate }} 
+								{{ if 
+								(and
+									(and 
+										(or 
+											(gt .ExpiryDate.Day $nowdate)
+											(eq .ExpiryDate.Day $nowdate)
+										)
+										(or
+											(gt $nowdate .Date.Day)
+											(eq $nowdate .Date.Day)
+										)
+									)
+									(eq .Date.Month $this_month.Month)
+								)
+								}}
+									{{ $scratch.SetInMap $mapName .Permalink .Title }}
+								{{ end }}
+							{{ else }}
+								{{ if
+									(and
+										(eq .Date.Day $nowdate)
+										(eq .Date.Month $this_month.Month)
+									)
+								}}
+									{{ $scratch.SetInMap $mapName .Permalink .Title }}
+								{{ end }}
+							{{ end }}
+							
+						{{ end }}
+						
 						{{ if $scratch.Get (string .) }}
 							{{ $bgColor = "dark text-white" }}
 						{{ end }}
@@ -85,10 +119,12 @@
 								{{ if ( eq (string .) (string now.Day) ) }}
 									<img src="{{ $circle.RelPermalink }}" class="w-6 h-6 absolute l-0">
 								{{ end }}
+								
+								
 								<span class="tooltip {{ $bgColor }}">
 									{{ range $permalink, $title := $event }}
-										<div>
-											<a href="{{ $permalink }}" class="no-underline hover:underline">{{ $title }}</a>
+										<div class="my-1">
+											<a href="{{ $permalink }}" class="no-underline leading-tight hover:underline">{{ $title }}</a>
 										</div>
 									{{ end }}
 								</span>
