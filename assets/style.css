@@ -711,6 +711,18 @@ video {
   flex: 1 1 auto;
 }
 
+.flex-none {
+  flex: none;
+}
+
+.flex-initial {
+  flex: 0 1 auto;
+}
+
+.flex-1 {
+  flex: 1 1 0%;
+}
+
 .grid-cols-1 {
   grid-template-columns: repeat(1, minmax(0, 1fr));
 }
@@ -1176,6 +1188,10 @@ article #content ul {
 
   .md\:w-16 {
     width: 4rem;
+  }
+
+  .md\:w-20 {
+    width: 5rem;
   }
 
   .md\:grid-cols-10 {
