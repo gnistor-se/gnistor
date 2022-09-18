@@ -15,7 +15,7 @@ Vi riktar oss till dig som arbetar som ingenjör i bred bemärkelse, dvs teknikn
 
 Vi som kallar till första träffen är Frida Hjelm och Christina Gratorp. Skicka gärna ett mail till socialistiskaingenjorer [at] gmail [punkt] com om du vill komma, så kan vi reservera bord.
 
-##UPPDATERING!
+## UPPDATERING!
 
 Det kommer också hållas ett möte i Göteborg! Även det 5 oktober kl 19:00, på Old Corner, Artillerigatan 17. Agendan är samma, dvs att ses och bestämma tid och plats för nästa möte. 
 
