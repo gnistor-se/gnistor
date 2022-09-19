@@ -1,6 +1,14 @@
 <footer class="container mx-auto px-6 mt-12">
-	<hr class="border-slate-100" />
-	<div class="my-12 text-sm">
-		Följ Gnistorna via <a href="/index.xml" class="underline hover:no-underline" />RSS</a>.
+	<hr />
+	<div class="mt-12 text-sm flex flex row gap-6 justify-between items-center">
+		<div class="px-3"> 
+			{{ $footer := resources.Get "footer.webp" }}
+			<img class="w-5" src="{{ $footer.Permalink }}">
+		</div>
+		<div class="flex-1">
+			<h2 class="font-bold">(uppdaterad {{ now | time.Format ":date_long" }})</h2>
+			<p class="my-1">Sida använder <em>inga kakor, ingen tracking och har ingen reklam</em>.</p>
+			<p class="my-1">Följ Gnistorna via <a href="/index.xml" class="underline hover:no-underline" />RSS</a>.</p>
+		</div>
 	</div>
 </footer>
