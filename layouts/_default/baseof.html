@@ -1,13 +1,13 @@
 <!doctype html>
 <html>
-<head>
+<head lang="sv">
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>{{ .Page.Title }}</title>
 	{{ $style := resources.Get "style.css" }}
-	<link rel="stylesheet" href="{{ $style.Permalink }}"> 
+	<link rel="stylesheet" href="{{ $style.Permalink }}" media="print" onload="this.media='all'"> 
 	{{ $audio := resources.Get "essential_audio.css" }}
-	<link rel="stylesheet" href="{{ $audio.Permalink }}"> 
+	<link rel="stylesheet" href="{{ $audio.Permalink }}" media="print" onload="this.media='all'">
 	{{ with .OutputFormats.Get "rss" -}}
   		{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 	{{ end -}}
@@ -36,8 +36,8 @@
 	{{ partial "footer.html" . }}
 	
 	{{ $script := resources.Get "script.js" }}
-	<script src="{{ $script.Permalink }}"> </script>
+	<script src="{{ $script.Permalink }}" defer> </script>
 	{{ $audio := resources.Get "essential_audio.js" }}
-	<script src="{{ $audio.Permalink }}"> </script>
+	<script src="{{ $audio.Permalink }}" defer> </script>
 </body>
 </html>
