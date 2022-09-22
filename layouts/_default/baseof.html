@@ -1,13 +1,15 @@
 <!doctype html>
-<html>
-<head lang="sv">
+<html lang="sv">
+<head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>{{ .Page.Title }}</title>
 	{{ $style := resources.Get "style.css" }}
-	<link rel="stylesheet" href="{{ $style.Permalink }}" media="print" onload="this.media='all'"> 
-	{{ $audio := resources.Get "essential_audio.css" }}
-	<link rel="stylesheet" href="{{ $audio.Permalink }}" media="print" onload="this.media='all'">
+	<link rel="stylesheet" href="{{ $style.Permalink }}" media="print" onload="this.media='all'">
+	{{ if (eq .Page.Type "podcast") }}
+		{{ $audio := resources.Get "essential_audio.css" }}
+		<link rel="stylesheet" href="{{ $audio.Permalink }}" media="print" onload="this.media='all'">
+	{{ end }}
 	{{ with .OutputFormats.Get "rss" -}}
   		{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 	{{ end -}}
@@ -37,7 +39,9 @@
 	
 	{{ $script := resources.Get "script.js" }}
 	<script src="{{ $script.Permalink }}" defer> </script>
-	{{ $audio := resources.Get "essential_audio.js" }}
-	<script src="{{ $audio.Permalink }}" defer> </script>
+	{{ if (eq .Page.Type "podcast") }}
+		{{ $audio := resources.Get "essential_audio.js" }}
+		<script src="{{ $audio.Permalink }}" defer> </script>
+	{{ end }}
 </body>
 </html>
