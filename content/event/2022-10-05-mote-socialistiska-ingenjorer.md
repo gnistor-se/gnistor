@@ -1,6 +1,6 @@
 ---
 title: Uppstartsmöte Socialistiska Ingenjörer!
-date: 2022-10-01 19:00:00
+date: 2022-10-05 19:00:00
 forms: [Möte]
 locations: [Stockholm, Göteborg]
 organizer: Socialistiska Ingenjörer
