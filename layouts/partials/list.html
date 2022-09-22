@@ -117,7 +117,7 @@
 							<div class="{{ $bgColor }} relative rounded-full w-6 h-6 flex justify-center items-center group relative">
 								{{ . }}
 								{{ if ( eq (string .) (string now.Day) ) }}
-									<img src="{{ $circle.RelPermalink }}" class="w-6 h-6 absolute l-0" alt="Dagens datum">
+									<img src="{{ $circle.RelPermalink }}" class="w-6 h-6 absolute l-0" alt="Dagens datum" loading="lazy">
 								{{ end }}
 								
 								
@@ -134,7 +134,7 @@
 								{{ . }}
 								
 								{{ if ( eq (string .) (string now.Day) ) }}
-									<img src="{{ $circle.RelPermalink }}" class="w-6 h-6 absolute l-0" alt="Dagens datum">
+									<img src="{{ $circle.RelPermalink }}" class="w-6 h-6 absolute l-0" alt="Dagens datum" loading="lazy">
 								{{ end }}
 							</div>
 						{{ end }}
@@ -155,7 +155,7 @@
 					<li class="my-6">
 						<a href="{{ .Permalink }}" class="flex flex-row items-center gap-6">
 						<div class="bg-opace rounded-lg w-20 aspect-square overflow-hidden">
-							<img src="{{ $podicon.RelPermalink }}" alt="Tändsticka för sidfot" />
+							<img src="{{ $podicon.RelPermalink }}" alt="Ikon för pod" loading="lazy" />
 						</div>
 						<div class="flex-col gap-1 truncate">
 							<span class="block text-sm text-slate-500">{{ .Date.Format "2 January" }}</span>
