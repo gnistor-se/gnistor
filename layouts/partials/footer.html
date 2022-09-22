@@ -3,7 +3,7 @@
 	<div class="mt-12 text-sm flex flex row gap-6 justify-between items-center">
 		<div class="px-3"> 
 			{{ $footer := resources.Get "footer.webp" }}
-			<img class="w-5" src="{{ $footer.Permalink }}" alt="Tändsticka för sidfot" loading="lazy">
+			<img class="w-5" src="{{ $footer.Permalink }}" width="28" height="148" alt="Tändsticka för sidfot" loading="lazy">
 		</div>
 		<div class="flex-1">
 			<h2 class="font-bold">(uppdaterad {{ now | time.Format ":date_long" }})</h2>
