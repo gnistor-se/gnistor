@@ -6,7 +6,7 @@
 				<a href="{{ .Site.BaseURL }}">
 					{{ $asset := resources.Get "/logo.webp" }}
 					<figure class="w-28 md:w-36 mb-3 md:mb-6">
-						<img alt="Gnistor logotyp" src="{{ $asset.RelPermalink }}" />
+						<img alt="Gnistor logotyp" width="144" height="60" src="{{ $asset.RelPermalink }}" />
 					</figure>
 				</a>
 			</div>
@@ -14,8 +14,8 @@
 			{{ $close := resources.Get "/icons/x.svg" }}
 			<button id="toggle-nav" class="inline-block md:hidden">
 				<span class="sr-only">Visa / dölj meny</span>
-				<img src="{{ $menu.RelPermalink }}" alt="Visa meny">
-				<img class="hidden" src="{{ $close.RelPermalink }}" alt="Dölj meny">
+				<img src="{{ $menu.RelPermalink }}" width="24" height="24" alt="Visa meny">
+				<img class="hidden" src="{{ $close.RelPermalink }}" width="24" height="24" alt="Dölj meny">
 			</button>
 			<ul class="hidden md:inline-block flex flex-row gap-6 text-sm font-bold">
 			{{ range where .Site.RegularPages "Type" "page" }}
