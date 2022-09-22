@@ -117,7 +117,7 @@
 							<div class="{{ $bgColor }} relative rounded-full w-6 h-6 flex justify-center items-center group relative">
 								{{ . }}
 								{{ if ( eq (string .) (string now.Day) ) }}
-									<img src="{{ $circle.RelPermalink }}" class="w-6 h-6 absolute l-0" alt="Dagens datum" loading="lazy">
+									<img src="{{ $circle.RelPermalink }}" class="w-9 h-9 max-w-none absolute l-0" alt="Dagens datum" loading="lazy">
 								{{ end }}
 								
 								
