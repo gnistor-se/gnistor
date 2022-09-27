@@ -1,6 +1,6 @@
 ---
 title: Arbetarens 100-årsfest!
-date: 2022-11-01 19:00:00
+date: 2022-10-01 19:00:00
 forms: [Fest]
 organizer: Tidningen Arbetaren
 locations: [Stockholm]
