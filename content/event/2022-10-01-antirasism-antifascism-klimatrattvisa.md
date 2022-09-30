@@ -5,6 +5,8 @@ forms: [Demonstrationer]
 locations: [Stockholm]
 organizer: Fridays for future
 ---
+Plats: Medborgarplatsen
+
 Efter en rasistisk valrörelse, som fokuserat på ”hårdare tag” och att hitta syndabockar istället för att gå till roten av problem, så är det många av oss som känt oss ensamma i vår sorg och frustration. Är du, precis som vi, trött på svek och saknar en stark rörelse mot rasismen och fascismen? Är du trött på att stå själv? På att känna dig ensam?
 
 Låt inte hopplösheten äta upp dig - organisera dig. Vårt samhälle behöver förändras i grunden, och det enda som tar oss dit är en stor, enad folkrörelse. Det är vi som skapar motståndet - antifascism, antirasism, feminism och klimataktivism - i solidaritet för en bättre värld. Kom med kastruller, höga röster och instrument, redo att väsnas. Skrik ut din frustration i slagord och sång.
