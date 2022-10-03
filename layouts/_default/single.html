@@ -12,28 +12,33 @@
 			</div>
 		{{ end }}
 		
-		<h1 class="font-bold text-3xl md:text-5xl my-9 mb-6">{{ .Title }}</h1>
+		<h1 class="font-bold text-3xl md:text-5xl my-9">{{ .Title }}</h1>
 		
 		{{ if ( eq .Type "event" ) }}
 			<div class="flex flex-row gap-5 md:gap-7 justify-evenly mb-6">
-				<div class="bg-opace w-14 md:w-16 rounded-2xl flex flex-col justify-center items-center">
+				<div class="bg-opace w-14 md:w-16 rounded-2xl gap-1 flex flex-col justify-center items-center">
 				{{ if .ExpiryDate }}
 					<div>
-						<h3 class="tracking-tighter font-bold text-sm m-0">{{ .Date.Day }}-{{ .ExpiryDate.Day }}</h3>
+						<h3 class="leading-none font-bold text-sm m-0">{{ .Date.Day }}</h3>
+						<h3 class="leading-none font-bold text-sm m-0">{{ .ExpiryDate.Day }}</h3>
 					</div>
 					{{ if ( eq (substr .Date.Month 0 3) (substr .ExpiryDate.Month 0 3) )}}
-						<h4 class="text-xs md:text-sm m-0">{{ substr .Date.Month 0 3 | upper }}</h4>
+						<h4 class="text-xs m-0">{{ substr (time.Format "January" .Date) 0 3 | upper }}</h4>
 					{{ else }}
-						<h4 class="text-xs md:text-sm m-0">{{ substr .Date.Month 0 2 | upper }}-{{ substr .ExpiryDate.Month 0 1 | upper }}</h4>
+						<h4 class="text-xs m-0">{{ substr (time.Format "January" .Date) 0 2 | upper }}</h4>
+						<h4 class="text-xs m-0">{{ substr (time.Format "January" .Date) 0 1 | upper }}</h4>
 					{{ end }}
 				{{ else }}
-					<h3 class="font-bold text-lg md:text-2xl">{{ .Date.Day }}</h3>
-					<h4 class="text-xs md:text-sm">{{ substr .Date.Month 0 3 | upper }}</h4>
+					<h3 class="font-bold text-lg">{{ .Date.Day }}</h3>
+					<h4 class="text-xs">{{ substr (time.Format "January" .Date) 0 3 | upper }}</h4>
 				{{ end }}
 			</div>
 			<div class="flex-auto overflow-hidden text-sm">
 				<p class="my-1 text-slate-500 truncate">
-					{{ .Date.Format "2 September, klockan 15:04" }}
+					{{ time.Format "2 January" .Date }}
+					{{ if .ExpiryDate }}
+					– {{ time.Format "2 January" .ExpiryDate }}
+					{{ end }}
 				</p> 
 				<p class="my-1 text-slate-500 truncate">
 					{{ if .Params.organizer }} {{ .Params.organizer }}, {{ end }}

@@ -19,13 +19,13 @@
 										<h3 class="tracking-tighter font-bold text-sm m-0">{{ .Date.Day }}-{{ .ExpiryDate.Day }}</h3>
 									</div>
 									{{ if ( eq (substr .Date.Month 0 3) (substr .ExpiryDate.Month 0 3) )}}
-										<h4 class="text-xs md:text-sm m-0">{{ substr .Date.Month 0 3 | upper }}</h4>
+										<h4 class="text-xs m-0">{{ substr (time.Format "January" .Date) 0 3 | upper }}</h4>
 									{{ else }}
-										<h4 class="text-xs md:text-sm m-0">{{ substr .Date.Month 0 2 | upper }}-{{ substr .ExpiryDate.Month 0 1 | upper }}</h4>
+										<h4 class="text-xs m-0">{{ substr (time.Format "January" .Date) 0 2 | upper }}-{{ substr (time.Format "January" .ExpiryDate) 0 1 | upper }}</h4>
 									{{ end }}
 								{{ else }}
-									<h3 class="font-bold text-lg md:text-2xl m-0">{{ .Date.Day }}</h3>
-									<h4 class="text-xs md:text-sm m-0">{{ substr .Date.Month 0 3 | upper }}</h4>
+									<h3 class="font-bold text-lg m-0">{{ .Date.Day }}</h3>
+									<h4 class="text-xs md:text-sm m-0">{{ substr (time.Format "January" .Date) 0 3 | upper }}</h4>
 								{{ end }}
 							</div>
 							<a class="flex-1 overflow-hidden text-xs md:text-sm" href="{{ .Permalink }}">
