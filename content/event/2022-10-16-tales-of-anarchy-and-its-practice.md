@@ -3,7 +3,7 @@ title: Tales of anarchy and its practice
 locations: [Stockholm]
 organizer: Nattsvart Verkstad
 forms: [Studiecirklar]
-date: 2022-09-18 13:00:00
+date: 2022-10-16 13:00:00
 ---
 Tales of anarchy and its practice, part 3 - Contemporary anarchist thoughts
 Short url: https://squ.at/r/8v9c
