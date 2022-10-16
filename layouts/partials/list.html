@@ -51,11 +51,11 @@
 		
 		<div class="md:col-span-4">
 			<hr class="md:hidden mb-9" />
-			<h2 class="font-bold md:text-lg mb-6 md:mb-9">September</h2>
 			{{ $weekdays := dict "Monday" 0 "Tuesday" 1 "Wednesday" 2 "Thursday" 3 "Friday" 4 "Saturday" 5 "Sunday" 6 }}
-			{{ $this_month := (now.AddDate 0 1 (int (sub now.Day (mul now.Day 2 )))) }}
-			{{ $days_bf := index $weekdays (string $this_month.Weekday) }}
-			{{ $days_af := (sub 35 (add (int $this_month.Day) $days_bf )) }}
+			{{ $first_day_this_month := (now.AddDate 0 0 (int (add (sub now.Day (mul now.Day 2 )) 1))) }}
+			{{ $last_day_this_month := (now.AddDate 0 1 (int (sub now.Day (mul now.Day 2 )))) }}
+			{{ $days_bf := index $weekdays (string $first_day_this_month.Weekday) }}
+			<h2 class="font-bold md:text-lg mb-6 md:mb-9">{{ $first_day_this_month.Month }}</h2>
 			
 			<div class="grid grid-cols-7 gap-1 text-xs my-6 md:my-9">
 				<div class="flex justify-center items-center">Mån</div>
@@ -71,7 +71,7 @@
 				{{ end }}
 				{{ $pages := . }}
 				
-				{{ range seq $this_month.Day }}
+				{{ range seq $last_day_this_month.Day }}
 					<div class="flex justify-center items-center">
 						{{ $bgColor := "white text-dark" }}
 						
@@ -91,7 +91,7 @@
 											(eq $nowdate .Date.Day)
 										)
 									)
-									(eq .Date.Month $this_month.Month)
+									(eq .Date.Month $last_day_this_month.Month)
 								)
 								}}
 									{{ $scratch.SetInMap $mapName .Permalink .Title }}
@@ -100,7 +100,7 @@
 								{{ if
 									(and
 										(eq .Date.Day $nowdate)
-										(eq .Date.Month $this_month.Month)
+										(eq .Date.Month $last_day_this_month.Month)
 									)
 								}}
 									{{ $scratch.SetInMap $mapName .Permalink .Title }}
@@ -139,10 +139,6 @@
 							</div>
 						{{ end }}
 					</div>
-				{{ end }}
-				
-				{{ range seq $days_af }}
-					<div class="text-gray-200 flex justify-center items-center">-</div>
 				{{ end }}
 			</div>
 			
