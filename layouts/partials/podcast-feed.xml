@@ -1,0 +1,93 @@
+{{ `<?xml version="1.0" encoding="utf-8"?>` | safeHTML }}
+<rss version="2.0"
+	 xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	 xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	 xmlns:dc="http://purl.org/dc/elements/1.1/"
+	 xmlns:atom="http://www.w3.org/2005/Atom"
+	 xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	 xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	 xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		{{ $assetFormat := .Scratch.Get "asset-format" }}
+		<title>{{ .Site.Title}}</title>
+		<atom:link href="{{.Site.BaseURL}}feed/{{$assetFormat}}/index.xml" rel="self" type="application/rss+xml"/>
+		<link>{{.Site.BaseURL}}</link>
+		<description>{{.Site.Params.podcast.description}}</description>
+		<lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<language>en</language>
+		<copyright>Copyright &#xA9; {{.Site.Title}}</copyright>
+		<managingEditor>{{.Site.Params.author.email}} ({{ .Site.Params.author.name }})</managingEditor>
+		<webMaster>{{.Site.Params.author.email}} ({{ .Site.Params.author.name }})</webMaster>
+
+		<itunes:new-feed-url>{{.Site.BaseURL}}feed/{{$assetFormat}}/</itunes:new-feed-url>
+		<itunes:type>episodic</itunes:type>
+		<itunes:subtitle>{{.Site.Params.podcast.tagline}}</itunes:subtitle>
+		<itunes:summary>{{.Site.Params.podcast.description}}</itunes:summary>
+		<itunes:keywords></itunes:keywords>
+		<itunes:category text="Arts">
+			<itunes:category text="Food"/>
+		</itunes:category>
+		<itunes:category text="Health &amp; Fitness">
+			<itunes:category text="Nutrition"/>
+		</itunes:category>
+		<itunes:category text="Education">
+			<itunes:category text="Courses"/>
+		</itunes:category>
+		<itunes:category text="History"/>
+
+		<itunes:author>{{.Site.Params.author.name}}</itunes:author>
+		<itunes:owner>
+			<itunes:name>{{.Site.Params.author.name}}</itunes:name>
+			<itunes:email>{{.Site.Params.author.email}}</itunes:email>
+		</itunes:owner>
+		<itunes:block>no</itunes:block>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="{{ .Site.BaseURL }}images/logo_feed.png"/>
+		{{ range (where .Site.RegularPages "Type" "podcast")}}
+		{{ .Scratch.Set "asset" .Params.aac }}
+		{{if eq $assetFormat "mp3"}}
+		{{ .Scratch.Set "asset" .Params.mp3 }}
+		{{end}}
+		<item>
+			<link>{{.Permalink}}</link>
+			<title>{{ .Params.number }}. {{ .Params.title }}</title>
+			<pubDate>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:00 -0700" }}</pubDate>
+			<description>{{ .Params.short_description }}</description>
+
+			<enclosure url='{{.Site.Params.podcast.download_url}}{{ (.Scratch.Get "asset").asset_link | safeHTML }}'
+					   length='{{ (.Scratch.Get "asset").length }}' type="audio/{{$assetFormat}}"/>
+			<guid>{{.Site.BaseURL}}{{ if .Params.guid }}{{ .Params.guid }}{{ else }}{{ .Params.number }}{{ end }}/</guid>
+
+			<itunes:author>{{.Site.Params.author.name}}</itunes:author>
+			<itunes:episode>{{ .Params.number }}</itunes:episode>
+			<itunes:title>{{ .Params.title }}</itunes:title>
+			<itunes:summary>{{ .Content | plainify }}</itunes:summary>
+			<itunes:subtitle>{{ .Params.short_description | plainify }}</itunes:subtitle>
+			<content:encoded>{{ `<![CDATA[` | safeHTML }}{{ .Content }}{{ `]]>` | safeHTML }}</content:encoded>
+			{{ $scratch := newScratch }}
+			{{ if isset .Params "image" }}
+			{{ $originalImg := resources.Get .Params.image.url }}
+			{{ if $originalImg }}
+				{{ $thumbnailImg := $originalImg.Fit "3000x3000" }}
+				{{ $scratch.Set "image" $thumbnailImg.RelPermalink }}
+			{{else}}
+				{{ $scratch.Set "image"  "images/thumbnail.svg" }}
+			{{end}}
+			{{ else }}
+				{{ $scratch.Set "image" (printf "%simages/logo_feed.png" .Site.Params.podcast.cdn_url) }}
+			{{ end }}
+			{{ $image := $scratch.Get "image" }}
+			<itunes:image
+					href="{{ (absURL $image) }}"/>
+			<itunes:duration>{{ .Params.duration }}</itunes:duration>
+			<itunes:keywords>{{ delimit .Params.tags ", " }}</itunes:keywords>
+			<itunes:episodeType>{{ .Params.eptype }}</itunes:episodeType>
+		</item>
+
+		{{end}}
+
+	</channel>
+</rss>

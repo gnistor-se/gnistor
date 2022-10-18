@@ -11,3 +11,23 @@ buildFuture = true
 	changefreq = 'always'
 	filename = 'sitemap.xml'
 	priority = 0.5
+[outputFormats]
+[outputFormats.mp3feed]
+	mediatype = "application/rss+xml"
+	path = "/feed/mp3"
+[outputFormats.aacfeed]
+	mediatype = "application/rss+xml"
+	path = "/feed/aac"
+[outputs]
+	home = [ "HTML", "RSS", "mp3feed", "aacfeed" ]
+[params]
+[params.author]
+	name = 'Gnistor'
+	email = 'hej@gnistor.se'
+[params.podcast]
+	description = '<podcast description>'
+	tagline = 'Foodie Flashback - Food & Memories'
+	download_url = 'https://media.gnistor.se/'
+	cdn_url = 'https://media.gnistor.se/'
+	itunes_url = 'https://podcasts.apple.com/us/podcast/foodie-flashback/id1504783815'
+	itunes_id = 'id1504783815'
