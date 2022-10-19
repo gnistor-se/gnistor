@@ -6,7 +6,7 @@
 	<title>{{ .Page.Title }}</title>
 	{{ $style := resources.Get "style.min.css" }}
 	<link rel="stylesheet" href="{{ $style.Permalink }}" media="print" onload="this.media='all'">
-	{{ if (eq .Page.Type "podcast") }}
+	{{ if .Params.podcast }}
 		{{ $audio := resources.Get "essential_audio.css" }}
 		<link rel="stylesheet" href="{{ $audio.Permalink }}" media="print" onload="this.media='all'">
 	{{ end }}
@@ -39,7 +39,7 @@
 	
 	{{ $script := resources.Get "script.js" }}
 	<script src="{{ $script.Permalink }}" defer> </script>
-	{{ if (eq .Page.Type "podcast") }}
+	{{ if .Params.podcast }}
 		{{ $audio := resources.Get "essential_audio.js" }}
 		<script src="{{ $audio.Permalink }}" defer> </script>
 	{{ end }}

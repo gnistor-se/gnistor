@@ -5,6 +5,10 @@ expirydate: 2022-10-23 15:00:00
 organizer: Klimataktion
 locations: [Stockholm]
 forms: [Forum]
+podcast:
+  asset_link: 2022-10-22-framtidsforum-stockholm.mp3
+  length: 4213618
+  duration: "04:28"
 ---
 Hur kan vi mobilisera fler i klimatarbetet och inspirera människor i vår omgivning? Hur kan vi bli mer effektiva och kommunicera bättre för att uppnå våra mål? 
 

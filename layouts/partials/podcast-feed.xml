@@ -45,12 +45,11 @@
 		</itunes:owner>
 		<itunes:block>no</itunes:block>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:image href="{{ .Site.BaseURL }}images/logo_feed.png"/>
-		{{ range (where .Site.RegularPages "Type" "podcast")}}
-		{{ .Scratch.Set "asset" .Params.aac }}
-		{{if eq $assetFormat "mp3"}}
+		{{ range where .Site.RegularPages "Type" "page" }}
+			{{ .Title }}
+		{{ end }}
+		{{ range (where .Site.RegularPages "Type" "event")}}
 		{{ .Scratch.Set "asset" .Params.mp3 }}
-		{{end}}
 		<item>
 			<link>{{.Permalink}}</link>
 			<title>{{ .Params.number }}. {{ .Params.title }}</title>
@@ -83,8 +82,8 @@
 			<itunes:image
 					href="{{ (absURL $image) }}"/>
 			<itunes:duration>{{ .Params.duration }}</itunes:duration>
-			<itunes:keywords>{{ delimit .Params.tags ", " }}</itunes:keywords>
-			<itunes:episodeType>{{ .Params.eptype }}</itunes:episodeType>
+			<itunes:keywords>Politik</itunes:keywords>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 
 		{{end}}

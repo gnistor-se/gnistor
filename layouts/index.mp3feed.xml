@@ -45,45 +45,44 @@
 		<itunes:block>no</itunes:block>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="{{ .Site.BaseURL }}images/logo_feed.png"/>
-		{{ range (where .Site.RegularPages "Type" "podcast")}}
-		{{ .Scratch.Set "asset" .Params.mp3 }}
-		<item>
-			<link>{{.Permalink}}</link>
-			<title>{{ .Params.number }}. {{ .Params.title }}</title>
-			<pubDate>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:00 -0700" }}</pubDate>
-			<description>{{ .Params.short_description }}</description>
-
-			<enclosure url='{{.Site.Params.podcast.download_url}}{{ (.Scratch.Get "asset").asset_link | safeHTML }}'
-					   length='{{ (.Scratch.Get "asset").length }}' type="audio/mp3"/>
-			<guid>{{.Permalink}}</guid>
-
-			<itunes:author>{{.Site.Params.author.name}}</itunes:author>
-			<itunes:episode>{{ .Params.number }}</itunes:episode>
-			<itunes:title>{{ .Params.title }}</itunes:title>
-			<itunes:summary>{{ .Content | plainify }}</itunes:summary>
-			<itunes:subtitle>{{ .Params.short_description | plainify }}</itunes:subtitle>
-			<content:encoded>{{ `<![CDATA[` | safeHTML }}{{ .Content }}{{ `]]>` | safeHTML }}</content:encoded>
-			{{ $scratch := newScratch }}
-			{{ if isset .Params "image" }}
-			{{ $originalImg := resources.Get .Params.image.url }}
-			{{ if $originalImg }}
-				{{ $thumbnailImg := $originalImg.Fit "3000x3000" }}
-				{{ $scratch.Set "image" $thumbnailImg.RelPermalink }}
-			{{else}}
-				{{ $scratch.Set "image"  "images/thumbnail.svg" }}
+		{{ range  .Site.RegularPages}}
+			{{ if .Params.podcast }}
+			<item>
+				<link>{{.Permalink}}</link>
+				<title>{{ .Params.title }}, {{ .Params.Date | time.Format ":date_long" }}</title>
+				<pubDate>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:00 -0700" }}</pubDate>
+				<description>{{ .Params.short_description }}</description>
+	
+				<enclosure url='{{.Site.Params.podcast.download_url}}{{ .Params.podcast.asset_link | safeHTML }}'
+					   	length='{{ .Params.podcast.length }}' type="audio/mp3"/>
+				<guid>{{.Permalink}}</guid>
+	
+				<itunes:author>{{.Site.Params.author.name}}</itunes:author>
+				<itunes:episode>{{ .Params.number }}</itunes:episode>
+				<itunes:title>{{ .Params.title }}</itunes:title>
+				<itunes:summary>{{ .Content | plainify }}</itunes:summary>
+				<itunes:subtitle>{{ .Params.short_description | plainify }}</itunes:subtitle>
+				<content:encoded>{{ `<![CDATA[` | safeHTML }}{{ .Content }}{{ `]]>` | safeHTML }}</content:encoded>
+				{{ $scratch := newScratch }}
+				{{ if isset .Params "image" }}
+				{{ $originalImg := resources.Get .Params.image.url }}
+				{{ if $originalImg }}
+					{{ $thumbnailImg := $originalImg.Fit "3000x3000" }}
+					{{ $scratch.Set "image" $thumbnailImg.RelPermalink }}
+				{{else}}
+					{{ $scratch.Set "image"  "images/thumbnail.svg" }}
+				{{end}}
+				{{ else }}
+					{{ $scratch.Set "image" (printf "%simages/logo_feed.png" .Site.Params.podcast.cdn_url) }}
+				{{ end }}
+				{{ $image := $scratch.Get "image" }}
+				<itunes:image
+						href="{{ (absURL $image) }}"/>
+				<itunes:duration>{{ .Params.duration }}</itunes:duration>
+				<itunes:keywords>Politik</itunes:keywords>
+				<itunes:episodeType>{full</itunes:episodeType>
+			</item>
 			{{end}}
-			{{ else }}
-				{{ $scratch.Set "image" (printf "%simages/logo_feed.png" .Site.Params.podcast.cdn_url) }}
-			{{ end }}
-			{{ $image := $scratch.Get "image" }}
-			<itunes:image
-					href="{{ (absURL $image) }}"/>
-			<itunes:duration>{{ .Params.duration }}</itunes:duration>
-			<itunes:keywords>{{ delimit .Params.tags ", " }}</itunes:keywords>
-			<itunes:episodeType>{{ .Params.eptype }}</itunes:episodeType>
-		</item>
-
 		{{end}}
-
 	</channel>
 </rss>

@@ -1,15 +1,19 @@
 <footer class="container mx-auto px-6 mt-12">
 	<hr />
 	<div class="mt-12 text-sm flex flex row gap-6 justify-between items-center">
-		<div class="px-3"> 
+		<div class="px-3 self-end"> 
 			{{ $footer := resources.Get "footer.webp" }}
 			<img class="w-5" src="{{ $footer.Permalink }}" width="28" height="148" alt="Tändsticka för sidfot" loading="lazy">
 		</div>
 		<div class="flex-1">
 			<h2 class="font-bold">(uppdaterad {{ now | time.Format ":date_long" }})</h2>
-			<p class="my-1">Sidan använder <em>inga kakor, ingen tracking och har ingen reklam</em>.</p>
-			<p class="my-1"><a class="underline hover:no-underline" href="mailto:{{.Site.Params.author.email}}">{{.Site.Params.author.email}}</a></p>
-			<p class="my-1">Följ Gnistorna via <a href="{{ .Site.BaseURL }}index.xml" class="underline hover:no-underline" />RSS</a>.</p>
+			<p class="my-1">Sidan använder <em>inga kakor, ingen spårning och har ingen reklam</em>.</p>
+			<div class="flex flex-col md:flex-row md:gap-6 my-1 md:items-center">
+				<div><a class="underline hover:no-underline" href="mailto:{{.Site.Params.author.email}}">{{.Site.Params.author.email}}</a></div>
+				<div><a href="{{ .Site.BaseURL }}index.xml" class="underline hover:no-underline" />Gnistor kalendarium RSS</a>
+				</div>
+				<div><a href="{{ .Site.BaseURL }}/feed/mp3/index.xml" class="underline hover:no-underline" />Gnistor podcast RSS</a>.</div>
+			</div>
 		</div>
 	</div>
 </footer>
