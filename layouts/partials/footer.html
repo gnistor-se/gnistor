@@ -8,6 +8,7 @@
 		<div class="flex-1">
 			<h2 class="font-bold">(uppdaterad {{ now | time.Format ":date_long" }})</h2>
 			<p class="my-1">Sidan använder <em>inga kakor, ingen tracking och har ingen reklam</em>.</p>
+			<p class="my-1"><a class="underline hover:no-underline" href="mailto:{{.Site.Params.author.email}}">{{.Site.Params.author.email}}</a></p>
 			<p class="my-1">Följ Gnistorna via <a href="{{ .Site.BaseURL }}index.xml" class="underline hover:no-underline" />RSS</a>.</p>
 		</div>
 	</div>
