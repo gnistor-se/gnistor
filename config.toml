@@ -15,11 +15,8 @@ buildFuture = true
 [outputFormats.mp3feed]
 	mediatype = "application/rss+xml"
 	path = "/feed/mp3"
-[outputFormats.aacfeed]
-	mediatype = "application/rss+xml"
-	path = "/feed/aac"
 [outputs]
-	home = [ "HTML", "RSS", "mp3feed", "aacfeed" ]
+	home = [ "HTML", "RSS", "mp3feed" ]
 [params]
 [params.author]
 	name = 'Gnistor'
