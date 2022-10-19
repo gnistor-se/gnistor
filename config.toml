@@ -22,9 +22,7 @@ buildFuture = true
 	name = 'Gnistor'
 	email = 'hej@gnistor.se'
 [params.podcast]
-	description = '<podcast description>'
-	tagline = 'Foodie Flashback - Food & Memories'
+	description = 'Gnistor är en mikro-podd där vi försöker ta reda på vad som händer bland Sveriges sociala rörelser. I varje avsnitt ställer vi några snabba frågor till en grupp eller en person som har något spännande som på gång.'
+	tagline = 'Gnistor, en podd som rör sig.'
 	download_url = 'https://media.gnistor.se/'
 	cdn_url = 'https://media.gnistor.se/'
-	itunes_url = 'https://podcasts.apple.com/us/podcast/foodie-flashback/id1504783815'
-	itunes_id = 'id1504783815'
