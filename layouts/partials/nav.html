@@ -17,10 +17,11 @@
 				<img src="{{ $menu.RelPermalink }}" width="24" height="24" alt="Visa meny">
 				<img class="hidden" src="{{ $close.RelPermalink }}" width="24" height="24" alt="Dölj meny">
 			</button>
-			<ul class="hidden md:inline-block flex flex-row gap-6 text-sm font-bold">
-			{{ range where .Site.RegularPages "Type" "page" }}
-				<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-			{{ end }}
+			<ul class="hidden md:inline-flex flex flex-row gap-6 text-sm font-bold">
+				<li><a href="{{ .Site.BaseURL }}">Hem</a></li>
+				{{ range where .Site.RegularPages "Type" "page" }}
+					<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+				{{ end }}
 			</ul>
 		</nav>
 		<nav id="mobile-nav" class="hidden mt-3 md:mt-6">

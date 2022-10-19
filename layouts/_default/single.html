@@ -19,8 +19,7 @@
 				<div class="bg-opace w-14 md:w-16 rounded-2xl gap-1 flex flex-col justify-center items-center">
 				{{ if .ExpiryDate }}
 					<div>
-						<h3 class="leading-none font-bold text-sm m-0">{{ .Date.Day }}</h3>
-						<h3 class="leading-none font-bold text-sm m-0">{{ .ExpiryDate.Day }}</h3>
+						<h3 class="tracking-tighter font-bold text-sm m-0">{{ .Date.Day }}-{{ .ExpiryDate.Day }}</h3>
 					</div>
 					{{ if ( eq (substr .Date.Month 0 3) (substr .ExpiryDate.Month 0 3) )}}
 						<h4 class="text-xs m-0">{{ substr (time.Format "January" .Date) 0 3 | upper }}</h4>
