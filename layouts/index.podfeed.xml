@@ -44,7 +44,7 @@
 		</itunes:owner>
 		<itunes:block>no</itunes:block>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:image href="{{ .Site.Params.podcast.cdn_url }}/gnistor-podcast-logo.png"/>
+		<itunes:image href="{{ .Site.Params.podcast.cdn_url }}gnistor-podcast-logo.png"/>
 		{{ range  .Site.RegularPages}}
 			{{ if .Params.podcast }}
 			<item>
@@ -63,24 +63,11 @@
 				<itunes:summary>{{ .Content | plainify }}</itunes:summary>
 				<itunes:subtitle>{{ .Params.short_description | plainify }}</itunes:subtitle>
 				<content:encoded>{{ `<![CDATA[` | safeHTML }}{{ .Content }}{{ `]]>` | safeHTML }}</content:encoded>
-				{{ $scratch := newScratch }}
-				{{ if isset .Params "image" }}
-				{{ $originalImg := resources.Get .Params.image.url }}
-				{{ if $originalImg }}
-					{{ $thumbnailImg := $originalImg.Fit "3000x3000" }}
-					{{ $scratch.Set "image" $thumbnailImg.RelPermalink }}
-				{{else}}
-					{{ $scratch.Set "image"  "images/thumbnail.svg" }}
-				{{end}}
-				{{ else }}
-					{{ $scratch.Set "image" (printf "%simages/logo_feed.png" .Site.Params.podcast.cdn_url) }}
-				{{ end }}
-				{{ $image := $scratch.Get "image" }}
 				<itunes:image
-						href="{{ (absURL $image) }}"/>
+						href="{{ .Site.Params.podcast.cdn_url }}gnistor-podcast-logo.png"/>
 				<itunes:duration>{{ .Params.duration }}</itunes:duration>
 				<itunes:keywords>Politik</itunes:keywords>
-				<itunes:episodeType>{full</itunes:episodeType>
+				<itunes:episodeType>full</itunes:episodeType>
 			</item>
 			{{end}}
 		{{end}}

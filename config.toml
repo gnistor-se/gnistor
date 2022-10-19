@@ -12,11 +12,11 @@ buildFuture = true
 	filename = 'sitemap.xml'
 	priority = 0.5
 [outputFormats]
-[outputFormats.mp3feed]
+[outputFormats.podfeed]
 	mediatype = "application/rss+xml"
-	path = "/feed/mp3"
+	path = "/podcast"
 [outputs]
-	home = [ "HTML", "RSS", "mp3feed" ]
+	home = [ "HTML", "RSS", "podfeed" ]
 [params]
 [params.author]
 	name = 'Gnistor'
