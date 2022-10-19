@@ -25,6 +25,7 @@
 		</nav>
 		<nav id="mobile-nav" class="hidden mt-3 md:mt-6">
 			<ul class="flex flex-col gap-6 text-sm font-bold">
+				<li><a href="{{ .Site.BaseURL }}">Hem</a></li>
 				{{ range where .Site.RegularPages "Type" "page" }}
 					<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
 				{{ end }}
