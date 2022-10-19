@@ -1,6 +1,6 @@
 ---
 title: Fackeltåg till minne av Kristallnatten
-date: 2022-11-09 17:00:00
+date: 2022-11-09 18:00:00
 organizer: Göteborgare mot nazism m.fl.
 forms: [Demonstationer]
 locations: [Göteborg]
