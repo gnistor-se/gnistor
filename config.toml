@@ -15,8 +15,11 @@ buildFuture = true
 [outputFormats.podfeed]
 	mediatype = "application/rss+xml"
 	path = "/podcast"
+[outputFormats.feed]
+	mediatype = "application/rss+xml"
+	path = "/feed"
 [outputs]
-	home = [ "HTML", "RSS", "podfeed" ]
+	home = [ "HTML", "feed", "podfeed" ]
 [params]
 [params.author]
 	name = 'Gnistor'

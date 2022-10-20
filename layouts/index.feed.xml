@@ -1,0 +1,23 @@
+{{ `<?xml version="1.0" encoding="utf-8" standalone="yes"?>` | safeHTML }}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>{{ .Site.Title}}</title>
+		<link>{{.Site.BaseURL}}</link>
+		<description>{{.Site.Params.podcast.description}}</description>
+		<lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
+		<language>sv-SE</language>
+		<generator>Hugo -- gohugo.io</generator>
+		{{ range where .Site.RegularPages "Type" "event"}}
+			{{ if isset .Params "podcast" }}
+			{{ else }}
+			<item>
+				<title>{{ .Params.title }}</title>
+				<link>{{.Permalink}}</link>
+				<guid>{{.Permalink}}</guid>
+				<pubDate>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:00 -0700" | safeHTML }}</pubDate>
+				<description>{{ .Content | plainify | truncate 257 }}</description>
+			</item>
+			{{end}}
+		{{end}}
+	</channel>
+</rss>
