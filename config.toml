@@ -4,6 +4,7 @@ defaultContentLanguage = 'sv'
 defaultContentLang = 'sv'
 title = 'Gnistor'
 buildFuture = true
+timeZone = 'Europe/Stockholm'
 [taxonomies]
 	location = 'locations'
 	form = 'forms'

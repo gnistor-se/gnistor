@@ -4,7 +4,7 @@
 		<title>{{ .Site.Title}}</title>
 		<link>{{.Site.BaseURL}}</link>
 		<description>{{.Site.Params.podcast.description}}</description>
-		<lastBuildDate>{{ now.Format "Mon, 02 Jan 2006 15:04:00 CEST" | safeHTML }}</lastBuildDate>
+		<lastBuildDate>{{ now.Format "02 Jan 06 15:04 MST" | safeHTML }}</lastBuildDate>
 		<language>sv-SE</language>
 		<atom:link href="{{.Site.BaseURL}}feed/index.xml" rel="self" type="application/rss+xml"/>
 		<generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,7 @@
 				<title>{{ .Params.title }}</title>
 				<link>{{.Permalink}}</link>
 				<guid>{{.Permalink}}</guid>
-				<pubDate>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:00 CEST" | safeHTML }}</pubDate>
+				<pubDate>{{ .PublishDate.Format "02 Jan 06 15:04 MST" | safeHTML }}</pubDate>
 				<description>{{ .Content | plainify | truncate 257 }}</description>
 			</item>
 			{{end}}
