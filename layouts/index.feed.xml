@@ -9,8 +9,6 @@
 		<atom:link href="{{.Site.BaseURL}}feed/index.xml" rel="self" type="application/rss+xml"/>
 		<generator>Hugo -- gohugo.io</generator>
 		{{ range where .Site.RegularPages "Type" "event"}}
-			{{ if isset .Params "podcast" }}
-			{{ else }}
 			<item>
 				<title>{{ .Params.title }}</title>
 				<link>{{.Permalink}}</link>
@@ -18,7 +16,6 @@
 				<pubDate>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:00 MST" | safeHTML }}</pubDate>
 				<description>{{ .Content | plainify | truncate 257 }}</description>
 			</item>
-			{{end}}
 		{{end}}
 	</channel>
 </rss>
