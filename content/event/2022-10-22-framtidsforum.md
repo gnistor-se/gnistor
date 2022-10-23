@@ -1,7 +1,7 @@
 ---
 title: Framtidsforum
 date: 2022-10-22 09:00:00
-expirydate: 2022-10-23 15:00:00
+enddate: 2022-10-23 22:00:00
 organizer: Klimataktion
 locations: [Stockholm]
 forms: [Forum]

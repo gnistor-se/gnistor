@@ -1,7 +1,7 @@
 ---
 title: Feministisk festival 2022
 date: 2022-11-11 10:00:00
-expirydate: 2022-11-13 17:00:00
+enddate: 2022-11-13 17:00:00
 forms: [Forum]
 organizer: Feministisk festival
 locations: [Malmö]
