@@ -106,15 +106,15 @@
 				<li class="my-6">
 					<a href="{{ .Permalink }}" class="flex flex-row items-center gap-6">
 					<div class="bg-opace rounded-lg w-20 aspect-square overflow-hidden">
-						<img src="{{ .Site.Params.podcast.cdn_url }}/gnistor-podcast-logo.png" alt="Ikon för pod" class="w-20" width="65" height="65" loading="lazy" />
+						<img src="{{ .Site.Params.podcast.cdn_url }}/gnistor-podcast-logo.png" alt="Ikon för pod" class="w-20 h-20" width="65" height="65" loading="lazy" />
 					</div>
-					<div class="flex-col gap-1 truncate">
+					<div class="flex-col flex-1 gap-1 truncate">
 						<span class="block text-sm text-slate-500">{{ .Params.Date | time.Format ":date_long" }}</span>
 						<span class="text-sm font-bold" >{{ .Title }}</span>
 						<span class="block text-sm text-slate-500">Podcast</span>
 					</div>
 					</a>
-				</div>
+				</li>
 				{{ end }}
 			{{ end }}
 		</ul>
