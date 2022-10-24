@@ -40,7 +40,7 @@
 			<item>
 				<link>{{.Permalink}}</link>
 				<title>{{ .Params.title }}, {{ .Params.Date | time.Format ":date_long" }}</title>
-				<pubDate>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:00 -0700" }}</pubDate>
+				<pubDate>{{ (time .Params.pub_date).Format "Mon, 02 Jan 2006 15:04:00 -0700" }}</pubDate>
 				<description>{{ .Params.short_description }}</description>
 	
 				<enclosure url='{{.Site.Params.podcast.download_url}}{{ .Params.podcast.asset_link | safeHTML }}'
