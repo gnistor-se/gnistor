@@ -101,7 +101,7 @@
 		<h2 class="font-bold md:text-lg mb-6 md:mb-9">Senaste podcast</h2>
 		
 		<ul>
-			{{ range .  }}
+			{{ range (sort . ".Params.date" "desc") }}
 				{{ if .Params.podcast }}
 				<li class="my-6">
 					<a href="{{ .Permalink }}" class="flex flex-row items-center gap-6">
