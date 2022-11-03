@@ -9,7 +9,7 @@ forms: [Forum]
 podcast:
   asset_link: 2022-10-22-framtidsforum-stockholm.mp3
   length: 4213618
-  duration: "04:28"
+  duration: 00:04:28
   short_description: "Hur kan vi mobilisera fler i klimatarbetet och inspirera människor i vår omgivning? Hur kan vi bli mer effektiva och kommunicera bättre för att uppnå våra mål?"
 ---
 Hur kan vi mobilisera fler i klimatarbetet och inspirera människor i vår omgivning? Hur kan vi bli mer effektiva och kommunicera bättre för att uppnå våra mål? 
