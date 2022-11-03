@@ -54,7 +54,7 @@
 				<content:encoded>{{ `<![CDATA[` | safeHTML }}{{ .Content }}{{ `]]>` | safeHTML }}</content:encoded>
 				<itunes:image
 						href="{{ .Site.Params.podcast.cdn_url }}gnistor-podcast-logo.png"/>
-				<itunes:duration>{{ .Params.duration }}</itunes:duration>
+				<itunes:duration>{{ .Params.podcast.duration }}</itunes:duration>
 				<itunes:keywords>Politics</itunes:keywords>
 				<itunes:episodeType>full</itunes:episodeType>
 			</item>
