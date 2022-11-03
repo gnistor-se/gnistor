@@ -13,7 +13,7 @@
 		<atom:link href="{{.Site.BaseURL}}feed/mp3/index.xml" rel="self" type="application/rss+xml"/>
 		<link>{{.Site.BaseURL}}</link>
 		<description>{{.Site.Params.podcast.description}}</description>
-		<lastBuildDate>{{ now.Format "Mon, 02 Jan 2006 15:04:00 MST" | safeHTML }}</lastBuildDate>
+		<lastBuildDate>{{ now.Format "Mon, 02 Jan 2006 15:04:00 -0700" | safeHTML }}</lastBuildDate>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 		<language>sv-SE</language>
@@ -26,7 +26,7 @@
 		<itunes:subtitle>{{.Site.Params.podcast.tagline}}</itunes:subtitle>
 		<itunes:summary>{{.Site.Params.podcast.description}}</itunes:summary>
 		<itunes:keywords></itunes:keywords>
-		<itunes:category text="News & Politics"/>
+		<itunes:category text="News &amp; Politics"/>
 		<itunes:author>{{.Site.Params.author.name}}</itunes:author>
 		<itunes:owner>
 			<itunes:name>{{.Site.Params.author.name}}</itunes:name>
