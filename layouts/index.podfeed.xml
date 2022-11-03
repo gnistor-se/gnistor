@@ -48,7 +48,6 @@
 				<guid>{{.Permalink}}</guid>
 	
 				<itunes:author>{{.Site.Params.author.name}}</itunes:author>
-				<itunes:episode>{{ .Params.number }}</itunes:episode>
 				<itunes:title>{{ .Params.title }}</itunes:title>
 				<itunes:summary>{{ .Content | plainify }}</itunes:summary>
 				<itunes:subtitle>{{ .Params.short_description | plainify }}</itunes:subtitle>
