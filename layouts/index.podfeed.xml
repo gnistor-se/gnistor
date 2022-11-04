@@ -34,7 +34,7 @@
 		</itunes:owner>
 		<itunes:block>no</itunes:block>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:image href="{{ .Site.Params.podcast.cdn_url }}/gnistor-podcast-artwork.png"/>
+		<itunes:image href="{{ .Site.Params.podcast.cdn_url }}gnistor-podcast-artwork.png"/>
 		{{ range  .Site.RegularPages}}
 			{{ if .Params.podcast }}
 			<item>
@@ -53,7 +53,7 @@
 				<itunes:subtitle>{{ .Params.short_description | plainify }}</itunes:subtitle>
 				<content:encoded>{{ `<![CDATA[` | safeHTML }}{{ .Content }}{{ `]]>` | safeHTML }}</content:encoded>
 				<itunes:image
-						href="{{ .Site.Params.podcast.cdn_url }}gnistor-podcast-logo.png"/>
+						href="{{ .Site.Params.podcast.cdn_url }}gnistor-podcast-artwork.png"/>
 				<itunes:duration>{{ .Params.podcast.duration }}</itunes:duration>
 				<itunes:keywords>Politics</itunes:keywords>
 				<itunes:episodeType>full</itunes:episodeType>
