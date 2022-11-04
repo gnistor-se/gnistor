@@ -34,7 +34,7 @@
 		</itunes:owner>
 		<itunes:block>no</itunes:block>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:image href="{{ .Site.Params.podcast.cdn_url }}gnistor-podcast-logo.png"/>
+		<itunes:image href="{{ .Site.Params.podcast.cdn_url }}/gnistor-podcast-artwork.png"/>
 		{{ range  .Site.RegularPages}}
 			{{ if .Params.podcast }}
 			<item>
