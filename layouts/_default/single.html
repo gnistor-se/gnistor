@@ -36,9 +36,12 @@
 					</div>
 					<div class="flex-auto overflow-hidden text-sm">
 						<p class="my-1 text-slate-500 truncate">
-							{{ time.Format "2 January" .Date }}
-							{{ if .ExpiryDate }}
-							– {{ time.Format "2 January" .ExpiryDate }}
+							{{ if .Params.enddate}}
+								{{ $enddate := (time .Params.enddate) }}
+								{{ .Date.Format "02 January" | safeHTML }}
+								– {{ $enddate.Format "02 January" | safeHTML }}
+							{{ else }}
+								{{ .Date.Format "02 January, 15:04" | safeHTML }}
 							{{ end }}
 						</p> 
 						<p class="my-1 text-slate-500 truncate">
