@@ -1,7 +1,7 @@
 ---
 title: Stoppa hyreschocken!
 date: 2022-11-19 14:00:00
-organizer: Bostadspolitiska gruppen Norra Göteborg
+organizer: Hökis mot ombildningar
 forms: [Manifestation]
 locations: [Göteborg]
 ---
