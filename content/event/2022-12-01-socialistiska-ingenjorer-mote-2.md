@@ -11,4 +11,4 @@ Efter mötet, som vi denna gång håller i en faktisk möteslokal, så föreslå
 
 Hoppas vi ses!
 
-Läs mer: 
+Läs mer: https://socialistiskaingenjorer.blogspot.com/2022/11/
