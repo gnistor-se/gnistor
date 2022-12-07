@@ -1,0 +1,29 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "{{ .Site.Title }}",
+	"home_page_url": "{{ .Permalink }}",
+	"feed_url": "{{ .Permalink }}feed.json",
+	"favicon": "{{ .Site.Params.podcast.cdn_url }}gnistor-podcast-artwork.png",
+	"author": {
+		"name": "{{ .Site.Params.author }}"
+	},
+	"items": [
+		{{ range $index, $item := where .Site.RegularPages "Type" "event" }}
+			{{ if (time .Params.date).After now }}
+				{{if $index}}, {{end}}
+				{
+					"title": {{ .Title | jsonify  }},
+					"link": {{ .Permalink | jsonify  }},
+					"start_time": {{ .Params.date | jsonify  }},
+					{{if  .Params.enddate}}
+					"end_time": {{ .Params.enddate | jsonify  }},
+					{{end}}
+					"organizer": {{ .Params.organizer | jsonify }},
+					"forms": {{ .Params.forms | jsonify  }},
+					"locations": {{ .Params.locations | jsonify  }},
+					"description": {{ .Content | plainify | jsonify }}
+				}
+			{{ end }}
+		{{ end }}
+	 ]
+}

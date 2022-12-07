@@ -19,8 +19,12 @@ timeZone = 'Europe/Stockholm'
 [outputFormats.feed]
 	mediatype = "application/rss+xml"
 	path = "/feed"
+[outputFormats.jsonfeed]
+	mediatype = "application/json"
+	baseName = "feed"
+	isPlainText = true
 [outputs]
-	home = [ "HTML", "feed", "podfeed" ]
+	home = [ "HTML", "feed", "podfeed", "jsonfeed" ]
 [params]
 [params.author]
 	name = 'Gnistor'
