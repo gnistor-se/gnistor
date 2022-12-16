@@ -9,7 +9,7 @@
 	},
 	"items": [
 		{{ range $index, $item := where .Site.RegularPages "Type" "event" }}
-			{{ if (time .Params.date).After now }}
+			{{ if (time .Params.date).After (now.AddDate 0 -1 0) }}
 				{{if $index}}, {{end}}
 				{
 					"title": {{ .Title | jsonify  }},
