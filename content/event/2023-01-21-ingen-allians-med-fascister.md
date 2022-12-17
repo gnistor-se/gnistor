@@ -1,0 +1,32 @@
+---
+title: Ingen allians med fascister!
+date: 2023-01-21 14:00:00
+forms: [Demonstration]
+locations: [Stockholm]
+organizer: Ingen information 
+---
+Den 21 januari 14.00 kommer Alliansen mot Nato att arrangera en demonstration genom Stockholm med start på Norra Bantorget. Vi gör det till följd av Sveriges ansökan till Nato - mot ett svenskt deltagande i krigshetsaralliansen och mot de åtgärder som tvingats på oss av diktatorn och mördaren Erdogan. Vi vägrar en allians med fascister!
+
+Världens ögon riktas mot Nobelfesten - vi vill rikta ögonen mot världen! Som ett första steg inför demonstrationen i januari protesterade vi utanför Nobelfesten i Stadshuset.
+
+* **Var:** Norra bantorget
+* **När:** 21 januari 14.00
+
+## NEJ TILL NATO
+I maj skickade den dåvarande regeringen i all hast in en ansökan till militäralliansen Nato – ett uppbrott mot en 200 år lång tradition av svensk alliansfrihet. Detta utan att genomföra förberedande utredningar, offentlig debatt eller demokratisk förankring. Med Natoansökan ser vi hur Sverige kastar ut möjligheten att arbeta för konfliktförebyggande, fredsbyggande och nedrustning för att istället sälla sig till en krigsallians som verkar för upprustning och krigshets. 
+
+## INGEN ALLIANS MED FASCISTER
+Med ansökan har det också tillkommit en lång rad krav på motprestationer – något både regeringen Andersson och nu Kristersson gladeligen gått till mötes – särskilt från den turkiske diktatorn och fascisten Erdogan. Som en bricka i Erdogans valkampanj har de svenska politikerna krökt sina ryggar för att tillfredsställa diktatorns krav. Precis som man gjort i den inhemska politiken vill man skapa en allians med fascister. Vi vägrar att acceptera detta!
+
+## NEJ TILL UTLÄMNINGAR OCH UTVISNINGAR TILL TURKIET
+Erdogans främsta krav har gällt utlämningar av personer med kurdisk bakgrund som påstås ha kopplingar till PKK. Att utvisa personer till Turkiet är att skicka människor till fängelse och tortyr. Den senaste i raden av utvisade är Mahmut Tat, som utvisades till Turkiet efter att ha flytt efter en skenrättegång där han dömdes till sju års fängelse utan faktiska bevis. Att Sverige utvisar personer till följd av fingerade bevis eller politisk aktivitet i frihetsrörelser är vidrigt. Erdogan säger, Sverige gör. Utlämningarna till Turkiet måste stoppas!
+
+## NEJ TILL VAPENEXPORT TILL TURKIET
+Under tiden som den svenska ansökan hanteras av Nato har Turkiet startat ytterligare ett krig i de kurdiska delarna av Syrien. Tusentals bomber har regnat ner över civila mål. 2019 slutade Sverige exportera vapen till Turkiet till följd av den folkrättsvidriga invasionen av samma område som man nu bombar. Natoförhandlingarna har tvingat oss att öppna upp för ny export till Turkiet trots att det är en krigsmakt som för ett anfallskrig mot kurder och som har imperialistiska ambitioner. Svenska vapen ska inte användas mot kamraterna som besegrade IS!
+
+## NEJ TILL KÄRNVAPEN I SVERIGE
+Sverige har ingen lagstiftning mot kärnvapen och har vägrat ansluta sig till FN:s konvention om förbud mot kärnvapen, trots att det redan 1968 togs ett riksdagsbeslut för att Sverige skulle verka mot kärnvapen. En linje som ingen svensk politisk majoritet brutit mot, men som tillintetgörs med ett Natomedlemskap. Nato är en militärallians vars yttersta garanti för avskräckning är en enorm arsenal av kärnvapen. Det går inte att utesluta att ett medlemskap innebär utstationering av kärnvapen på svensk mark. Vi kan inte tillåta amerikanska massförstörelsevapen på vår egen bakgård!
+
+Därför kommer vi att ta till gatorna i Stockholm den 21 januari 14.00!
+
+Nej till Nato - Ingen allians med fascister!
