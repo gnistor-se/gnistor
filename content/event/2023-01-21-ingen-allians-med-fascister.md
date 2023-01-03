@@ -3,7 +3,7 @@ title: Ingen allians med fascister!
 date: 2023-01-21 14:00:00
 forms: [Demonstration]
 locations: [Stockholm]
-organizer: Ingen information 
+organizer: Alliansen mot Nato 
 ---
 Den 21 januari 14.00 kommer Alliansen mot Nato att arrangera en demonstration genom Stockholm med start på Norra Bantorget. Vi gör det till följd av Sveriges ansökan till Nato - mot ett svenskt deltagande i krigshetsaralliansen och mot de åtgärder som tvingats på oss av diktatorn och mördaren Erdogan. Vi vägrar en allians med fascister!
 
