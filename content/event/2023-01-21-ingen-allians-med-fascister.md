@@ -1,9 +1,15 @@
 ---
 title: Ingen allians med fascister!
 date: 2023-01-21 14:00:00
+pub_date: 2023-01-18 22:00:00
 forms: [Demonstration]
 locations: [Stockholm]
 organizer: Alliansen mot Nato 
+podcast:
+  asset_link: 'nato-demo.mp3'
+  length: 67002368
+  duration: 00:04:32
+  short_description: "Den 21 januari 14.00 kommer Alliansen mot Nato att arrangera en demonstration genom Stockholm med start på Norra Bantorget. Vi gör det till följd av Sveriges ansökan till Nato och mot de åtgärder som tvingats på oss av diktatorn och mördaren Erdogan."
 ---
 Den 21 januari 14.00 kommer Alliansen mot Nato att arrangera en demonstration genom Stockholm med start på Norra Bantorget. Vi gör det till följd av Sveriges ansökan till Nato - mot ett svenskt deltagande i krigshetsaralliansen och mot de åtgärder som tvingats på oss av diktatorn och mördaren Erdogan. Vi vägrar en allians med fascister!
 
