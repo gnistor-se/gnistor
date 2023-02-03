@@ -32,6 +32,13 @@
 						{{ end }}
 						</gnistor:forms>
 					{{ end }}
+					{{ if isset .Params "locations" }}
+						<gnistor:locations>
+						{{ range (.GetTerms "locations") }}
+							{{ .Title }}
+						{{ end }}
+						</gnistor:locations>
+					{{ end }}
 					<description>{{ .Content | plainify | truncate 257 }}</description>
 				</item>
 			{{end}}
