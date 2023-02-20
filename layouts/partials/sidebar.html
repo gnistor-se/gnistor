@@ -4,7 +4,7 @@
 <div class="md:col-span-4">
 	<hr class="md:hidden mb-9" />
 	{{ $weekdays := dict "Monday" 0 "Tuesday" 1 "Wednesday" 2 "Thursday" 3 "Friday" 4 "Saturday" 5 "Sunday" 6 }}
-	{{ $months := dict "January" "Januari" "February" "Fabruari" "March" "Mars" "April" "April" "May" "Maj" "June" "Juni" "July" "Juli" "August" "Augusti" "September" "September" "October" "Oktober" "November" "November" "December" "December" }}
+	{{ $months := dict "January" "Januari" "February" "Februari" "March" "Mars" "April" "April" "May" "Maj" "June" "Juni" "July" "Juli" "August" "Augusti" "September" "September" "October" "Oktober" "November" "November" "December" "December" }}
 	{{ $first_day_this_month := (now.AddDate 0 0 (int (add (sub now.Day (mul now.Day 2 )) 1))) }}
 	{{ $last_day_this_month := (now.AddDate 0 1 (int (sub now.Day (mul now.Day 2 )))) }}
 	{{ $days_bf := index $weekdays (string $first_day_this_month.Weekday) }}
