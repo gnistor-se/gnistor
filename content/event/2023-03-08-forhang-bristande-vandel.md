@@ -1,5 +1,5 @@
 ---
-title: Förhäng: Bristande vandel
+title: Förhäng - Bristande vandel
 date: 2023-03-11 17:00:00
 forms: [Fest]
 locations: [Göteborg]
