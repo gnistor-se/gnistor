@@ -2,7 +2,7 @@
 title: Filmvisning på Forum La Commune (Paris, 1871)
 date: 2023-04-08 11:00:00
 forms: [Film]
-locations: [Gothenburg]
+locations: [Göteborg]
 organizer: Syndikalistiskt Forum
 ---
 (English below)
