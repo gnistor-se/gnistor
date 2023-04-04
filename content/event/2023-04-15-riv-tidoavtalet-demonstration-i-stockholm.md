@@ -17,16 +17,11 @@ Vi inväntar polisens tillstånd för själva marschen och återkommer med detal
 Bakom den nationella kampanjen, som tog sin början i Skåne, står bland andra Afrosvenskarnas Forum för Rättvisa, Attention i Skåne, föreningen Hjärta, Jordens Vänner Malmö-Lund, Läkare mot rasism och nätverket NU ÄR DET NOG! 
 
 I den här öppna facebookgruppen kan du läsa mer om kampanjen Riv Tidöavtalet!, dela egna förslag, hämta gemensamt text- och bildmaterial mm. 
+
 https//www.facebook.com/groups/539941054359248
 
 Vi ses! 
 
-Kontakta oss gärna om du har frågor eller förslag! 
-
-EvaMärta Granqvist 
-medgrundare av nätverket NU ÄR DET NOG! 
-0767933525 
-0735188831 (tillfälligt nr)
 
 
 Läs mer: https://www.facebook.com/events/1948627272154485/
