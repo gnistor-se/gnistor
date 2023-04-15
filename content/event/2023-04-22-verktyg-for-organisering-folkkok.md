@@ -2,7 +2,7 @@
 title: Verktyg för organisering - Folkkök
 date: 2023-04-22 14:30:00
 forms: [Workshop]
-locations: [Gothenburg]
+locations: [Göteborg]
 organizer: Syndikalistiskt Forum
 ---
 ## Lördag 22/4 kl 1630 - ca. 18 
