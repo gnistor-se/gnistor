@@ -1,6 +1,6 @@
 ---
 title: Första maj med Allt åt alla
-date: 2023-05-01 8:30:00
+date: 2023-05-01 10:30:00
 forms: [Demonstration]
 locations: [Malmö]
 organizer: Allt åt alla Malmö
