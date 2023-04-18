@@ -46,3 +46,5 @@ Lördagen 22 april kl 11.00 på Speakers corner. Arrangeras av Nätverket Stoppa
 
 ## Örebro
 Lördagen 22 april kl 12.00 på Stortorget. Arrangeras av Nätverket Nej till Nato Örebro.
+
+Läs mer: https://www.stoppaaurora23.se/
