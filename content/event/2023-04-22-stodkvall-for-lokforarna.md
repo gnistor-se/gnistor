@@ -5,15 +5,25 @@ forms: [Fest]
 locations: [Stockholm]
 organizer: Allt åt Alla Stockholm
 ---
-## Fyll strejkkassan!
+## Backa lokförarna - stödkväll nu på lördag!
 
-Backa lokförarna - stödkväll nu på lördag!
+Vill du bidra till lokförarnas strejkkassa och träffa andra som vill stoppa nedmonteringarna och få samhället på rätt spår? Sväng förbi under kulturnatten för stödkväll på Kafé 44! Det blir avslappnat häng och besök från strejkande lokförare.
 
-Vill du bidra till strejkkassan och träffa andra som vill stoppa nedmonteringarna och få samhället på rätt spår? Sväng förbi under kulturnatten för stödkväll på Kafé 44! Det blir avslappnat häng och besök från strejkande lokförare.
+### När?
+Lördag 22/4, kl 18-23
 
-* Lördag 22/4, 18:00
-* Kafé 44, Tjärhovsgatan 44
+### Var?
+Kafé 44, Tjärhovsgatan 46
 
-Alla pengar går till lokförarnas strejkkassa.
+### Åldersgräns?
+18 år
 
-Läs mer: https://twitter.com/AaASthlm
+### Lokförarnas krav?
+“Att få tillbaka tågvärden i hytt, i säkerhetstjänst, för vår och resenärernas säkerhet.”
+
+### Vart går pengarna?
+
+Alla intäkter under kvällen går till strejkkassan. De strejkande lokförarna på pendeln har upprättat en strejkkassa i samarbete med Förbundet Arbetarsolidaritet. Vid vild strejk behöver vi alla hjälpas åt att täcka kostnaderna för böter från arbetsdomstolen, rättegångskostnader och uteblivna löner.
+
+Mer info om strejken?
+www.vildstrejkpendeln.blogg.se/
