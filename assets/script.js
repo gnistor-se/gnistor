@@ -1,5 +1,5 @@
 window.onload = function(event) {
-	let show = 5;
+	let show = 7;
 	let show_hide = 3;
 	let items = document.querySelectorAll('#list li');
 	if ( items.length > 0 ) {
