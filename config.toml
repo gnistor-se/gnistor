@@ -23,8 +23,11 @@ timeZone = 'Europe/Stockholm'
 	mediatype = "application/json"
 	baseName = "feed"
 	isPlainText = true
+[outputFormats.icsfeed]
+	mediatype = "text/calendar"
+	path = "/ics"
 [outputs]
-	home = [ "HTML", "feed", "podfeed", "jsonfeed" ]
+	home = [ "HTML", "feed", "podfeed", "jsonfeed", "icsfeed" ]
 [params]
 [params.author]
 	name = 'Gnistor'

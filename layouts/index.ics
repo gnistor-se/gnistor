@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//elm-conf//speaker calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+{{ range where .Site.RegularPages.ByDate "Type" "event"}}{{ if (time .Params.date).After (now.AddDate 0 -1 0) }}
+BEGIN:VEVENT
+UID:{{ .File.Filename }}
+ORGANIZER;CN={{ .Params.organizer }}:mailto:hej@gnistor.se
+SUMMARY:{{.Params.title}}
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:{{dateFormat "20060102T150405Z" .Date}}
+DTSTART;TZID=Europe/Stockholm:{{dateFormat "20060102T150405" .Date}}
+{{ if isset .Params "enddate" }}DTEND;TZID=Europe/Stockholm:{{dateFormat "20060102T150405" .Params.enddate}}{{ end }}
+LOCATION:{{ range (.GetTerms "locations") }}{{ .Title }}{{ end }}
+URL:{{ .Permalink }}
+END:VEVENT
+{{end}}{{end}}
+END:VCALENDAR
