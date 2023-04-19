@@ -19,8 +19,10 @@ Vi har äran presentera
 
 Folkpunksbandet från Göteborg Kampen! 
 
-Kampen bjuder på punk, folk-  och kampmusik. Du har nästan säkert sett och hört dom på demonstrationer och manifestationer runt om i Göteborg. Nu spelar dom på Klubb klasslös!
+Kampen är ett Folkpunkband från Göteborg som formades under senare delen av 2022. Sättningen är Dragspel, Tvättbräda, Bas, Gitarr & Cajòn. 
 
+Medlemmar Ida, Hannah, Mariela, Jonathan & Andreas
+Nu spelar dom på Klubb klasslös!
 
 DJ Skipper
 
