@@ -1,6 +1,6 @@
 ---
 title: Al Nakba – 75 år av fördrivning
-date: 2023-05-15 18.30:00
+date: 2023-05-15 18:30:00
 forms: [Manifestation]
 locations: [Stockholm]
 organizer: Palestinagrupperna i Sverige m.fl.

@@ -1,6 +1,6 @@
 ---
 title: Al Nakba 75 år – Apellmöte på torget
-date: 2023-05-13 11.00:00
+date: 2023-05-13 11:00:00
 forms: [Manifestation]
 locations: [Varberg]
 organizer: Palestinagruppen i Varberg
