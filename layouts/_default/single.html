@@ -37,8 +37,8 @@
 						<p class="my-1 text-slate-500 truncate">
 							{{ if .Params.enddate}}
 								{{ $enddate := (time .Params.enddate) }}
-								{{ .Date.Format "02 January" | safeHTML }}
-								– {{ $enddate.Format "02 January" | safeHTML }}
+								{{ dateFormat "2 January" .Date }}
+								– {{ dateFormat "2 January"  $enddate }}
 							{{ else }}
 								{{ dateFormat "2 January, 15:04" .Date }}
 							{{ end }}
