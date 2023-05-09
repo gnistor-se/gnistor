@@ -17,6 +17,7 @@ Musik: Ebba och Elina sjunger partisanernas motståndssånger
 
 ## Begränsat antal platser
 Köp biljett genom denna länk (den som inte är medlem kan bli det i samma formulär).
+
 https://docs.google.com/forms/d/e/1FAIpQLSdSsZb0-lqiXVdbQ-Jg-cWyBrL_t2T_gmWr83k1KNoFU9nQrQ/viewform?usp=sf_link
 
 
