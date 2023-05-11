@@ -1,6 +1,6 @@
 ---
 title: Men det är ju satir!
-date: 2023-05-11 16:00:00
+date: 2023-05-11 18:00:00
 enddate: 2023-05-14 20:00:00
 forms: [Utställning]
 locations: [Stockholm]
