@@ -1,6 +1,6 @@
 ---
 title: Panelsamtal Generation Greta eller generation Bianca?
-date: 2023-06-01 16:00:00
+date: 2023-06-01 18:00:00
 forms: [Panelsamtal]
 locations: [Stockholm]
 organizer: Flamman

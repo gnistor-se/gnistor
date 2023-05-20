@@ -1,7 +1,7 @@
 ---
 title: Aktivt hopp – en studiecirkel vid havet
-date: 2023-07-04 13:00:00
-end_date: 2023-07-17 16:00:00
+date: 2023-07-04 15:00:00
+end_date: 2023-07-17 18:00:00
 forms: [Studiecirkel]
 locations: [Malmö]
 organizer: Krakel

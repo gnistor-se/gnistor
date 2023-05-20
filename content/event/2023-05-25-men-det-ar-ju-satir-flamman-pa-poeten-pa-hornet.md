@@ -1,6 +1,6 @@
 ---
 title: Men det är ju satir!
-date: 2023-05-25 16:00:00
+date: 2023-05-25 18:00:00
 forms: [Utställning]
 locations: [Malmö]
 organizer: Flamman

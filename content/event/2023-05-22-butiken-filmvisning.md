@@ -1,6 +1,6 @@
 ---
 title: Butiken – Filmvisning
-date: 2023-05-22 18:00:00
+date: 2023-05-22 17:30:00
 forms: [Film]
 locations: [Stockholm]
 organizer: GigWatch
