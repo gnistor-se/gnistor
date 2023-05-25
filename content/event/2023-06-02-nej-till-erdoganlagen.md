@@ -1,6 +1,6 @@
 ---
 title: Nej till Erdoganlagen
-date: 2023-06-01 15:00:00
+date: 2023-06-03 15:00:00
 forms: [Demonstration]
 locations: [Göteborg]
 organizer: Allt åt Alla Göteborg
