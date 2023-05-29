@@ -5,6 +5,10 @@ forms: [Webbinarium]
 locations: [Online]
 organizer: Kamratdataföreningen Konstellationen, DFRI
 ---
+
+- **Tid:** Onsdag 31 maj kl 19:00-20:00
+- **Anmälan:** [via detta formuläret](https://cryptpad.fr/form/#/2/form/view/IKbW6qZUz4YXzbzHXv-khH0vTc1edT4WtWgEzb23I90/).
+
 Motståndet ökar mer och mer mot EU-kommissionens massövervakningsförslag Chat Control 2.0. Förslaget har kritiserats av ministerrådets egna jurister, Internetstiftelsen, Svenska Journalistförbundet, Utgivarna, och flertalet experter såsom Marcus Nohlberg, docent i datavetenskap, Stefan Axelsson, professor i digital forensik och cybersäkerhet och även Karl Emil Nikka, IT-säkerhetsspecialist.
 
 Kunskapen om detta massövervakningsförslag är dessvärre mindre känt bland befolkningen. 74 procent av tillfrågade i en Novusundersökning uppgav att de inte visste vad “chat control” var för något. Men samtidigt visade undersökningen att 72 procent anser att deras integritet helt eller delvis är mycket viktig och att de inte vill att myndigheter och internetleverantörer ska kunna se vad de skriver eller sparar för filer.
