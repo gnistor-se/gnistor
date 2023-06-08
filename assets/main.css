@@ -10,7 +10,11 @@ p + p {
 	@apply my-6;
 }
 
+<<<<<<< Updated upstream
 ul + p {
+=======
+article ul {
+>>>>>>> Stashed changes
 	@apply my-6;
 }
 
