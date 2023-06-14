@@ -10,11 +10,8 @@ p + p {
 	@apply my-6;
 }
 
-<<<<<<< Updated upstream
-ul + p {
-=======
+ul + p,
 article ul {
->>>>>>> Stashed changes
 	@apply my-6;
 }
 
@@ -41,10 +38,12 @@ article #content h3,
 article #content h4,
 article #content h5 {
 	@apply my-3 font-bold;
+	hyphens: auto;
 }
 
 article #content a {
 	@apply underline;
+	hyphens: auto;
 }
 
 article #content a:hover {
