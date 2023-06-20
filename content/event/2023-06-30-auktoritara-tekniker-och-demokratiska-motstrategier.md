@@ -1,7 +1,7 @@
 ---
 title: Auktoritära tekniker och demokratiska motstrategier
 date: 2023-06-30 16:45:00
-forms: [Panelsamtal]
+forms: [Samtal]
 locations: [Visby]
 organizer: Arena Idé
 ---
