@@ -1,5 +1,11 @@
 {
   "dependencies": {
     "tailwindcss": "^3.1.8"
+  },
+  "scripts": {
+    "hugo": "hugo server",
+    "hugo-slow": "hugo server --disableFastRender",
+    "tailwind-watch": "npx tailwind -wm -i ./assets/main.css -o ./assets/style.min.css",
+    "tailwind": "npx tailwind -m -i ./assets/main.css -o ./assets/style.min.css"
   }
 }
