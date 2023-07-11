@@ -1,6 +1,6 @@
 ---
 title: Antifascistisk Aktion 30 år!
-date: 2023-08-09 12:00:00
+date: 2023-09-09 12:00:00
 forms: [Fest]
 locations: [Stockholm]
 organizer: Antifascisk Aktion Sverige
