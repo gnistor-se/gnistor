@@ -21,4 +21,4 @@ Vi har ett öppet facebookevent där ni kan hålla koll på allt som är kopplat
 
 Mer information, artister och DJs släpps inom kort, men boka in datumet redan nu! Tillsammans tar vi oss igenom minst 30 år till av motstånd!
 
-Läs mer: https://www.facebook.com/events/9631962573540804 & https://www.instagram.com/p/Cuj6P61MPBV/
+Läs mer: https://antifa.se/2023/07/11/antifascistisk-aktion-fyller-30-ar/
