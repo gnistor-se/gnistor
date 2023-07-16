@@ -1,6 +1,6 @@
 ---
 title: Project Communism (träff 4 - picknick!)
-date: 2023-07-06 18:00:00
+date: 2023-07-08 18:00:00
 forms: [Möte]
 locations: [Göteborg]
 organizer: Framåt kamrater
