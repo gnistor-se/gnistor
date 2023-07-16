@@ -2,9 +2,9 @@
 title: Week of Action for Social and Climate Justice
 date: 2023-09-15 12:00:00
 enddate: 2023-09-22 12:00:00
-forms: [Fest]
-locations: [Stockholm]
-organizer: Antifascisk Aktion Sverige
+forms: [Aktion]
+locations: [Sverige]
+organizer: Nätverket för Week of Action
 ---
 Aktionsvecka för social- och klimaträttvisa arrangeras den 15 - 22 september över hela landet av ett nätverk av gräsrotsrörelser och organisationer! Genom veckan uppmärksammas den täta kopplingen mellan social rättvisa och klimaträttvisa.
 
