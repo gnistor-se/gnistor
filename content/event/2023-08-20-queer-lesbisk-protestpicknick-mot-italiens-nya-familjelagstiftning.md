@@ -3,7 +3,6 @@ title: queer&lesbisk protestpicknick mot Italiens nya familjelagstiftning
 date: 2023-08-20 14:00:00
 forms: [Manifestation]
 locations: [Stockholm]
-organizer: Alice Flemming
 ---
 Italien har instiftat en ny familjelag, där lesbiska och andra queers (och ickequeers) har tagits ifrån rätten att vara föräldrar till sina egna barn. Födelsecertifikat har ändrats retroaktivt på barnen för att de ska "tillhöra sina biologiska föräldrar".
 
