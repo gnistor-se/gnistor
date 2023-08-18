@@ -22,6 +22,8 @@ Samtidigt så utvecklas de fria och decentraliserade alternativen och redan etab
 
 Är du nyfiken på Mastodon och Fediversum? Vi berättar om hur det fungerar och hjälper vi dig att skapa ett konto på instansen Spejset och komma igång och hitta andra intressanta och trevliga i Fediversum. Spejset drivs av den socialistiska, feministiska och antirasistiska Kamratdataföreningen Konstellationen.
 
+Har du/ni idéer om hur internet skulle kunna bli en bättre plats för en organiserad vänster? Vet du/ni, eller har du/ni kanske ingen aning om, hur det skulle kunna gå till? Perfekt! Ta med dig dina idéer, vänner och frågor och träffa oss andra som är i exakt samma situation, i en öppen workshop konspirera kring vad vi behöver, saknar och önskar av internet. Och hur vi kan hjälpas åt för att skapa det.
+
 Det poddas även som aldrig förr och bloggarnas renässans kanske är på väg? RSS och andra tekniker för en decentraliserad webb får ett uppsving. Vi samtalar med Linnea, Jesper och Linus som bloggar om samhälle och blandade ämnen och/eller utvecklar programvara som tillgängliggör vänsterevenemang på nätet.
 
 Varför är det fortfarande viktigt med epost? Robin Zachari från Skiftet berättar om vikten för progressiva rörelser att ha en mejlstrategi och hur man som rörelse kan samla in pengar via mail.
