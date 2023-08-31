@@ -2,7 +2,7 @@
 title: Överlevarna - fotoutställning om Spanska inbördeskriget
 date: 2023-09-03 14:00:00
 forms: [Utställning]
-locations: [Online]
+locations: [Malmö]
 organizer: Kvarnby Folkhögskola
 ---
 Spanska inbördeskriget var ett slags generalrep till Andra världskriget. Nära 40 år av fascistisk diktatur följde.
