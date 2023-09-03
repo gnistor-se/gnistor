@@ -14,5 +14,5 @@ Gnistor är ett litet project byggt med hjälp av [Hugo](https://gohugo.io/). Re
 1. Skapa en ny sida `hugo new content content/event/[DATUM]-[TITEL].md`
 2. Fyll i information på den genererade sidan.
 3. Föhandsgranska att det ser bra ut lokalt (se ovan).
-4. Skapa en PR till projektet med det nya eventet.
+4. Skapa ny [Branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches) och en [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) till projektet med det nya eventet.
 5. Klart!
