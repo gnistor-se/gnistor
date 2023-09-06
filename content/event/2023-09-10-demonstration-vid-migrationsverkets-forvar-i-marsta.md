@@ -1,6 +1,6 @@
 ---
 title: Demonstration vid migrationsverkets förvar i Märsta
-date: 2023-09-10 15:00:00
+date: 2023-09-10 16:00:00
 forms: [Demonstration]
 locations: [Stockholm]
 organizer: 
