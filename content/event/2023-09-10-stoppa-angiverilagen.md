@@ -1,11 +1,13 @@
 ---
 title: "Stoppa angiverilagen!"
 date: 2023-09-10T14:00:00+02:00
-place: "Medborgarplatsen"
+place: "Fatbursparken"
 locations: [Stockholm]
 forms: [Demonstration]
 organizer: ""
 ---
+
+**Observera! Ny plats: Fatbursparken**
 
 SD och regeringen planerar en angiverilag som urholkar demokratin, bryter mot mänskliga rättigheter och splittrar samhället. Därför demonstrerar vi på Medborgarplatsen i Stockholm på söndag 10 september!
 
@@ -52,4 +54,4 @@ Utöver demonstrationen kan du:
 
 Moderaterna jämförde själva SD:s förslag om angiverilagar med DDR, Nordkorea och Nazityskland år 2018 (källa: https://sverigesradio.se/artikel/6947341). Fem år senare sviker de sina värderingar och följer helt Sverigedemokraternas krav.
 
-Nu måste vi protestera och stå upp för alla människors lika värde. Kom till Medborgarplatsen på söndag den 10 september 14:00-15:00 och säg NEJ till angiverilagen! 
+Nu måste vi protestera och stå upp för alla människors lika värde. Kom till Fatbursparken på söndag den 10 september 14:00-15:00 och säg NEJ till angiverilagen! 
