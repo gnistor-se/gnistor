@@ -5,7 +5,7 @@ forms: [Samtal]
 locations: [Stockholm]
 organizer: 
 ---
-Efter sommarens toppmöte i Vilnius ser ett svenskt Natorinträde allt mer sannolikt ut. Hur ska vänstern, som traditionellt varit kritiskt mot alliansen, agera under medlemskapet?
+Efter sommarens toppmöte i Vilnius ser ett svenskt Natorinträde allt mer sannolikt ut. Hur ska Sverige, som traditionellt varit kritiskt mot alliansen, agera under medlemskapet?
 
 ## Medverkande
 - Jonas Sjöstedt, tidigare ledare för Vänsterpartiet
