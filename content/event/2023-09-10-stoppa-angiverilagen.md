@@ -9,7 +9,7 @@ organizer: ""
 
 **Observera! Ny plats: Fatbursparken**
 
-SD och regeringen planerar en angiverilag som urholkar demokratin, bryter mot mänskliga rättigheter och splittrar samhället. Därför demonstrerar vi på Medborgarplatsen i Stockholm på söndag 10 september!
+SD och regeringen planerar en angiverilag som urholkar demokratin, bryter mot mänskliga rättigheter och splittrar samhället. Därför demonstrerar vi i Fatbursparken i Stockholm på söndag 10 september!
 
 ## Varför protesterar vi?
 
