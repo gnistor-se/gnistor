@@ -35,17 +35,20 @@
 						{{ $enddate := (time .Params.enddate) }}
 						{{ if 
 						(and
-							(and 
-								(or 
-									(gt $enddate.Day $nowdate)
-									(eq $enddate.Day $nowdate)
+							(and
+								(and
+									(or
+										(gt $enddate.Day $nowdate)
+										(eq $enddate.Day $nowdate)
+									)
+									(or
+										(gt $nowdate .Date.Day)
+										(eq $nowdate .Date.Day)
+									)
 								)
-								(or
-									(gt $nowdate .Date.Day)
-									(eq $nowdate .Date.Day)
-								)
+								(eq .Date.Month $last_day_this_month.Month)
 							)
-							(eq .Date.Month $last_day_this_month.Month)
+							(eq .Date.Year now.Year)
 						)
 						}}
 							{{ $scratch.SetInMap $mapName .Permalink .Title }}
@@ -55,6 +58,7 @@
 							(and
 								(eq .Date.Day $nowdate)
 								(eq .Date.Month $last_day_this_month.Month)
+								(eq .Date.Year now.Year)
 							)
 						}}
 							{{ $scratch.SetInMap $mapName .Permalink .Title }}
