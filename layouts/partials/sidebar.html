@@ -46,6 +46,7 @@
 								)
 							)
 							(eq .Date.Month $last_day_this_month.Month)
+							(eq .Date.Year $last_day_this_month.Year)
 						)
 						}}
 							{{ $scratch.SetInMap $mapName .Permalink .Title }}
@@ -55,6 +56,7 @@
 							(and
 								(eq .Date.Day $nowdate)
 								(eq .Date.Month $last_day_this_month.Month)
+								(eq .Date.Year $last_day_this_month.Year)
 							)
 						}}
 							{{ $scratch.SetInMap $mapName .Permalink .Title }}
