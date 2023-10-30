@@ -1,7 +1,7 @@
 ---
 title: Arbetarfilmfestivalen 2023
 date: 2023-11-03 18:00:00
-end_data: 2023-11-05 18:00:00
+enddate: 2023-11-05 18:00:00
 forms: [Forum]
 locations: [Malmö]
 organizer: ABF Malmö
