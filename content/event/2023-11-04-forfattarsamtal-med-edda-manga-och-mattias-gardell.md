@@ -3,7 +3,7 @@ title: Författarsamtal med Edda Manga och Mattias Gardell om boken ”Att mäta
 date: 2023-11-04 13:00:00
 forms: [Samtal]
 locations: [Stockholm]
-organizer: Extinction Rebellion Uppsala
+organizer: Bokhandeln Info
 ---
 Edda Manga är idéhistoriker verksam som forskare och vetenskaplig ledare på Mångkulturellt centrum.
 
