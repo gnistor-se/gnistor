@@ -3,7 +3,7 @@ title: "Demonstration mot folkmordet i Gaza"
 date: 2023-11-05 12:00:00
 forms: [Demonstration]
 locations: [Stockholm]
-organizer: ""
+organizer: "Palestinska arbetsgruppen mittersta Sverige"
 ---
 Samling kl 12.00 på Odenplans för marsch mot Norrbro.
 
