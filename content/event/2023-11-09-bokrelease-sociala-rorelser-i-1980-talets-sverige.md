@@ -4,6 +4,11 @@ date: 2023-11-09 17:00:00
 forms: [Bokrelease]
 locations: [Stockholm]
 organizer: Solidaritetshuset i Stockholm
+addressName: "Solidaritetshuset"
+streetAddress: "Tegelviksgatan 40"
+postalCode: "116 41"
+addressRegion: "Stockholm"
+addressCountry: "Sweden"
 ---
 1980-talet har ofta beskrivits som ett decennium präglat av högervåg och nyliberalism, men decenniet innehöll även en rad proteströrelser som motsatte sig denna utveckling. Sociala rörelser som antikärnkraftsrörelsen, fredsrörelsen, miljörörelsen och husockupationsrörelsen protesterade och motsatte sig samhällsutvecklingen. Dessa rörelser har hittills sällan belysts i forskningen.
 

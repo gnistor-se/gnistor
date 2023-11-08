@@ -4,6 +4,11 @@ date: 2023-11-09 18:15:00
 forms: [Manifestation]
 locations: [Stockholm]
 organizer: Ung Vänster Storstockholm & Vänsterpartiet Storstockholm
+addressName: "Södermalmstorg"
+postalCode: "116 45"
+addressRegion: "Stockholm"
+addressCountry: "Sweden"
+source: https://www.facebook.com/events/861401625491442/
 ---
 I år samlas vi, liksom varje år, den 9 november för att minnas de våldsamma pogromer som ägde rum i Tyskland, då miljontals judar, romer, aktiva i fackföreningar, homosexuella, opposionella och personer med funktionsvariationer förföljdes och mördades.
 
@@ -25,6 +30,12 @@ Listan med organisationer och talare kommer uppdateras löpande
 - Läkare mot rasism
 - Stoppa Utvisningarna till Afghanistan
 - Stop Asian Hate Sweden
+- Judar för Israelisk-Palestinks fred
 
-##Talare
+## Talare
 - Paulina Sokolow
+- Damian Migueles Chazarreta- Judar för Israelisk-Palestinsk fred
+- Duri Korsman- Ung Vänster Storstockholm
+- Ingrid Eckerman- Stoppa Utvisningarna till Afghanistan
+- David- Allt åt Alla Stockholm
+- Håkan Svenneling- Vänsterpartiet
