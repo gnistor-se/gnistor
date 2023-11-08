@@ -13,7 +13,7 @@
 	</div>
 
 	<div class="container mx-auto px-6 grid grid-cols-1 md:grid-cols-10 gap-x-28 gap-y-12">
-		<div class="md:col-span-6 text-sm md:text-base leading-snug">
+		<article class="md:col-span-6 text-sm md:text-base leading-snug">
 			<h1 class="font-bold text-3xl md:text-5xl my-3">{{ .Title }}</h1>
 			{{ if ( eq .Type "event" ) }}
 				<div class="flex flex-row gap-5 md:gap-7 justify-evenly my-9">
@@ -35,6 +35,7 @@
 					</div>
 					<div class="flex-auto overflow-hidden text-sm">
 						<p class="my-1 text-slate-500 truncate">
+							<time datetime="{{ dateFormat "2006-01-02T03:04PM" .Date }}">
 							{{ if .Params.enddate}}
 								{{ $enddate := (time .Params.enddate) }}
 								{{ dateFormat "2 January" .Date }}
@@ -42,6 +43,7 @@
 							{{ else }}
 								{{ dateFormat "2 January, 15:04" .Date }}
 							{{ end }}
+							</time>
 						</p> 
 						<p class="my-1 text-slate-500 truncate">
 							{{ if .Params.organizer }} {{ .Params.organizer }}, {{ end }}
@@ -58,8 +60,32 @@
 			{{ end }}
 			<div id="content" class="my-9">
 				{{ .Content }}
+				{{ if .Params.addressName }}
+				<h2>Adress</h2>
+				<address>
+					<p translate="no" typeof="schema:PostalAddress">
+						<span property="schema:name">{{.Params.addressName}}</span><br>
+						{{ if .Params.streetAddress }}
+						<span property="schema:streetAddress">{{.Params.streetAddress}}</span><br>
+						{{ end }}
+						{{ if .Params.postalCode }}
+						<span property="schema:postalCode">{{.Params.postalCode}}</span>
+						{{ end }}
+						{{ if .Params.addressRegion }}
+						<span property="schema:addressLocality">{{.Params.addressRegion}}</span><br>
+						{{ end }}
+						{{ if .Params.addressRegion }}
+						<abbr property="schema:addressCountry">{{.Params.addressCountry}}</abbr>
+						{{ end }}
+					</p>
+				</address>
+				{{ end }}
+				
+				{{ if .Params.source }}
+					Källa: <a href="{{.Params.source}}" target="_blank">{{.Params.source}}</a>
+				{{ end }}
 			</div>
-		</div>
+		</article>
 		{{ partial "sidebar.html" .Site.RegularPages  }}
 	</div>
 	

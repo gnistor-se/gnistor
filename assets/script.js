@@ -42,3 +42,16 @@ function show_hide_list(show, items) {
 		document.querySelector('#load_more').remove();
 	}
 }
+
+function toggle_newsletter_banner(new_setting) {
+	const setting = localStorage.getItem('newsletter');
+	const newsletter = document.querySelector('#newsletter');
+	if ( setting !== 'true' ) {
+		newsletter.classList.remove('hidden');
+	}
+	if ( new_setting === true ) {
+		newsletter.classList.add('hidden');
+		localStorage.setItem('newsletter', true);
+	}
+}
+toggle_newsletter_banner(false);

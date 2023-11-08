@@ -1,3 +1,20 @@
+<div id="newsletter" class="bg-black text-white hidden">
+	<div class="container mx-auto px-6 py-9 flex flex-row gap-6 justify-between items-center">
+		<a href="https://nyhetsbrev.kamratpostaren.se/subscription/form" target="_blank" class="flex flex-row gap-5 items-center">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6">
+				<path d="M19.5 22.5a3 3 0 003-3v-8.174l-6.879 4.022 3.485 1.876a.75.75 0 01-.712 1.321l-5.683-3.06a1.5 1.5 0 00-1.422 0l-5.683 3.06a.75.75 0 01-.712-1.32l3.485-1.877L1.5 11.326V19.5a3 3 0 003 3h15z" />
+				<path d="M1.5 9.589v-.745a3 3 0 011.578-2.641l7.5-4.039a3 3 0 012.844 0l7.5 4.039A3 3 0 0122.5 8.844v.745l-8.426 4.926-.652-.35a3 3 0 00-2.844 0l-.652.35L1.5 9.59z" />
+			</svg>
+			<div class="flex-1">
+				<strong>Missa inget som händer!</strong> Få veckans händelser via e-post med hjälp av Kamratpostaren.
+			</div>
+		</a>
+		<button class="-m-3 p-3" onClick="toggle_newsletter_banner(true)">
+			<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" /></svg>
+		</button>
+	</div>
+</div>
+
 <header>
 	<div class="container mx-auto my-6 px-6 md:my-9">
 
@@ -25,7 +42,7 @@
 			</ul>
 		</nav>
 		<nav id="mobile-nav" class="hidden mt-3 md:mt-6">
-			<ul class="flex flex-col gap-6 text-sm font-bold">
+			<ul class="flex flex-col gap-1 text-sm font-bold">
 				<li><a href="{{ .Site.BaseURL }}">Hem</a></li>
 				{{ range where .Site.RegularPages "Type" "page" }}
 					<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
