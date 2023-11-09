@@ -4,6 +4,11 @@ date: 2023-11-12 13:00:00
 forms: [Demonstration]
 locations: [Stockholm]
 organizer: Enhetsfront för Palestina
+addressName: "Norrbro"
+streetAddress: "Norrbro"
+postalCode: "111 28"
+addressRegion: "Stockholm"
+source: "https://www.facebook.com/events/354028923678705/"
 ---
 Landsomfattande kraftsamling för Palestina.
 

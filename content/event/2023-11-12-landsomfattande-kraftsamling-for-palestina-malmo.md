@@ -9,6 +9,7 @@ streetAddress: "Östra Rönneholmsvägen 20"
 postalCode: "211 47"
 addressRegion: "Malmö"
 addressCountry: "Sweden"
+source: "https://www.facebook.com/events/3582550541999359/"
 ---
 Landsomfattande kraftsamling för Palestina.
 

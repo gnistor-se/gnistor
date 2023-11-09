@@ -7,6 +7,7 @@ organizer: Enhetsfront för Palestina
 addressName: "Stora torget"
 addressRegion: "Karlstad"
 addressCountry: "Sweden"
+source: "https://www.facebook.com/events/2286545064876101/"
 ---
 Landsomfattande kraftsamling för Palestina.
 

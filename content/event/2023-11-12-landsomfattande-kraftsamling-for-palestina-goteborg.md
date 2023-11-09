@@ -7,6 +7,7 @@ organizer: Enhetsfront för Palestina
 addressName: "Gustav Adolfs Torg"
 addressRegion: "Göteborg"
 addressCountry: "Sweden"
+source: "https://www.facebook.com/events/1008160850469743/"
 ---
 Landsomfattande kraftsamling för Palestina.
 
