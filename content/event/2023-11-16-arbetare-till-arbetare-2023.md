@@ -1,6 +1,6 @@
 ---
 title: "Prisutdelningen: Arbetare till Arbetare 2023"
-date: 2023-11-16 18.00:00
+date: 2023-11-16 18:00:00
 forms: [Fest]
 locations: [Stockholm]
 addressName: "Lokalen Caféet"
