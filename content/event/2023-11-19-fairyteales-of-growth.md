@@ -2,7 +2,7 @@
 title: "Fairytales of Growth"
 date: 2023-11-19 15:30:00
 forms: [Film]
-locations: [Stockholm]
+locations: [Malmö]
 addressName: "ABF-Huset"
 streetAddress: "Spånehusvägen 47"
 postalCode: "211 58"
