@@ -3,7 +3,7 @@ title: "Protest - Stoppa pendeltågskaoset"
 date: 2023-11-21 16:45:00
 forms: [Demonstration]
 locations: [Stockholm]
-organizer: Enhetsfront för Palestina
+organizer: Kampanjen Stoppa Pendeltågskaoset
 addressName: "Region Stockholm"
 streetAddress: "Lindhagensgatan 100"
 addressRegion: "Stockholm"
