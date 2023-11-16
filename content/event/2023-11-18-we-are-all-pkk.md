@@ -3,7 +3,7 @@ title: "We are all PKK"
 date: 2023-11-18 14:00:00
 forms: [Manifestation]
 locations: [Stockholm]
-addressName: "Turkiets Ambassad"
+addressName: "Tysklands Ambassad"
 streetAddress: "Skarpögatan 9"
 postalCode: "115 27"
 addressRegion: "Stockholm"
