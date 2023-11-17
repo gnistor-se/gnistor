@@ -1,6 +1,6 @@
 ---
 title: "Barnvagnsaktion för Gazas barn"
-date: 2023-11-20
+date: 2023-11-20 11:00:00
 forms: [Manifestation]
 locations: [Stockholm]
 addressName: "Gustav Adolfs torg"
