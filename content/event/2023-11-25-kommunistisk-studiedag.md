@@ -1,7 +1,7 @@
 ---
 title: "Kommunistisk studiedag! ☭"
 date: 2023-11-25 09:30:00
-forms: [Stidedag]
+forms: [Studiedag]
 locations: [Malmö]
 organizer: Revolution Malmö
 addressName: "Kvarnby folkhögskola"
