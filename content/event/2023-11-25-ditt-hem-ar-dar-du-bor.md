@@ -1,6 +1,6 @@
 ---
 title: "Ditt hem är där du bor - samling för kärlek och stöd till Malmös judiska befolkning"
-date: 2023-11-25 14:30
+date: 2023-11-25 14:30:00
 forms: [Manifestation]
 locations: [Malmö]
 addressName: "Betaniaplan"
