@@ -11,6 +11,6 @@ addressCountry: "Sweden"
 organizer: "International Solidarity Movement"
 source: ""
 ---
-Stöd praktiskt solidaritetsarbete på plats i Palestina. International Solidarity Movement, IMS, arbetar sedan 2001 med direkt aktion och dokumentation på Västbanken och periodvis även i Gaza. Just nu är behovet av aktivister stort. 
+Stöd praktiskt solidaritetsarbete på plats i Palestina. International Solidarity Movement, ISM, arbetar sedan 2001 med direkt aktion och dokumentation på Västbanken och periodvis även i Gaza. Just nu är behovet av aktivister stort. 
 
 Kl 18 håller aktivister från ISM en presentation av verksamheten och berättar hur du kan engagera dig. Därefter pub och folkkök fram till kl 22.
