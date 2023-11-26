@@ -2,7 +2,7 @@
 title: "Workshop Sonic Pi - beginner"
 date: 2023-12-03 16:00:00
 forms: [Workshop]
-locations: [Malmö, Skåne län]
+locations: [Malmö]
 organizer: Amalthea Bokkafé
 addressName: "Amalthea Bokkafé"
 streetAddress: "Kristianstadsgatan 41"
