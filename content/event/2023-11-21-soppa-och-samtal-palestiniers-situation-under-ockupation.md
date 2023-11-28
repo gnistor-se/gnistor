@@ -2,7 +2,7 @@
 title: "SOPPA OCH SAMTAL Palestiniers situation under ockupation"
 date: 2023-11-21 17:00:00
 forms: [Samtal]
-locations: [Malmö, Skåne län]
+locations: [Malmö]
 organizer: Amalthea Bokkafé
 addressName: "Amalthea Bokkafé"
 streetAddress: "Kristianstadsgatan 41"

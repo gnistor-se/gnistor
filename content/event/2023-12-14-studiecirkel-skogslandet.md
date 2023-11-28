@@ -1,6 +1,6 @@
 ---
 title: "Studiecirkel: Skogslandet"
-date: 2024-12-14 18:30:00
+date: 2023-12-14 18:30:00
 forms: [Studiecirkel]
 locations: [Stockholm]
 organizer: "Take Concrete Action"

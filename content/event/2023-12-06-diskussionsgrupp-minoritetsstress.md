@@ -2,7 +2,7 @@
 title: Diskussionsgrupp Minoritetsstress
 date: 2023-12-06 16:00:00
 forms: [Möte]
-locations: [Lund, Skåne län]
+locations: [Lund]
 organizer: Smålands Nation
 addressName: "Smålands Nation"
 streetAddress: "Kastanjegatan 7"
