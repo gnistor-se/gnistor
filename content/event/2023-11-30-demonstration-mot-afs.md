@@ -17,4 +17,8 @@ Den 30 november kommer det högerextrema partiet Alternativ för Sverige (AfS) s
 
 Vi tänker inte acceptera att AfS sprider sin vidriga hatpropaganda i vår stad. Vårt mål är att skapa en bred och fredlig demonstration. Vi vill visa att vi är fler än rasisterna; vi som står upp för människovärde, mot människofientlighet. Slut upp för antirasismen!
 
-Kungsträdgården, vid Karl XII:s staty 
+Kom till motdemonstrationen i grupp och lämna i grupp, var medveten om att högerextrema personer kan fota motdemonstranter. Anslut till motdemonstrationen i närheten av Karl XII:s staty vid ankomst.
+
+- När? Torsdag 30 november
+- Tid? Kl 18
+- Plats? Kungsträdgården"
