@@ -4,8 +4,8 @@ date: 2024-01-09 18:30:00
 forms: [Studiecirkel]
 locations: [Stockholm]
 organizer: "Take Concrete Action"
-addressName: "Stockholms LS av SAC"
-streetAddress: "Sveavägen 98"
+addressName: ""
+streetAddress: ""
 postalCode: ""
 addressRegion: "Stockholm"
 addressCountry: "Sweden"
