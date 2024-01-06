@@ -11,10 +11,14 @@ addressRegion: "Göteborg"
 addressCountry: "Sweden"
 source: "https://www.abf.se/arrangemang/vastra-gotalands-lan/goteborg/miljo-natur-djur/vansterns-svar-pa-klimatkrisen/"
 ---
-Boksamtal med Jonas Sjöstedt
+När högerpolitiker världen över går till attack mot klimatpolitiken är det upp till vänstern att driva på för en rättvis och effektiv omställning. Att hejda klimatförändringen och bygga ett bättre samhälle för flertalet måste vara ett gemensamt projekt.
 
-Välkomna till ett panelsamtal med Jonas Sjöstedt om den nyutkomna antologin "Vänsterns svar på klimatkrisen".
+Jonas Sjöstedt och Jens Holm samlar i en ny antologi 14 röster som ur skiftande perspektiv visar vägen framåt. I boken medverkar Andrea Andersson-Tay, Max Andersson, Malin Björk, Deniz Butros, Shora Esmailian, Kajsa Fredholm, Lars Henriksson, Gertrud Ingelman, Annika Lillemets, Elin Segerlind, Linda Snecker och Rickard Hjorth Warlenius.
 
-I panelen deltar också Max Andersson, Lars Henriksson och Gertrud Ingelman som alla bidragit med avsnitt.
+Välkommen på bokrelease och samtal om klimatkrisen och vänsterns svar.
 
-Samtalet modereras av Cecilia Verdinelli, samhällsdebattör
+📍 Tid och plats Lördagen den 13 januari kl. 1500
+
+Sandlersalen, plan 1
+
+Fri entré!
