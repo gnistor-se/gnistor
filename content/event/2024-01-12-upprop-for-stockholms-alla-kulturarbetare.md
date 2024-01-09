@@ -2,7 +2,7 @@
 title: "UPPROP FÖR STOCKHOLMS ALLA KULTURARBETARE I STÖD FÖR PALESTINA"
 date: 2024-01-12 12:00:00
 forms: [Upprop]
-locations: [Stockhoolm]
+locations: [Stockholm]
 organizer: "Stockholm Culture Workers for Palestine"
 addressName: ""
 streetAddress: ""
