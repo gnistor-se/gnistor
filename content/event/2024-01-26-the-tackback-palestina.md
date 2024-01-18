@@ -20,7 +20,7 @@ Våra talare får 15 min var att bemöta dem.
 
 ## Medverkande:
 - **Caroline Lund**, doktorand internationella fredsstudier vid Trinity College
-- **Dr Nayla Steteh**, specialist i barnmedicin och barnneurologi
+- **Dr Nayla Esteitie**, specialist i barnmedicin och barnneurologi
 - **Yosef Al Khatib**, kulturarbetare, palestinier från Gaza
 - **Kristofer Lundberg**, politiker Vänsterpartiet Angered
 
