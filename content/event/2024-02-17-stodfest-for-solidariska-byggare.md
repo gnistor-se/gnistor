@@ -15,7 +15,7 @@ Fackföreningen Solidariska byggare har senaste åren gjort ett enormt jobb med 
 
 ## Men nu behöver de din hjälp!
 
-Lördag 17 februari från kl. 17 ses vi på Cyklopen för en helkväll med mat, samtal, musik och fest.
+Lördag 17 februari från kl. 17 ses vi på Cyklopen för en helkväll med mat, samtal, musik och fest. (18-årsgräns)
 
 Det gör vi för att stötta Solidariska byggare som nyligen förlorat ett fall i Arbetsdomstolen där de blivit dömda att betala 291 800 kronor i rättegångskostnader.
 
