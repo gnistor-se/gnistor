@@ -1,6 +1,6 @@
 ---
 title: "Rättsskandalen Olof Palme"
-date: 2024-02-06 18:30:00
+date: 2024-02-07 18:30:00
 forms: [Möte]
 locations: [Göteborg]
 organizer: "Socialistisk Politik Göteborg"
