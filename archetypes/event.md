@@ -1,8 +1,14 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-place: ""
+enddate: {{ .Date }}
 locations: []
 forms: []
 organizer: ""
+streetAddress: ""
+postalCode: ""
+addressName: ""
+addressRegion: ""
+addressCountry: ""
+source: ""
 ---
