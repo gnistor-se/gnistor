@@ -18,7 +18,7 @@
 			{{ if ( eq .Type "event" ) }}
 				<div class="flex flex-row gap-5 md:gap-7 justify-evenly my-9">
 					<div class="bg-opace flex-none w-14 md:w-16 rounded-2xl flex flex-col justify-center items-center">
-						{{ if isset .Params "enddate" }}
+						{{ if and (.Params.enddate) (ne (time .Params.enddate).Day .Date.Day) }}
 							{{ $enddate := (time .Params.enddate) }}
 							<div>
 								<h3 class="tracking-tighter font-bold text-sm m-0">{{ .Date.Day }}-{{ $enddate.Day }}</h3>
@@ -36,7 +36,7 @@
 					<div class="flex-auto overflow-hidden text-sm">
 						<p class="my-1 text-slate-500 truncate">
 							<time datetime="{{ dateFormat "2006-01-02T03:04PM" .Date }}">
-							{{ if .Params.enddate}}
+							{{ if and (.Params.enddate) (ne (time .Params.enddate).Day .Date.Day) }}
 								{{ $enddate := (time .Params.enddate) }}
 								{{ dateFormat "2 January" .Date }}
 								– {{ dateFormat "2 January"  $enddate }}
