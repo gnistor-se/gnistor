@@ -3,6 +3,7 @@ title: "8 mars på Verket!"
 date: 2024-03-08 18:00:00
 forms: [Fest]
 locations: [Umeå]
+topics: ["8 mars"]
 organizer: ""
 addressName: "Verket"
 streetAddress: "Götgatan 2"

@@ -2,6 +2,7 @@
 title: "Internationella Kvinnodagen 8 mars"
 date: 2024-03-08 17:30:00
 forms: [Demonstration]
+topics: ["8 mars"]
 locations: [Göteborg]
 organizer: "8:e marskommittén Göteborg"
 addressName: "Gustaf Adolfs Torg"

@@ -2,6 +2,7 @@
 title: "Ta natten tillbaka 2024: Tillsammans för de som tystas"
 date: 2024-03-08 21:00:00
 forms: [Demonstration]
+topics: ["8 mars"]
 locations: [Göteborg]
 organizer: "Ta natten tillbaka Göteborg"
 addressName: "Hagakyrkan"

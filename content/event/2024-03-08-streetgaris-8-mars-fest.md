@@ -2,6 +2,7 @@
 title: "Streetgäris 8 mars fest"
 date: 2024-03-08 17:30:00
 forms: [Fest]
+topics: ["8 mars"]
 locations: [Stockholm]
 organizer: "StreetGäris"
 addressName: "Fryshuset i Stockholm"

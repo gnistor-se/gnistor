@@ -2,6 +2,7 @@
 title: "Feministisk heldag inför 8 mars"
 date: 2024-03-02 10:00:00
 forms: [Forum]
+topics: ["8 mars"]
 locations: [Göteborg]
 organizer: "Vänsterpartiet Göteborg"
 addressName: ""

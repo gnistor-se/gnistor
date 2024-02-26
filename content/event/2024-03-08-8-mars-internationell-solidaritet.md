@@ -3,6 +3,7 @@ title: "8 MARS Internationell Solidaritet: Alla kvinnors kampenhet!"
 date: 2024-03-08 17:30:00
 forms: [Demonstration]
 locations: [Malmö]
+topics: ["8 mars"]
 organizer: "Vänsterpartiet Malmö m.fl."
 addressName: "Gustav Adolfs Torg"
 streetAddress: "Gustav Adolfs torg"

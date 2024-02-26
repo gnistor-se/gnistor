@@ -2,6 +2,7 @@
 title: "Feministisk AW 8 mars!"
 date: 2024-03-08 17:30:00
 forms: [Fest]
+topics: ["8 mars"]
 locations: [Malmö]
 organizer: " Socialdemokraterna i Malmö m.fl."
 addressName: "Grand Malmö"

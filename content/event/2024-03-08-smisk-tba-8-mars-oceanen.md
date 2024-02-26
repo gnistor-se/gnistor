@@ -2,6 +2,7 @@
 title: "SMISK + TBA | 8 Mars | Oceanen"
 date: 2024-03-08 20:00:00
 forms: [Musik]
+topics: ["8 mars"]
 locations: [Göteborg]
 organizer: "SMISK & Oceanen"
 addressName: ""

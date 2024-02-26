@@ -2,6 +2,7 @@
 title: "Internationella kvinnodagen med IKF"
 date: 2024-03-08 16:30:00
 forms: [Forum]
+topics: ["8 mars"]
 locations: []
 organizer: "IKF Malmö - Internationella Kvinnoföreningen"
 addressName: "Malmö Rådhus"

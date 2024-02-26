@@ -2,6 +2,7 @@
 title: "8e mars med Malmö LS och SUF Malmö"
 date: 2024-03-08 18:00:00
 forms: [Demonstration]
+topics: ["8 mars"]
 locations: [Malmö]
 organizer: "Malmö LS av SAC Syndikalisterna"
 addressName: "Möllevångstorget"

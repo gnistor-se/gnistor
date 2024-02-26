@@ -2,6 +2,7 @@
 title: "Ta Natten Tillbaka Stockholm"
 date: 2024-03-08 20:00:00
 forms: [Demonstration]
+topics: ["8 mars"]
 locations: [Stockholm]
 organizer: "Allt åt alla Stockholm m.fl."
 addressName: "Tjärhovsplan"
