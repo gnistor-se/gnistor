@@ -55,6 +55,10 @@
 						{{ range (.GetTerms "forms") }}
 							<a href="{{ .Permalink }}" class="inline-block rounded-full bg-dark hover:bg-opace text-white hover:text-dark px-2 py-1 leading-none text-xs">{{ .Title }}</a>
 						{{ end }}
+						
+						{{ range (.GetTerms "topics") }}
+							<a href="{{ .Permalink }}" class="inline-block rounded-full bg-orange hover:bg-opace text-white hover:text-dark px-2 py-1 leading-none text-xs">{{ .Title }}</a>
+						{{ end }}
 					</div>
 				</div>
 			{{ end }}

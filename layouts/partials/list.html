@@ -40,6 +40,10 @@
 								{{ range (.GetTerms "forms") }}
 									<span class="inline-block rounded-full bg-dark text-white px-2 py-1 leading-none text-xs">{{ .Title }}</span>
 								{{ end }}
+								
+								{{ range (.GetTerms "topics") }}
+									<span class="inline-block rounded-full bg-orange text-white px-2 py-1 leading-none text-xs">{{ .Title }}</span>
+								{{ end }}
 							</a>
 						</li>
 					{{ end }}

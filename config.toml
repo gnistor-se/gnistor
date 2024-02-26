@@ -8,6 +8,7 @@ timeZone = 'Europe/Stockholm'
 [taxonomies]
 	location = 'locations'
 	form = 'forms'
+	topic = 'topics'
 [sitemap]
 	changefreq = 'always'
 	filename = 'sitemap.xml'

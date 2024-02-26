@@ -4,6 +4,7 @@ date: {{ .Date }}
 enddate: {{ .Date }}
 locations: []
 forms: []
+topics: []
 organizer: ""
 streetAddress: ""
 postalCode: ""
