@@ -4,6 +4,11 @@ date: 2024-03-08 21:00:00
 locations: "Uppsala"
 forms: ["Demonstration", "Gatufest"]
 topics: "8-mars"
+addressName: Uppsala
+streetAddress: "Vaksalagatan 1"
+postalCode: "753 20"
+addressRegion: "Uppsala"
+addressCountry: Sweden
 organizer: "Allt åt alla Uppsala"
 source: https://www.facebook.com/events/1139531047220587/
 ---
