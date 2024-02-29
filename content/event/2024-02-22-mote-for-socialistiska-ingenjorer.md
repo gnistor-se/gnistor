@@ -2,12 +2,12 @@
 title: "Möte för Socialistiska Ingenjörer"
 date: 2024-02-22 18:00:00
 forms: [Möte]
-locations: [Stocholm]
+locations: [Stockholm]
 organizer: "Socialistiska Ingenjörer Stockholm"
 addressName: ""
 streetAddress: ""
 postalCode: ""
-addressRegion: ""
+addressRegion: "Stockholm"
 addressCountry: "Sweden"
 source: "https://twitter.com/SocIngenjorer/status/1752045572062646652"
 ---

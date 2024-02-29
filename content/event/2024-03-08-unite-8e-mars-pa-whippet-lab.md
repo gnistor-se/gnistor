@@ -1,7 +1,7 @@
 ---
 title: "Unite - 8e mars på Whippet Lab"
 date: 2024-03-08 17:00:00
-forms: [Stockholm]
+forms: ['Fest']
 topics: ["8 mars"]
 locations: [Stockholm]
 organizer: "Whippet Lab Stockholm"

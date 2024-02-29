@@ -2,7 +2,7 @@
 title: Vem bestämmer på svensk arbetsmarknad?
 date: 2024-02-21 18:00:00
 forms: [Samtal]
-locations: [Online]
+locations: [Internet]
 organizer: "Byggnads & Svenska Europarörelsen"
 addressName: Onlineevenemang
 streetAddress: 

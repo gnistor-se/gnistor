@@ -2,7 +2,7 @@
 title: Flyktingfängelser former för motstånd och abolitionistiska alternativ
 date: 2024-02-22 19:00:00
 forms: [Samtal]
-locations: [Malmö, Skåne län]
+locations: [Malmö]
 organizer: Amalthea Bokkafé
 addressName: Sociala Centret Solidar
 streetAddress: Bragegatan 24

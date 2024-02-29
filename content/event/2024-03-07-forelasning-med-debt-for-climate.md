@@ -2,7 +2,7 @@
 title: "Föreläsning med Debt for Climate"
 date: 2024-03-07 18:00:00
 forms: [Samtal]
-locations: [Online]
+locations: [Internet]
 organizer: "Ta tillbaka framtiden"
 addressName: Onlineevenemang
 streetAddress: 

@@ -2,11 +2,11 @@
 title: "Rörelsens Salonger: Åkesson, Putin, Trump och Musk - Så gör vi motstånd och återfår hoppet"
 date: 2024-03-13 18:00:00
 forms: [Samtal]
-locations: [Stockhlom]
+locations: [Stockholm]
 organizer: "Rörelsen"
 addressName: "ABF Stockholm"
 streetAddress: "Sveavägen 41"
-addressRegion: "Stockhlom"
+addressRegion: "Stockholm"
 addressCountry: Sweden
 source: https://www.facebook.com/events/427438646389015/
 ---

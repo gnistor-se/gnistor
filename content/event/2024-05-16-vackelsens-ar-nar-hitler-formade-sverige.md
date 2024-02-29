@@ -2,7 +2,7 @@
 title: "Väckelsens vår. När Hitler formade Sverige"
 date: 2024-05-16 18:00:00
 forms: [Samtal]
-locations: [Online]
+locations: [Internet]
 organizer: ""
 addressName: ""
 streetAddress: ""

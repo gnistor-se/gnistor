@@ -2,7 +2,7 @@
 title: "XR och kampen om tiden - vi går på teater!"
 date: 2024-02-18 17:00:00
 forms: [Teater]
-locations: [Handen]
+locations: [Stockholm]
 organizer: "XR"
 addressName: "Ormteatern"
 streetAddress: "Rudanvägen 61"

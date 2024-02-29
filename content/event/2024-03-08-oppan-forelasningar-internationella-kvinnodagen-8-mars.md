@@ -3,7 +3,7 @@ title: "Öppna föreläsningar – Internationella Kvinnodagen 8 mars"
 date: 2024-03-08 10:00:00
 forms: [Föreläsning]
 topics: ["8 mars"]
-locations: [Online]
+locations: [Internet]
 organizer: "Enskilda Högskolan Stockholm m.fl."
 addressName: ""
 streetAddress: ""

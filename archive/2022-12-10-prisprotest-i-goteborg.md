@@ -2,7 +2,7 @@
 title: Prisprotest i Göteborg
 date: 2022-12-10 15:00:00
 forms: [Manifestation]
-locations: [Götebrog]
+locations: [Göteborg]
 organizer: Allt åt alla Göteborg
 ---
 

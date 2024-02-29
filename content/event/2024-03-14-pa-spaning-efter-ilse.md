@@ -2,7 +2,7 @@
 title: "På spaning efter Ilse"
 date: 2024-03-14 19:00:00
 forms: [Samtal]
-locations: [Online]
+locations: [Internet]
 organizer: "Arbetarrörelsens arkiv och bibliotek"
 addressName: ""
 streetAddress: ""
