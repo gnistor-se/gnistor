@@ -45,6 +45,23 @@
 	<meta name="msapplication-TileImage" content="https://media.gnistor.se/ms-icon-144x144.png">
 	<meta name="theme-color" content="#ffffff">
 
+<style type="text/css">
+	{{ range $name, $taxonomy := .Site.Taxonomies.locations }}
+		[data-filter="{{ lower $name }}"] ul#list li.event:not(.{{ lower $name }}) {
+			display: none;
+		}
+		[data-filter="{{ lower $name }}"] ul#filter li.{{ lower $name }} {
+			background: black;
+			color: white;
+			border-color: black;
+		}
+		[data-filter="{{ lower $name }}"] ul#filter li.{{ lower $name }}:hover {
+			background: white;
+			color: black;
+			border-color: lightgray;
+		}
+	{{ end }}
+	</style>
 
 </head>
 
@@ -58,9 +75,6 @@
 	
 	{{ $script := resources.Get "script.js" }}
 	<script src="{{ $script.Permalink }}" defer> </script>
-	{{ if .Params.podcast }}
-		{{ $audio := resources.Get "essential_audio.js" }}
-		<script src="{{ $audio.Permalink }}" defer> </script>
-	{{ end }}
 </body>
+
 </html>

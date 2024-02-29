@@ -2,6 +2,12 @@
 	{{ $scratch := newScratch }}
 	{{ $pages := .Site.RegularPages.ByDate }}
 	
-	{{ partial "list.html"  $pages  }}
+	<div class="container mx-auto px-6 my-9">
+		<div class="grid grid-cols-1 md:grid-cols-10 gap-y-6 gap-x-24 md:gap-y-12">
+			{{ partial "list.html"  $pages  }}
+			
+			{{ partial "sidebar.html" . }}
+		</div>
+	</div>
 	
 {{ end }}

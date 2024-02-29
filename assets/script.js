@@ -1,18 +1,14 @@
 window.onload = function(event) {
-	let show = 7;
-	let show_hide = 3;
-	let items = document.querySelectorAll('#list li');
-	if ( items.length > 0 ) {
-		show_hide_list( show, items );
-		
-		let load_more = document.querySelectorAll('#load_more');
-		load_more.forEach( item => {
-			item.addEventListener( 'click', function() {
-				show += show_hide;
-				show_hide_list(show, items);
-			});
+	let filters = document.querySelectorAll('#filter li');
+	filters.forEach( filter => {
+		filter.addEventListener( 'click', function() {
+			if ( document.querySelector('body').dataset.filter === filter.classList.toString() ) {
+				document.querySelector('body').dataset.filter = "";	
+			} else {
+				document.querySelector('body').dataset.filter = filter.classList.toString();
+			}
 		});
-	}
+	});
 	
 	let toggle_nav = document.querySelectorAll('#toggle-nav');
 	let mobile_nav = document.querySelector('#mobile-nav');

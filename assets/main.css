@@ -15,6 +15,10 @@ article ul {
 	@apply my-6;
 }
 
+.month {
+	@apply capitalize -mb-6 font-bold;
+}
+
 .dark {
 	@apply bg-dark;
 }
@@ -53,3 +57,16 @@ article #content a:hover {
 article #content ul {
 	@apply list-disc ml-5;
 }
+
+
+/**
+ * Filter
+ */
+#filter li {
+ @apply capitalize text-xs hover:bg-black hover:text-white cursor-pointer hover:border-black border rounded-full px-2 py-1 leading-none text-xs;
+}
+
+#topics li {
+ @apply capitalize bg-orange border-orange text-white text-xs hover:bg-white hover:text-orange cursor-pointer hover:border-orange border rounded-full px-2 py-1 leading-none text-xs;
+}
+
