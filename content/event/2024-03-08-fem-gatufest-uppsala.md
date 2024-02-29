@@ -1,7 +1,7 @@
 ---
 title: "Feministisk gatufest Uppsala"
 date: 2024-03-08 21:00:00
-locations: "Uppsala"
+locations: ["Uppsala"]
 forms: ["Demonstration", "Gatufest"]
 topics: "8-mars"
 addressName: Uppsala
