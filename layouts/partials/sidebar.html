@@ -43,97 +43,98 @@
 	<hr class="mt-9 md:my-9" />
 	
 	<div class="hidden md:block">
-	{{ $weekdays := dict "Monday" 0 "Tuesday" 1 "Wednesday" 2 "Thursday" 3 "Friday" 4 "Saturday" 5 "Sunday" 6 }}
-	{{ $months := dict "January" "Januari" "February" "Februari" "March" "Mars" "April" "April" "May" "Maj" "June" "Juni" "July" "Juli" "August" "Augusti" "September" "September" "October" "Oktober" "November" "November" "December" "December" }}
-	{{ $first_day_this_month := (now.AddDate 0 0 (int (add (sub now.Day (mul now.Day 2 )) 1))) }}
-	{{ $last_day_this_month := (now.AddDate 0 1 (int (sub now.Day (mul now.Day 2 )))) }}
-	{{ $days_bf := index $weekdays (string $first_day_this_month.Weekday) }}
-	<h2 class="font-bold md:text-lg mb-6 md:mb-9">{{ index $months ( string $first_day_this_month.Month ) }}</h2>
-	
-	<div class="grid grid-cols-7 gap-1 text-xs my-6 md:my-9">
-		<div class="flex justify-center items-center">Mån</div>
-		<div class="flex justify-center items-center">Tis</div>
-		<div class="flex justify-center items-center">Ons</div>
-		<div class="flex justify-center items-center">Tor</div>
-		<div class="flex justify-center items-center">Fre</div>
-		<div class="flex justify-center items-center">Lör</div>
-		<div class="flex justify-center items-center">Sön</div>
+		{{ $weekdays := dict "Monday" 0 "Tuesday" 1 "Wednesday" 2 "Thursday" 3 "Friday" 4 "Saturday" 5 "Sunday" 6 }}
+		{{ $months := dict "January" "Januari" "February" "Februari" "March" "Mars" "April" "April" "May" "Maj" "June" "Juni" "July" "Juli" "August" "Augusti" "September" "September" "October" "Oktober" "November" "November" "December" "December" }}
+		{{ $first_day_this_month := (now.AddDate 0 0 (int (add (sub now.Day (mul now.Day 2 )) 1))) }}
+		{{ $last_day_this_month := (now.AddDate 0 1 (int (sub now.Day (mul now.Day 2 )))) }}
+		{{ $days_bf := index $weekdays (string $first_day_this_month.Weekday) }}
+		<h2 class="font-bold md:text-lg mb-6 md:mb-9">{{ index $months ( string $first_day_this_month.Month ) }}</h2>
 		
-		{{ range seq $days_bf }}
-			<div class="text-gray-200 flex justify-center items-center">-</div>
-		{{ end }}
-		{{ $pages := .Site.RegularPages.ByDate }}
-		
-		{{ range seq $last_day_this_month.Day }}
-			<div class="flex justify-center items-center">
-				{{ $bgColor := "white text-dark" }}
-				
-				{{ $nowdate := . }}
-				{{ $mapName := (string $nowdate) }}
-				{{ range where $pages "Type" "event" }}
-					{{ if isset .Params "enddate" }}
-						{{ $enddate := (time .Params.enddate) }}
-						{{ if 
-						(and
-							(and 
-								(or 
-									(gt $enddate.Day $nowdate)
-									(eq $enddate.Day $nowdate)
-								)
-								(or
-									(gt $nowdate .Date.Day)
-									(eq $nowdate .Date.Day)
-								)
-							)
-							(eq .Date.Month $last_day_this_month.Month)
-							(eq .Date.Year $last_day_this_month.Year)
-						)
-						}}
-							{{ $scratch.SetInMap $mapName .Permalink .Title }}
-						{{ end }}
-					{{ else }}
-						{{ if
+		<div class="grid grid-cols-7 gap-1 text-xs my-6 md:my-9">
+			<div class="flex justify-center items-center">Mån</div>
+			<div class="flex justify-center items-center">Tis</div>
+			<div class="flex justify-center items-center">Ons</div>
+			<div class="flex justify-center items-center">Tor</div>
+			<div class="flex justify-center items-center">Fre</div>
+			<div class="flex justify-center items-center">Lör</div>
+			<div class="flex justify-center items-center">Sön</div>
+			
+			{{ range seq $days_bf }}
+				<div class="text-gray-200 flex justify-center items-center">-</div>
+			{{ end }}
+			{{ $pages := .Site.RegularPages.ByDate }}
+			
+			{{ range seq $last_day_this_month.Day }}
+				<div class="flex justify-center items-center">
+					{{ $bgColor := "white text-dark" }}
+					
+					{{ $nowdate := . }}
+					{{ $mapName := (string $nowdate) }}
+					{{ range where $pages "Type" "event" }}
+						{{ if isset .Params "enddate" }}
+							{{ $enddate := (time .Params.enddate) }}
+							{{ if 
 							(and
-								(eq .Date.Day $nowdate)
+								(and 
+									(or 
+										(gt $enddate.Day $nowdate)
+										(eq $enddate.Day $nowdate)
+									)
+									(or
+										(gt $nowdate .Date.Day)
+										(eq $nowdate .Date.Day)
+									)
+								)
 								(eq .Date.Month $last_day_this_month.Month)
 								(eq .Date.Year $last_day_this_month.Year)
 							)
-						}}
-							{{ $scratch.SetInMap $mapName .Permalink .Title }}
+							}}
+								{{ $scratch.SetInMap $mapName .Permalink .Title }}
+							{{ end }}
+						{{ else }}
+							{{ if
+								(and
+									(eq .Date.Day $nowdate)
+									(eq .Date.Month $last_day_this_month.Month)
+									(eq .Date.Year $last_day_this_month.Year)
+								)
+							}}
+								{{ $scratch.SetInMap $mapName .Permalink .Title }}
+							{{ end }}
 						{{ end }}
+						
 					{{ end }}
 					
-				{{ end }}
-				
-				{{ if $scratch.Get (string .) }}
-					{{ $bgColor = "dark text-white" }}
-				{{ end }}
-				{{ if $scratch.Get (string .) }}
-					{{ $event := $scratch.Get (string .) }}
-					<div class="{{ $bgColor }} rounded-full w-6 h-6 flex justify-center items-center group relative">
-						{{ . }}
-						{{ if ( eq (string .) (string now.Day) ) }}
-							<img src="{{ $circle.RelPermalink }}" class="w-9 h-9 max-w-none absolute l-0" alt="Dagens datum" loading="lazy">
-						{{ end }}
-						
-						<span class="tooltip {{ $bgColor }}">
-							{{ range $permalink, $title := $event }}
-								<div class="my-1">
-									<a href="{{ $permalink }}" class="no-underline leading-tight hover:underline">{{ $title }}</a>
-								</div>
+					{{ if $scratch.Get (string .) }}
+						{{ $bgColor = "dark text-white" }}
+					{{ end }}
+					{{ if $scratch.Get (string .) }}
+						{{ $event := $scratch.Get (string .) }}
+						<div class="{{ $bgColor }} rounded-full w-6 h-6 flex justify-center items-center group relative">
+							{{ . }}
+							{{ if ( eq (string .) (string now.Day) ) }}
+								<img src="{{ $circle.RelPermalink }}" class="w-9 h-9 max-w-none absolute l-0" alt="Dagens datum" loading="lazy">
 							{{ end }}
-						</span>
-					</div>
-				{{ else }}
-					<div class="{{ $bgColor }} rounded-full w-6 h-6 flex justify-center items-center">
-						{{ . }}
-						
-						{{ if ( eq (string .) (string now.Day) ) }}
-							<img src="{{ $circle.RelPermalink }}" class="w-6 h-6 absolute l-0" alt="Dagens datum" loading="lazy">
-						{{ end }}
-					</div>
-				{{ end }}
-			</div>
-		{{ end }}
+							
+							<span class="tooltip {{ $bgColor }}">
+								{{ range $permalink, $title := $event }}
+									<div class="my-1">
+										<a href="{{ $permalink }}" class="no-underline leading-tight hover:underline">{{ $title }}</a>
+									</div>
+								{{ end }}
+							</span>
+						</div>
+					{{ else }}
+						<div class="{{ $bgColor }} rounded-full w-6 h-6 flex justify-center items-center">
+							{{ . }}
+							
+							{{ if ( eq (string .) (string now.Day) ) }}
+								<img src="{{ $circle.RelPermalink }}" class="w-6 h-6 absolute l-0" alt="Dagens datum" loading="lazy">
+							{{ end }}
+						</div>
+					{{ end }}
+				</div>
+			{{ end }}
+		</div>
 	</div>
 </div>
