@@ -1,6 +1,6 @@
 ---
 title: "Manifestation - Ryssland ut ur Ukraina"
-date: 2024-03-04 12:30:00
+date: 2024-03-06 12:30:00
 forms: [Manifestation]
 locations: [Stockholm]
 organizer: "Ryssland ut ur Ukraina"
