@@ -2,7 +2,7 @@
 title: Grön Ny Giv med Rikard Hjorth Warlenius
 date: 2024-04-10 18:00:00
 forms: [Föreläsning]
-locations: [Online]
+locations: [Internet]
 organizer: Ta tillbaka framtiden
 addressName:
 streetAddress: 
