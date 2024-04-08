@@ -1,6 +1,6 @@
 ---
-title: "Invigning av Bokkafé Angbett"
-date: 2024-04-13 13:00
+title: "Invigning av Bokkafe Angbett"
+date: 2024-04-13 13:00:00
 forms: [Fest]
 locations: [Umeå]
 organizer: "Bokkafé Angbett"
