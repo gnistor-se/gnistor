@@ -2,6 +2,7 @@
 title: "Första maj-fest med Dagens ETC"
 date: 2024-05-01 18:00:00
 forms: [Fest]
+topics: ["1 maj"]
 locations: [Stockholm]
 organizer: "Dagens ETC"
 addressName: "Plais"
