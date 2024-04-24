@@ -1,6 +1,6 @@
 ---
 title: "Week of Action for Social and Climate Justice, 20-26 maj 2024"
-date: 2024-05-19 24:00:00
+date: 2024-05-19 23:59:00
 end_date: 2024-05-26 221:59:00
 forms: [Aktion]
 locations: [Sverige]
