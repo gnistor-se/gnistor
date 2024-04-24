@@ -11,7 +11,7 @@ addressRegion: "Enskede"
 addressCountry: "Stockholm"
 source: "https://via.tt.se/pressmeddelande/3444583/nazister-attackerade-antirasistiskt-mote-i-gubbangen?publisherId=1863378"
 ---
-I bakgrund av den fega attacken mot ett antifascistiskt möte i Gubbängen, Stockholm, i onsdags uppmanas all Stockholmare komma och visa sin avsky mot det högerextrema våldet.
+Mot bakgrund av den fega attacken mot ett antifascistiskt möte i Gubbängen, Stockholm, i onsdags uppmanas alla stockholmare komma och visa sin avsky mot det högerextrema våldet.
 
 "Vi uppmanar alla att komma till en manifestation mot rasistiskt våld utanför Teater moment klockan 12.00 på lördag, avslutar Samuel Gonzalez Westling (Vänsterpartiet Enskede)."
 
