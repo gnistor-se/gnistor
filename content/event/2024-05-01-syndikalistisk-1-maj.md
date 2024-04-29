@@ -13,8 +13,17 @@ source: https://www.facebook.com/events/1116837899529734/
 ---
 Fira syndikalistisk 1 maj i Stockholm.
 
-Vi ses på Plattan/Sergels Torg kl 11:00.
+Vi ses på Plattan/Sergels Torg kl 11.00.
 
-Avmarsch kl 12:00 mot Stortorget, Gamla Stan.
+- 12:00 avmarsch mot Stortorget, Gamla Stan.
+- 13:00 Tal, musik och allsång.
 
-Mer info kommer! 
+Partisymboler och nationsflaggor undanbedes.
+
+Talar gör Gabriel Kuhn, generalsekreterare SAC, representanter från Solidariska byggare, Städsyndikatet, Vårdsyndikatet, SUF Stockholm, Allt åt Alla Stockholm.
+
+## Artister på Stortorget:
+Varför ändra ett vinnande koncept? Förra årets artister återvänder till Stortorget i år.
+
+- Guran från Guran Guran
+- Elin Callmer, spelar egna låtar, samt håller i allsången
