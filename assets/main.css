@@ -15,6 +15,10 @@ article ul {
 	@apply my-6;
 }
 
+ol {
+	@apply my-6 pl-4 list-decimal;
+}
+
 .month {
 	@apply capitalize -mb-6 font-bold;
 }
