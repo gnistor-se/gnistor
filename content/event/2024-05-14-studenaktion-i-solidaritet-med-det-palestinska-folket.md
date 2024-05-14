@@ -20,3 +20,5 @@ Aktionen är i en form av ett läger på universitetsområdet Frescati där stud
 Plats för lägret: Utanför Bloms hus på Frescati
 
 Var: Stockholms universitet/Bloms hus på Frescati
+
+När: 14:e maj - framåt
