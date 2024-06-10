@@ -1,6 +1,6 @@
 ---
 title: Kulturkväll till minne av al-Naksa
-date: 2024-06-16 14:30:00
+date: 2024-06-16 15:30:00
 forms: [Film]
 locations: [Göteborg]
 organizer: Samidoun Göteborg
