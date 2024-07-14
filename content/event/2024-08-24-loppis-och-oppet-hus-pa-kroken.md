@@ -1,5 +1,5 @@
 ---
-title:" Loppis och öppet hus på Korken"
+title: "Loppis och öppet hus på Korken"
 date: 2024-08-24 12:00:00
 forms: [Fest]
 locations: [Stockholm]
