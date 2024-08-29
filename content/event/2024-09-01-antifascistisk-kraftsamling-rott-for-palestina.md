@@ -1,5 +1,5 @@
 ---
-title: "Antifascistisk kraftsamling - Rött för palestina"
+title: "Antifascistisk kraftsamling - Rött för Palestina"
 date: 2024-09-01 14:00:00
 forms: [Demonstration]
 locations: [Göteborg]
