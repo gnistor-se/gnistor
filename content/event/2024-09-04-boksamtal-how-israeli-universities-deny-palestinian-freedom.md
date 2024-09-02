@@ -1,6 +1,6 @@
 ---
 title: "Boksamtal: How Israeli Universities Deny Palestinian Freedom "
-date: 2024-09-03 16:00:00
+date: 2024-09-04 16:00:00
 forms: [Samtal]
 locations: [Göteborg]
 organizer: "Humanistiska fakulteten Göteborgs universitet m.fl."
