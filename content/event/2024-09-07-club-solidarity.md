@@ -32,4 +32,5 @@ Mack Beats, Kablam, Sonic Erection, Braminho, NITEFISH, Mixing Dots, DJ Rawel, T
 https://docs.google.com/forms/d/e/1FAIpQLSekQOGCTs1xlGOyS-lvigT1f3x8uIq5_a8PmJ6xYSj3mFmlmg/viewform
 
 ❤️And if you want to donate but can’t come - swish to AlltÅtAlla at 123 341 52 13 and mark it with “student”.❤️
-🇵🇸FROM THE RIVER TO THE SEA, PALESTINE WILL BE FREE🇵🇸 See less
+
+🇵🇸FROM THE RIVER TO THE SEA, PALESTINE WILL BE FREE🇵🇸
