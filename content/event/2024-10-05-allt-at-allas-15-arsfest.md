@@ -1,6 +1,6 @@
 ---
 title: "Allt åt allas 15-årsfest"
-date: 2024-10-05 21:00:00
+date: 2024-10-05 20:00:00
 forms: [Fest]
 locations: [Stockgolm]
 organizer: "Allt åt alla Stockholm"
@@ -18,7 +18,7 @@ Alla som på något sätt varit med och organiserat sig med oss genom åren och 
 
 Tid och plats: Cyklopen, Stockholm
 
-- Lördag 5 oktober kl 21:00 - 01:00.
+- Lördag 5 oktober kl 20:00 - 01:00.
 - Fri entré, 18+
 
 Mer info om DJ:s m.m. kommer senare.
