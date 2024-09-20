@@ -1,7 +1,6 @@
 ---
 title: "GLOBAL MANIFESTATION MED REBELLMAMMORNA SKARABORG"
 date: "2024-09-21 10:30:00"
-enddate: "1970-01-01 01:00:00"
 locations: [Skaraborg]
 forms: [Manifestation]
 organizer: "Extinction Rebellion Sverige"
