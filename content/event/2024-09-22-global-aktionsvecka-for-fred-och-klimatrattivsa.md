@@ -34,4 +34,4 @@ Torsdag 26/9 • Möte med Pär Granstedt, freds-/ klimatdebattör och f.d. riks
 
 Lördag 28/9 • Trossamfunden, freden och klimaträttvisan. Kl 14:00, Svenska kyrkans församlingslokal, Fisksätra centrum. Panelsamtal med medverkande från muslimska och buddhistiska samfund, Svenska kyrkan, Equmeniakyrkan m.fl.
 
-Arrangörer är Arbetsgruppen för fred och rättvis klimatomställning i Svenska Freds, Artister för Fred, Fridays for Future i Lund, Malmö och Falköping och JOrdens vänners fredsutskott, Klimataktion i Skåne m.fl. (Bifogar dokument som inkluderar QR-kod, för uppdaterad info om vilka som deltagit i arbetet.)
+Arrangörer är Arbetsgruppen för fred och rättvis klimatomställning i Svenska Freds, Artister för Fred, Fridays for Future i Lund, Malmö och Falköping och Jordens vänners fredsutskott, Klimataktion i Skåne m.fl.
