@@ -1,7 +1,6 @@
 ---
 title: "En annan värld är möjlig - teatersamtal mellan Sofia Rönnegård, Ann Petrén och Ebba Petrén"
 date: "2024-09-30 18:00:00"
-enddate: "1970-01-01 01:00:00"
 locations: []
 forms: []
 organizer: "ABF Stockholm"
