@@ -15,7 +15,9 @@ På måndag är det Internationella barndagen, en dag som uppmärksammar alla ba
 
 På måndag kl 12 samlas vi återigen på Gustav Adolfs torg, utanför Utrikesdepartementet i Stockholm, för att sprida hopp och gemenskap, samt för att lyfta fram barnens rätt till fred. Vi samlas för att påminna politiker och förbipasserande om det akuta behovet av ett omedelbart eldupphör.
 
-Vår namninsamling växer stadigt och vi har nu över 22 500 underskrifter – ett kraftfullt budskap om det stora stöd denna fråga har. Dela gärna vår namninsamling för att hjälpa oss nå ännu fler (länk i vår beskrivning)
+Vår namninsamling växer stadigt och vi har nu över 22 500 underskrifter – ett kraftfullt budskap om det stora stöd denna fråga har. 
+
+Kan du inte komma så skriv gärna under uppropet: https://www.mittskifte.org/petitions/skriv-under-for-gazas-barn
 
 Vänligen,
 Föräldrar för eldupphör
