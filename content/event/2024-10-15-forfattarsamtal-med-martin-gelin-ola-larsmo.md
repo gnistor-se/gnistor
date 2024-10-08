@@ -9,7 +9,7 @@ streetAddress: "Sveavägen 41"
 postalCode: "SE-111 34 Stockholm"
 addressRegion: "Sweden"
 addressCountry: "Sverige"
-source: https://www.facebook.com/events/1712641316231048/
+source: https://abfstockholm.se/evenemang/forfattarsamtal-med-martin-gelin/
 ---
 Den 15.e oktober möts Martin Gelin och Ola Larsmo i ABF-huset för att diskuterara varandras böcker och perspektiv på USA.
 
