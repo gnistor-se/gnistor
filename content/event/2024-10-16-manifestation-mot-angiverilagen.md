@@ -1,6 +1,6 @@
 ---
 title: "MANIFESTATION MOT ANGIVERILAGEN"
-date: 2024-10-16 11:00:00
+date: 2024-11-16 11:00:00
 forms: [Manifestation]
 locations: [Jönköping]
 organizer: "Vänsterpartiet Aneby"
