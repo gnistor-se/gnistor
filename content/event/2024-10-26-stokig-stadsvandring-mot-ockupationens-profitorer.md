@@ -17,5 +17,4 @@ De företag och personer som gör miljonvinster på krigföringen mot det palest
 
 Vi kräver mer än eldupphör: ingen ska få profitera på ockupation och folkmord utan att möta motstånd.
 
-
-Uppsamlingsplats meddelas närmre datumet, håll utkik.
+Samlingsplats: Norra Bantorget klockan 18!
