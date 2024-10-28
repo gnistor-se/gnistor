@@ -2,7 +2,7 @@
 title: "Allt åt allas 15-årsfest"
 date: 2024-10-05 20:00:00
 forms: [Fest]
-locations: [Stockgolm]
+locations: [Stockholm]
 organizer: "Allt åt alla Stockholm"
 addressName: Cyklopen
 streetAddress: Magelungsvägen 170
