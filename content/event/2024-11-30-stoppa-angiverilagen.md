@@ -20,10 +20,14 @@ OLOF PALMES PLATS, GÖTEBORG
 Regeringen tillsammans med SD planerar en angiverilag som urholkar demokratin, bryter mot mänskliga rättigheter och splittrar samhället. I slutet på november presenteras den utredning som har fått i uppdrag att undersöka hur offentligt anställda ska tvingas ange papperslösa. Vi säger fortfarande: Vi anger inte!
 
 ## ORGANISATIONER SOM STÅR BAKOM MANIFESTATIONEN:
-- Amnesty International
 - Ingen Människa är Illegal Göteborg (IMäI)
+- Amnesty International
 - Allt åt Alla Göteborg
 - Riksföreningen Grunden
+- Agape
+- Papperslös inte värdelös
+- Västra Götalands Läkarförening sektion SU
+- Logopedförbundet Västra Götaland
 
 Bakgrund: Under 2023 meddelade Tidöpartierna ett tilläggsdirektiv till en pågående utredning som ska se över införandet över en s.k. informationsplikt, med andra ord en angiverilag. Det skulle innebära en skyldighet för kommuner, regioner och myndigheter att informera Migrationsverket och Polismyndigheten när de kommer i kontakt med personer som vistas i Sverige utan tillstånd. Utredningen ska överlämnas till regeringen den 29 november 2024.
 
