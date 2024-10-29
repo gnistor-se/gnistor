@@ -3,6 +3,7 @@ title: "Minnesmanifestation för Kristallnatten"
 date: "2024-11-09 18:00:00"
 locations: ["Helsingborg"]
 forms: ["Manifestation"]
+topics: ["Kristallnatten"]
 organizer: "Vänsterpartiet Helsingborg"
 addressName: 
 streetAddress: "Kullagatan 30"

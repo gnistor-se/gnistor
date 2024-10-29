@@ -3,6 +3,7 @@ title: "Minnesmanifestation för Kristallnatten Skövde"
 date: "2024-11-09 18:00:00"
 locations: [Skövde]
 forms: ["Manifestation"]
+topics: ["Kristallnatten"]
 organizer: "Vänsterpartiet Skaraborg"
 addressName: "Kulturhustorget"
 streetAddress: ""
