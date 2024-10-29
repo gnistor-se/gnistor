@@ -3,6 +3,7 @@ title: "Nej till antisemitism och fascism! Till minne av Novemberpogromen"
 date: "2024-11-09 18:00:00"
 locations: [Malmö]
 forms: [Manifestation]
+topics: ["Kristallnatten"]
 organizer: "Vänsterpartiet Malmö"
 addressName: "Möllevångstorget"
 streetAddress: "Möllevångstorget 5C"

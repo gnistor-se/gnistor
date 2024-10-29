@@ -3,6 +3,7 @@ title: "Fackeltåg till minne av kristallnatten"
 date: "2024-11-09 16:00:00"
 locations: [Göteborg]
 forms: [Demonstration]
+topics: ["Kristallnatten"]
 organizer: "9 november-kommittén Göteborg"
 addressName: "Kungsparken"
 streetAddress: "Kungsparken 1"

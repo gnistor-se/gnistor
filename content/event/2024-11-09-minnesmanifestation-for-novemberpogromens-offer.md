@@ -3,6 +3,7 @@ title: "Minnesmanifestation för novemberpogromens offer"
 date: "2024-11-09 16:15:00"
 locations: [Stockholm]
 forms: [Manifestation]
+topics: ["Kristallnatten"]
 organizer: "Ung Vänster Storstockholm m.fl."
 addressName: "Slussentorget"
 streetAddress: "Hornsgatan 8"
