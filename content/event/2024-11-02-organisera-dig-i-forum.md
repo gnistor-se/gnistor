@@ -2,8 +2,8 @@
 title: "ORGANISERA DIG I FORUM"
 date: "2024-11-02 13:00:00"
 enddate: "2024-11-02 16:00:00"
-locations: []
-forms: []
+locations: [Göteborg]
+forms: [Möte]
 organizer: "Syndikalistiskt Forum"
 addressName: 
 streetAddress: "Linnégatan 21"
