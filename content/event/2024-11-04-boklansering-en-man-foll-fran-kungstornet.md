@@ -17,4 +17,4 @@ Tusentals frivilliga reste från olika länder till Spanien på 30-talet för at
 
 Lanseringen hålls måndag 4 november kl. 18.30 i Biblioteket, Solidaritetshuset, Tegelviksgatan 40.
 
-Arrangörer: Bokförläggarna Röda Rummet i samarbete med Arbetarmakt och Socialistisk Politik.´
+Arrangörer: Bokförläggarna Röda Rummet i samarbete med Arbetarmakt och Socialistisk Politik.
