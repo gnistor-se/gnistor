@@ -1,7 +1,7 @@
 ---
 title: "Kulturproppen 50 år – Kulturpolitiskt battle!"
 date: "2024-10-22 18:30:00"
-locations: [Arena Idé]
+locations: [Stockholm]
 forms: [Samtal]
 organizer: "ABF Stockholm"
 addressName: 
