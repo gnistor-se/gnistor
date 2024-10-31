@@ -2,7 +2,7 @@
 title: "Studiecirkel - Digitala verktyg för social förändring"
 date: 2024-11-20 19:00:00
 forms: [Studiecirkel]
-locations: [Online]
+locations: [Internet]
 organizer: "Kamratdataföreningen Konstellationen"
 addressName: ""
 streetAddress: ""
