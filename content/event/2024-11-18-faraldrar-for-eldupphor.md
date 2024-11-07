@@ -2,6 +2,7 @@
 title: "Föräldrar för eldupphör"
 date: 2024-11-18 12:00:00
 forms: [Manifestation]
+topics: ["Palestina"]
 locations: [Stockholm]
 organizer: "Föräldrar för eldupphör"
 addressName: "Gustav Adolf Torg"

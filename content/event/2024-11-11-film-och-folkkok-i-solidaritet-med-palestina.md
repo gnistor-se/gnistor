@@ -3,6 +3,7 @@ title: "FILM OCH FOLKKÖK I SOLIDARITET MED PALESTINA"
 date: "2024-11-11 18:00:00"
 locations: [Stockholm]
 forms: [Film]
+topics: ["Palestina"]
 organizer: "Cyklopen"
 addressName: 
 streetAddress: "Magelungsvägen 170"

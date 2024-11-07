@@ -4,6 +4,7 @@ date: "2024-12-03 18:30:00"
 enddate: "2024-12-03 20:30:00"
 locations: [Malmö]
 forms: [Samtal]
+topics: ["Palestina"]
 organizer: "Vänsterpartiet Malmö"
 addressName: 
 streetAddress: "Porslinsgatan 3"

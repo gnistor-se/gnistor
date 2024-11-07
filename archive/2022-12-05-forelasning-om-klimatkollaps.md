@@ -2,7 +2,7 @@
 title: Föreläsning om klimatkollaps
 date: 2022-12-05 19:00:00
 organizer: Extinction Rebellion
-locations: [Online]
+locations: [Internet]
 forms: [Föreläsning]
 ---
 ## Föreläsning om klimatkollaps – och vad du kan göra åt det – Online

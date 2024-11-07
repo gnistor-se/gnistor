@@ -2,6 +2,7 @@
 title: "Internationell Utblick: Iran i krigets mellanöstern"
 date: "2024-11-14 18:00:00"
 locations: [Stockholm]
+topics: ["Palestina"]
 forms: [Samtal]
 organizer: "ABF Stockholm"
 addressName: 

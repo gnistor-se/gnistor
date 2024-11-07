@@ -2,7 +2,7 @@
 title: Riv Tidöavtalet! Hela landet 6 juni
 date: 2023-06-06 06:00:00
 forms: [Aktion]
-locations: [Online]
+locations: [Internet]
 organizer: NU ÄR DET NOG
 ---
 ALLT FLER ORGANISATIONER OCH ENSKILDA uttrycker sitt missnöje och sin oro över Tidöavtalet.

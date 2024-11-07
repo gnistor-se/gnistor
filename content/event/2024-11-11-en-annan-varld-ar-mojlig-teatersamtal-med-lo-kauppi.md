@@ -2,8 +2,8 @@
 title: "En annan värld är möjlig – teatersamtal med Lo Kauppi"
 date: "2024-11-11 18:00:00"
 enddate: "2024-11-11 19:00:00"
-locations: []
-forms: []
+locations: [Stockholm]
+forms: [Samtal]
 organizer: "ABF Stockholm"
 addressName: 
 streetAddress: "Sveavägen 41"

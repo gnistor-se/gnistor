@@ -4,6 +4,7 @@ date: "2024-11-13 18:00:00"
 enddate: "2024-11-13 20:15:00"
 locations: [Malmö]
 forms: [Studiecirkel]
+topics: ["Palestina"]
 organizer: "Vänsterpartiet Malmö"
 addressName: 
 streetAddress: "Nobelvägen 33"

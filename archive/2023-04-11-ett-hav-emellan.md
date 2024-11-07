@@ -2,7 +2,7 @@
 title: "Ett hav emellan. De finska krigsbarnen berättar"
 date: 2023-04-11 18:00:00
 forms: [Samtal]
-locations: [Online]
+locations: [Internet]
 organizer: "Arbetarrörelsens arkiv och bibliotek"
 addressName: ""
 streetAddress: ""
