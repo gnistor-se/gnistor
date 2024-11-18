@@ -3,6 +3,7 @@ title: "ISM Kafé med Stockholm Academics for Palestine"
 date: 2024-11-20 18:00:00
 forms: [Kafé]
 locations: [Stockholm]
+topics: [Palestina]
 organizer: "ISM Stockholm"
 addressName: "Kafé 44"
 streetAddress: "Tjärhovsgatan 44"
