@@ -1,5 +1,5 @@
 ---
-title: "Frys hyran, Fastighetsägarna! ❄️"
+title: "Frys hyran, Fastighetsägarna!"
 date: 2024-11-23 12:00:00
 forms: [Demonstration]
 locations: [Stockholm]
