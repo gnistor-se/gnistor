@@ -1,5 +1,5 @@
 ---
-title: "Stå upp mot fascismen"
+title: "ISM-kafé på 44an"
 date: 2024-12-04 18:00:00
 forms: [Samtal]
 locations: [Stockholm]
