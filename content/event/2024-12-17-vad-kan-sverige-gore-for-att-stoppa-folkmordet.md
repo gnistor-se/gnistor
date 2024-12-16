@@ -3,7 +3,7 @@ title: "Vad kan Sverige göra för att stoppa folkmordet?"
 date: 2024-12-17 18:00:00
 forms: [Möte]
 locations: [Stockholm]
-organizer: "Solidariteten"
+organizer: "Solidaritet"
 addressName: "Café blå lotus"
 streetAddress: "Katarina Bangata 21"
 postalCode: ""
