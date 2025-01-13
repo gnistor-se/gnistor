@@ -1,6 +1,6 @@
 ---
 title: "Infomöte Cut Ties with Genocide med Framåt kamrater!"
-date: 2025-01-17 14:00:00
+date: 2025-01-18 14:00:00
 forms: [Möte]
 locations: [Göteborg]
 topics: [Palestina]
