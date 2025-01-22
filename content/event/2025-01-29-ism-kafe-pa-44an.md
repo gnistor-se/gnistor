@@ -1,9 +1,9 @@
 ---
 title: "ISM-kafé på 44an"
-date: 2025-02-29 18:30:00
-forms: [Möte]
-locations: [Stockholm]
-topics: [Palestina]
+date: "2025-01-29 18:30:00"
+forms: ["Möte"]
+locations: ["Stockholm"]
+topics: ["Palestina"]
 organizer: "International Solidarity Movement"
 addressName: "Kafé 44"
 streetAddress: ""
