@@ -5,6 +5,7 @@ locations: [Växjö]
 forms: [Demonstration]
 organizer: "Extinction Rebellion Sverige"
 addressName: 
+topics: [Klimatet]
 streetAddress: "Kronobergsgatan 7"
 postalCode: "SE-352 33 Växjö"
 addressRegion:
