@@ -1,6 +1,6 @@
 ---
 title: "Ickevåldsträning (ÅV 2 dagars)"
-date: "22 Feb 08:00 - 23 Feb 19:00"
+date: "2025-02-22 08:00:00"
 locations: [Umeå]
 forms: [Utbildning]
 topics: [Klimatet]

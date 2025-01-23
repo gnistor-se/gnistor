@@ -1,6 +1,6 @@
 ---
 title: "Föreläsning"
-date: "30 Jan 19:00 - 20:30"
+date: "2025-01-30 19:00:00"
 locations: [Malmö]
 forms: [Föreläsning]
 topics: [Klimatet]

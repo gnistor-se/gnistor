@@ -1,6 +1,6 @@
 ---
 title: "Ickevåldsträning (ÅV 2 dagars)"
-date: "01 Mar 08:00 - 02 Mar 19:00"
+date: "2025-03-01 08:00:00"
 locations: [Göteborg]
 forms: [Utbildning]
 topics: [Klimatet]

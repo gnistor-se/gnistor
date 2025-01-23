@@ -1,6 +1,6 @@
 ---
 title: "Intromöte online"
-date: "05 Mar 19:00 - 20:00"
+date: "2025-03-05 19:00:00"
 locations: [Online]
 forms: [Möte]
 topics: [Klimatet]

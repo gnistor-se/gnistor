@@ -1,6 +1,6 @@
 ---
 title: "Ickevåldsträning (ÅV 2 dagars)"
-date: "08 Feb 08:00 - 09 Feb 19:00"
+date: "2025-02-08 08:00:00"
 locations: [Malmö]
 forms: [Utbildning]
 topics: [Klimatet]
