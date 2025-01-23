@@ -1,6 +1,6 @@
 ---
 title: "AW med Bibliotek i Samhälle"
-date: 2025-02-26 18:00:00
+date: "2025-02-26 18:00:00"
 forms: [Fest]
 locations: [Stockholm]
 organizer: "Bibliotek i Samhälle"
