@@ -3,6 +3,7 @@ title: "Mot höjda busspriser och civila kontrollanter!"
 date: "2025-02-09 14:00:00"
 locations: [Uppsala]
 forms: [Manifestation]
+topic: [Klimatet]
 organizer: "Allt åt alla Uppsala"
 addressName: 
 streetAddress: "Olof Palmes plats 6"
