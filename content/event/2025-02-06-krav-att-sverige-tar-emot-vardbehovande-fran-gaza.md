@@ -4,7 +4,7 @@ date: 2025-02-06 19:00:00
 forms: [Samtal]
 locations: [Stockholm]
 topics: [Palestina]
-organizer: "Arbetarmakt"
+organizer: "Nödrop Gaza"
 addressName: "Solidaritetshuset"
 streetAddress: "Tegelviksgatan 40"
 postalCode: ""
