@@ -4,7 +4,7 @@ date: "2025-02-08 14:00:00"
 locations: [Malmö]
 forms: [Workshop]
 topics: [Klimatet]
-organizer: "Återställ Våtmarker"
+organizer: "Climate Fresk"
 addressName: "Studiefrämjandet malmö"
 streetAddress: "Ystadsgatan 53"
 postalCode: 
