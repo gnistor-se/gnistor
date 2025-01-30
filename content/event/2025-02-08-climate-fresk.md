@@ -10,7 +10,7 @@ streetAddress: "Ystadsgatan 53"
 postalCode: 
 addressRegion: "Malmö"
 addressCountry: "Sweden"
-source: https://association.climatefresk.org/training_sessions/6fad5d38-2c16-48a6-8e13-50fcbc02c15f/show_public?language=en&tenant_token=36bd2274d3982262c0021755
+source: https://association.climatefresk.org/training_sessions/29f9d24a-587a-44ef-bcd7-a28f7ef3ff0e/show_public?language=en&tenant_token=36bd2274d3982262c0021755
 ---
 Climate Fresk är en 3h workshop utformad för alla som vill eller behöver engagera sig i klimatförändringen och dess vetenskap.
  
