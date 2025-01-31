@@ -3,6 +3,7 @@ title: "Critical Mass (January) 🧤🧣🙌"
 date: "2025-01-31 17:45:00"
 locations: [Stockholm]
 forms: [Aktion]
+topics: [Klimatet]
 organizer: "Cykelaktion Stockholm"
 addressName: 
 streetAddress: "Noe Arksfaret 3"
