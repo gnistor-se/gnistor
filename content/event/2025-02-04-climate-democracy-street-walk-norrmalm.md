@@ -3,6 +3,7 @@ title: "Climate Democracy Street Walk (Norrmalm)"
 date: "2025-02-04 16:30:00"
 enddate: "2025-02-04 18:00:00"
 locations: [Stockholm]
+topics: [Klimatet]
 forms: [Demonstration]
 organizer: "KlimatUppropet Stoppa Fossila Subventioner"
 addressName: "Sergels torg"
