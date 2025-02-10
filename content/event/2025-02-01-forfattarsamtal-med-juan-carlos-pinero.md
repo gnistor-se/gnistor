@@ -13,7 +13,7 @@ addressCountry: "Sweden"
 source: https://www.facebook.com/events/584815591146820/
 ---
 Författarsamtal med Juan Carlos Piñero om hans bok
-"ABYA YALA: Folkmord och slaveri i modernitetens vagga"
+ABYA YALA: Folkmord och slaveri i modernitetens vagga
 
 Juan Carlos Piñero utmanar de konventionella versioner av historien
 och ifrågasätter eurocentriska berättelser som glorifierar erövrarna och förnekar kolonialismens fasor.

@@ -13,7 +13,7 @@ source: https://www.facebook.com/events/1138455260986340/
 ---
 Hotet mot civilsamhället
 
-"Jag och Tuva Söderberg har skrivit ihop en liten bok om angreppen mot civilsamhället, klätt i en idépolitisk kappa som handlar om högerns ändrade syn på detta."
+Jag och Tuva Söderberg har skrivit ihop en liten bok om angreppen mot civilsamhället, klätt i en idépolitisk kappa som handlar om högerns ändrade syn på detta.
 
 Organisationer och föreningar upplever en ökad press i Sverige. Sänkta bidrag, skärpt styrning och ökad misstro från politiskt håll. Varför krymper civilsamhällets utrymme? Och hur blev liberaler och konservativa plötsligt motståndare till det civila samhället?
 Jesper Bengtsson och Tuva Söderberg talar om dessa frågor med utgångspunkt i sin bok Det krympande rummet – hotet mot civilsamhället.

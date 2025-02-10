@@ -11,7 +11,7 @@ addressRegion: "Göteborg"
 addressCountry: "Sverige"
 source: https://www.facebook.com/events/2314455692254264/
 ---
-Ett politisk samtal med författarna Toivo Jokkala och Per-Anders Svärd om deras nyutkomna bok på Verbal förlag "Rörelsesocialism - Tjugosju teser om samhällsförändring underifrån":
+Ett politisk samtal med författarna Toivo Jokkala och Per-Anders Svärd om deras nyutkomna bok på Verbal förlag Rörelsesocialism - Tjugosju teser om samhällsförändring underifrån:
 
 Vi lever i en tid av kriser. Växande klassklyftor, politisk polarisering, stormaktskonflikter och hotet om ekologiskt sammanbrott skapar ett tillstånd av maktlöshet, där livet reduceras till att reagera på hotfulla skeenden utanför vår kontroll.
 

@@ -13,7 +13,7 @@ source: https://www.facebook.com/events/1139890317545055/
 ---
 Kl. 13.15 Orkanen D 138 
 
-Magnus Gustafson försvarar sin avhandling "Äntligen stod kvinnan i talarstolen. Agda Östlunds retoriska karriär och socialdemokratins genombrott". Opponent är Josefin Rönnbäck.
+Magnus Gustafson försvarar sin avhandling Äntligen stod kvinnan i talarstolen. Agda Östlunds retoriska karriär och socialdemokratins genombrott. Opponent är Josefin Rönnbäck.
 
 Kl. 15.15 Restaurang Niagara 
 

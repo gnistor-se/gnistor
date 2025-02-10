@@ -11,7 +11,7 @@ addressRegion:
 addressCountry: "Sverige"
 source: https://www.facebook.com/events/593910403607243/
 ---
-Nina Björk har sedan debuten "Under det rosa täcket" 1996 varit en av de viktigaste rösterna i den svenska feministiska debatten. Under hösten 2024 utkom hon med "Medan vi lever. Tankar om existensen". 
+Nina Björk har sedan debuten Under det rosa täcket 1996 varit en av de viktigaste rösterna i den svenska feministiska debatten. Under hösten 2024 utkom hon med Medan vi lever. Tankar om existensen. 
 
 Till Växjö kommer Nina för att prata feminism, kamp och jämställdhet. 
 

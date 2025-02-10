@@ -14,7 +14,7 @@ source: https://www.facebook.com/events/1088579422741285/
 ---
 En heldag för fackboken!
 
-"Fackböcker är inte bara litteratur – de är nycklar till nya världar och tankesätt."
+Fackböcker är inte bara litteratur – de är nycklar till nya världar och tankesätt.
 
 Läsare och författare möts i samtal, debatter och föredrag 
 
