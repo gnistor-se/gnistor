@@ -11,7 +11,7 @@ addressRegion:
 addressCountry: "Sverige"
 source: https://www.facebook.com/events/1288425335708996/
 ---
-Vänsterpartiet Skara och Miljöpartiet Skara anordnar denna kväll då tankesmedjan balans är inbjuden får att prata kring "det svenska skolexprimentet"
+Vänsterpartiet Skara och Miljöpartiet Skara anordnar denna kväll då tankesmedjan balans är inbjuden får att prata kring det svenska skolexprimentet.
 
 VÄLKOMNA, både medlemmar och icke medlemmar, detta är viktigt!
 
