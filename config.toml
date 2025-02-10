@@ -14,9 +14,6 @@ timeZone = 'Europe/Stockholm'
 	filename = 'sitemap.xml'
 	priority = 0.5
 [outputFormats]
-[outputFormats.podfeed]
-	mediatype = "application/rss+xml"
-	path = "/podcast"
 [outputFormats.feed]
 	mediatype = "application/rss+xml"
 	path = "/feed"
@@ -28,7 +25,7 @@ timeZone = 'Europe/Stockholm'
 	mediatype = "text/calendar"
 	path = "/ics"
 [outputs]
-	home = [ "HTML", "feed", "podfeed", "jsonfeed", "icsfeed" ]
+	home = [ "HTML", "feed", "jsonfeed", "icsfeed" ]
 [params]
 [params.author]
 	name = 'Gnistor'
