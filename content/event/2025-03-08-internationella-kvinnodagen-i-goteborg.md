@@ -3,7 +3,7 @@ title: "Internationella Kvinnodagen I Goteborg 2025"
 date: "2025-03-08 14:00:00"
 locations: [Göteborg]
 forms: [Demonstration]
-topics: ["Feminism", "Internationella Kvinnodagen"]
+topics: ["8-mars"]
 organizer: "8 Mars-kommittén Göteborg"
 streetAddress: "Gustaf Adolfs Torg"
 postalCode: ""
