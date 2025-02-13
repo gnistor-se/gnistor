@@ -2,6 +2,7 @@
 title: "Internationella kvinnodagen - Nina Björk"
 date: "2025-03-08 18:00:00"
 locations: [Växjö]
+topics: ["8 mars"]
 forms: [Samtal]
 organizer: "Vänsterpartiet Växjö"
 addressName: 
