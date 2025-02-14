@@ -3,6 +3,7 @@ title: "Ta natten tillbaka 2025"
 date: 2025-03-08 20:00:00
 forms: [Demonstration]
 locations: [Stockholm]
+topics: [8-mars]
 organizer: "SUF Stockholm m.fl."
 addressName: ""
 streetAddress: "Tjärhovsplan"
