@@ -13,7 +13,7 @@ source: https://www.facebook.com/events/1142162323964380/
 ---
 💚I MÖDRARS SPÅR FÖR FRAMTIDS VINTRAR!💚
 
-Snön smälter under våra skidor - samtidigt tillåts fossilbolaget Preem sponsra Sveriges största folk(hälso)fest Vasaloppet. För att "rädda (och fira och hylla) vintern" och hjälpa Vasaloppet att våga dumpa Preem som huvudsponsor är Rebellmammorna på plats i Mora under “Vasaloppssöndagen”. Vi vill på ett lekfullt sätt folkbilda kring Preems greenwashing.
+Snön smälter under våra skidor - samtidigt tillåts fossilbolaget Preem sponsra Sveriges största folk(hälso)fest Vasaloppet. För att rädda (och fira och hylla) vintern och hjälpa Vasaloppet att våga dumpa Preem som huvudsponsor är Rebellmammorna på plats i Mora under “Vasaloppssöndagen”. Vi vill på ett lekfullt sätt folkbilda kring Preems greenwashing.
 
 VAR: Vasaloppsmålet, Mora.
 
