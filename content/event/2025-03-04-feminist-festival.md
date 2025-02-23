@@ -15,7 +15,7 @@ source: https://www.facebook.com/events/998657172151710/
 ★FEMINIST FESTIVAL★
 MARCH 4th - MARCH 9th
 
-In honor of International Women's Day on March 8th, Smålands is arranging a week of fun, interesting, and important events! Have a look at the schedule and get ready! ❤ ♀ ⚧ 🚩
+In honor of International Womens Day on March 8th, Smålands is arranging a week of fun, interesting, and important events! Have a look at the schedule and get ready! ❤ ♀ ⚧ 🚩
 
 TUESDAY 4/3:
 LECTURE: GENDER & FASCISM 19:00
