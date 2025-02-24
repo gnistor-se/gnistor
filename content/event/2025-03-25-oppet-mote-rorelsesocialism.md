@@ -1,6 +1,6 @@
 ---
 title: "Öppet möte: Rörelsesocialism"
-date: 2025-02-25 19:00:00
+date: 2025-03-25 19:00:00
 forms: [Samtal]
 locations: [Stockholm]
 organizer: "Röd på Blå"
