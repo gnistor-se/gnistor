@@ -13,9 +13,7 @@ addressCountry: "SE-211 39 Malmö"
 source: https://www.facebook.com/events/652402683798933/
 ---
 🔺Internationella kvinnodagen i Malmö, 8 mars 2025🔺
-
 TEMA: Frihet, Liv, Jämlikhet
-
 HUVUDPAROLL: ”Varje kvinna har rätt till liv!”
 
 Situationen för kvinnor världen över präglas av pågående krig, konflikter och våld. Under de senaste 15 månaderna har kvinnor i Gaza och Libanon uthärdat bombregn, svält och förödelse. Många har också tvingats bevittna hur deras nära och kära dödats och lemlästats av israelisk militär. Men också i andra krigshärjade områden i Kurdistan, Kongo och Sudan är kvinnor särskilt utsatta. 
@@ -44,5 +42,7 @@ Konferencierer: Tove Karnerud och Ester Lundgren
 Vänsterpartiet Malmö på Feministisk Festival!
 Den 1 mars kl. 11.00 till kl. 16 kommer Feministisk Festival att vara på STPLN (Malmöhusvägen 5). Vänsterpartiet kommer att vara där under dagen och bidra till festivalen med en konstutställning av Belgica Castro Fuentes samt skapande workshop och bokbord.
 
-I samarbete med ABF.
+Fackligt samtal om bättre villkor för välfärdens kvinnor! 
+Den 6 mars blir det ett samtal mellan Vänsterpartiets Anfal Mahdi och Kommunals Olga Krivtsova om hemtjänstarbetarnas villkor.  Ölcaféet, 6 mars kl 18.00-19.00.
 
+I samarbete med ABF.
