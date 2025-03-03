@@ -4,6 +4,7 @@ date: "2025-03-04 17:00:00"
 enddate: "2025-03-09 00:00:00"
 topics: [8-mars]
 forms: [Fest]
+locations: [Lund]
 organizer: "Smålands Nation"
 addressName: 
 streetAddress: "Kastanjegatan 7"
