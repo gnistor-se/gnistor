@@ -3,6 +3,7 @@ title: "Ta Natten Tillbaka Folkkök"
 date: 2025-03-08 18:00:00
 forms: [Kafé]
 locations: [Stockholm]
+topics: [8-mars]
 organizer: "Anarfika"
 addressName: "Kafé 44"
 streetAddress: "Tjärhovsgatan 44"
