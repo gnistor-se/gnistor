@@ -4,6 +4,7 @@ date: "2025-03-08 10:00:00"
 enddate: "2025-03-08 13:00:00"
 locations: [Stockholm]
 forms: [Kafé]
+topics: [8-mars]
 organizer: "ABF Stockholm"
 addressName: 
 streetAddress: "Sveavägen 41"

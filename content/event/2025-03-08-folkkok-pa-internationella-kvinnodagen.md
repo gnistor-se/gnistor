@@ -4,6 +4,7 @@ date: "2025-03-08 16:00:00"
 enddate: "2025-03-08 19:45:00"
 locations: [Göteborg]
 forms: [Folkkök]
+topics: [8-mars]
 organizer: "Syndikalistiskt Forum"
 addressName: 
 streetAddress: "Linnégatan 19"
