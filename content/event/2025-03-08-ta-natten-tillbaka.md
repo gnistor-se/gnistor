@@ -7,7 +7,7 @@ topics: [8-mars]
 organizer: "SUF Stockholm m.fl."
 addressName: ""
 streetAddress: "Tjärhovsplan"
-postalCode: ""
+postalCode: "116 28"
 addressRegion: "Stockholm"
 addressCountry: "Sweden"
 source: ""
