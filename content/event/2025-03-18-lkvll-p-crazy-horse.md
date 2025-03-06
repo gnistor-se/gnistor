@@ -1,6 +1,6 @@
-
+---
 title: "Ölkväll på Crazy Horse!"
-date: "2025-03-18 18:30"
+date: "2025-03-18 18:30:00"
 locations: [stockholm]
 forms: [Social]
 topics: [Klimatet]

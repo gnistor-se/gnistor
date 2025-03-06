@@ -12,7 +12,7 @@ addressRegion: "Sundbyberg"
 addressCountry: "sweden"
 source: "https://organisera.org/events/b4dc1f69-b03c-4c31-bf31-7b51582b5574"
 ---
-'Rahile Dawut is a Uyghur ethnographer known for her expertise in Uyghur folklore and traditions. Formerly a professor at Xinjiang University, where she founded the Minorities Folklore Research Centre, she was disappeared by the Chinese government in 2017 and has not been seen since. In 2023, Rahile received a life sentence for endangering state security. '
+Rahile Dawut is a Uyghur ethnographer known for her expertise in Uyghur folklore and traditions. Formerly a professor at Xinjiang University, where she founded the Minorities Folklore Research Centre, she was disappeared by the Chinese government in 2017 and has not been seen since. In 2023, Rahile received a life sentence for endangering state security.
 
 Source: Wikipedia
 
