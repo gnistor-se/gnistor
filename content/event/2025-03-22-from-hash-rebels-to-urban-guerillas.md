@@ -1,6 +1,6 @@
 ---
 title: "From Hash Rebels to Urban Guerrillas, författarsamtal med Gabriel Kuhn"
-date: 2025-03-25 13:00:00
+date: 2025-03-22 13:00:00
 forms: [Samtal]
 locations: [Stockholm]
 organizer: "Stockholms anarkistiska förening"
