@@ -2,8 +2,8 @@
 title: "Lördagsöppet på Bokkafé Angbett!"
 date: "2025-03-29 13:00:00"
 enddate: "2025-03-29 17:00:00"
-locations: []
-forms: []
+locations: [Umeå]
+forms: [Kafé]
 organizer: "Bokkafé Angbett"
 addressName: 
 streetAddress: "Fabriksgatan 8B"
