@@ -1,6 +1,6 @@
 ---
 title: "Bananrepubliken - författarsamtal med Johannes Klenell"
-date: 2025-04-09 18:00:99
+date: 2025-04-09 18:00:00
 forms: [Samtal]
 locations: [Stockholm]
 organizer: "Hornstulls bokhandel"
@@ -11,7 +11,7 @@ addressRegion: "Stockholm"
 addressCountry: "Sweden"
 source: "https://hornstullsbokhandel.se/"
 ---
-Fförfattaren och kulturredaktören Johannes Klenell berättar om sin nya bok Bananrepubliken Sverige där han granskar hur politiker, välfärdskapitalister och pr-byråer utarmar demokratin. 
+Författaren och kulturredaktören Johannes Klenell berättar om sin nya bok Bananrepubliken Sverige där han granskar hur politiker, välfärdskapitalister och pr-byråer utarmar demokratin. 
 
 Johannes Klenell i samtal med Robin Zachari, chef för folkrörelsen Skiftet och granskningsinstitutet Klägget.
 
