@@ -11,7 +11,7 @@ addressRegion:
 addressCountry: "Sverige"
 source: https://www.facebook.com/events/1370832673931975/
 ---
-Den 24 april kl. 18.00 bjuder vi in Leandro Schclarek Mulinari för en föreläsning om "Överpolisande, underbeskydd, och rasism"
+Den 24 april kl. 18.00 bjuder vi in Leandro Schclarek Mulinari för en föreläsning om Överpolisande, underbeskydd, och rasism
 
 Dagens kriminalpolitik har blivit ensidigt fokuserad på repression. Samtidigt ser vi ökade klassklyftor, hur allt färre har råd att sätta mat på bordet och hur politiken drar ner på stödet till civilsamhället och olika typer av förebyggande åtgärder. Från både den blåbruna regeringen och från oppositionen sätter man sitt hopp till hårdare straff och flera poliser. Men dessa åtgärders förmåga att råda bot på våldsvågen är begränsad.
 

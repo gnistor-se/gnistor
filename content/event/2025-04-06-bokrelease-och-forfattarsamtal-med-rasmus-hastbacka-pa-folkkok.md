@@ -11,7 +11,7 @@ addressRegion:
 addressCountry: ""
 source: https://www.facebook.com/events/549606177584511/
 ---
-Kanonmat och författarsamtal! Umeå LS i samarbete med Umeå Folkkök presenterar juristen och författaren Rasmus Hästbacka, som kommer att ge oss en inblick i sin bok "Vad vill syndikalismen". Boken, som nu har några år på nacken, har aldrig haft en officiell release. Därför tar vi nu tillfället i akt! (Föreläsningen sker på svenska).
+Kanonmat och författarsamtal! Umeå LS i samarbete med Umeå Folkkök presenterar juristen och författaren Rasmus Hästbacka, som kommer att ge oss en inblick i sin bok Vad vill syndikalismen. Boken, som nu har några år på nacken, har aldrig haft en officiell release. Därför tar vi nu tillfället i akt! (Föreläsningen sker på svenska).
 
 Är du nyfiken på syndikalism och hur det kan sättas i en svensk kontext idag? Om arbetarkamp och facklig organisering? Om strategier för att bygga ett kollektiv? Då borde du absolut passa på att komma och lyssna.
 Föreläsningen följs av fri diskussion.

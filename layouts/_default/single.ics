@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//elm-conf//speaker calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:{{ .File.Filename }}
+ORGANIZER;CN={{ .Params.organizer | safeHTML }}:mailto:hej@gnistor.se
+SUMMARY:{{ .Params.title | safeHTML }}
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:{{dateFormat "20060102T150405Z" .Date}}
+DTSTART;TZID=Europe/Stockholm:{{dateFormat "20060102T150405" .Date}}
+END:VEVENT
+END:VCALENDAR

@@ -17,15 +17,18 @@ timeZone = 'Europe/Stockholm'
 [outputFormats.feed]
 	mediatype = "application/rss+xml"
 	path = "/feed"
-[outputFormats.jsonfeed]
+[outputFormats.json]
 	mediatype = "application/json"
 	baseName = "feed"
 	isPlainText = true
-[outputFormats.icsfeed]
-	mediatype = "text/calendar"
-	path = "/ics"
+[outputFormats.calendar]
+	  baseName = "calendar"
+	  # Avoid unencrypted webcal scheme
+	  protocol = "https://"
+	  permalinkable = true
 [outputs]
-	home = [ "HTML", "feed", "jsonfeed", "icsfeed" ]
+	home = [ "HTML", "feed", "json", "calendar" ]
+	page = [ "HTML", "calendar" ]
 [params]
 [params.author]
 	name = 'Gnistor'
