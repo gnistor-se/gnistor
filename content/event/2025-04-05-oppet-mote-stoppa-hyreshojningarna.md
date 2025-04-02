@@ -1,6 +1,6 @@
 ---
 title: "Öppet möte STOPPA hyreshöjningarna"
-date: "2025-04-05 14:00:00"
+date: "2025-04-05 16:00:00"
 locations: [Stockholm]
 forms: [Möte]
 topics: []
