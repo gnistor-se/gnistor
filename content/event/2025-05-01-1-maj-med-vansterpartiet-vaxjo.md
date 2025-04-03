@@ -3,6 +3,7 @@ title: "1 maj med Vänsterpartiet Växjö"
 date: "2025-05-01 13:00:00"
 enddate: "2025-05-01 15:00:00"
 locations: [Växjö]
+topics: [1-maj]
 forms: [Demonstration]
 organizer: "Vänsterpartiet Växjö"
 addressName: 
