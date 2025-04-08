@@ -4,7 +4,7 @@ date: 2025-04-12 14:00:00
 forms: [Demonstration]
 locations: [Östersund]
 topics: [Palestina]
-organizer: "Palestine In Focus"
+organizer: "Palestinagruppen Östersund"
 addressName: "Badhusparkens scen"
 streetAddress: ""
 postalCode: ""

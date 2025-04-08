@@ -1,5 +1,5 @@
 ---
-title: "Demonstration för Palestino"
+title: "Demonstration för Palestina"
 date: 2025-04-11 17:00:00
 forms: [Demonstration]
 topics: [Palestina]
