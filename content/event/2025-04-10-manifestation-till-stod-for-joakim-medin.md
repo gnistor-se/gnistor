@@ -1,5 +1,5 @@
 ---
-title: "Manifestation till stöd för Joakim Medin"
+title: "INSTÄLLT Manifestation till stöd för Joakim Medin"
 date: 2025-04-10 13:00:00
 forms: [Manifestation]
 locations: [Stockholm]
