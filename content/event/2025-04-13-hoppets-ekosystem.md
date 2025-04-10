@@ -15,7 +15,7 @@ Välkomna till HOPPETS EKOSYSTEM!
 
 Vi avser att tillsammans med dig låta världen se hur vi organiserar oss från gräsrötterna – för att återuppbygga planeten med artivism!
 
-Kollektivet "Vi lagar planeten" Zurciendo el Planeta* bjuder in dig – som individ eller kollektivt tillsammans med andra – till en aktion där vi tar hand om planeten. Tillsammans kan vi människor i den globala nord och den globala syd genom textila bidrag som blir del av ett textilt konstverk visa vilken massiv inverkan och styrka lokalt och kollektivt agerande kan åstadkomma.
+Kollektivet Vi lagar planeten Zurciendo el Planeta bjuder in dig – som individ eller kollektivt tillsammans med andra – till en aktion där vi tar hand om planeten. Tillsammans kan vi människor i den globala nord och den globala syd genom textila bidrag som blir del av ett textilt konstverk visa vilken massiv inverkan och styrka lokalt och kollektivt agerande kan åstadkomma.
 
 DU ÄR VÄLKOMMEN:
 
