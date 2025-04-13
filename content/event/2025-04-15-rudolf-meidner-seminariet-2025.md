@@ -2,7 +2,7 @@
 title: "Rudolf Meidner-seminariet 2025"
 date: 2025-04-15 18:00:00
 forms: [Samtal]
-locations: Stockholm
+locations: [Stockholm]
 organizer: "Arbetarnas kulturhistoriska sällskap m.fl."
 addressName: "ABF Stockholm, Per Albin-salen"
 streetAddress: "Sveavägen 41 "

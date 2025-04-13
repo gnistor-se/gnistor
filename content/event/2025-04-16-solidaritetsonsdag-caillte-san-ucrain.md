@@ -1,9 +1,8 @@
 ---
 title: "Solidaritetsonsdag - Caillte san Úcráin"
 date: "2025-04-16 18:30:00"
-enddate: "1970-01-01 01:00:00"
-locations: []
-forms: []
+locations: [Stockholm]
+forms: [Samtal]
 organizer: "Cyklopen"
 addressName: 
 streetAddress: "Magelungsvägen 170"
