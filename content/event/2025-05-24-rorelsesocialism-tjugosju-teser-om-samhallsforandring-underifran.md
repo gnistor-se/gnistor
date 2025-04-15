@@ -11,7 +11,7 @@ addressRegion: "Nyköping"
 addressCountry: "Sweden"
 source: https://www.facebook.com/events/1001313022143259/
 ---
-Toivo Jokkala och Per-Anders Svärd berättar om idéerna i sin bok "Rörelsesocialism – Tjugosju teser om samhällsförändring underifrån".
+Toivo Jokkala och Per-Anders Svärd berättar om idéerna i sin bok Rörelsesocialism – Tjugosju teser om samhällsförändring underifrån.
 
 Alla är välkomna. Det kostar inget.
 
