@@ -2,7 +2,7 @@
 {{ $circle := resources.Get "/icons/circle.svg" }}
 
 <div class="md:col-span-4 order-first md:order-last">
-	{{ if not ( eq .Kind "page" ) }}
+	
 	<div class="flex flex-col gap-3">
 		<div class="flex flex-row gap-2 justify-start items-center">
 			<div>
@@ -14,13 +14,14 @@
 		</div>
 		<ul id="filter" class="m-0 flex gap-1 flex-wrap">
 			{{ range $name, $taxonomy := .Site.Taxonomies.locations }}
-				<li class="{{ lower $name }}">{{ $name }}</li>
+				<li class="{{ lower $name }}">
+					<a href="/locations/{{ $name | urlize }}">{{ $name }}</a>
+				</li>
 			{{ end }}
 		</ul>
 	</div>
 	
 	<hr class="hidden md:block md:my-9" />
-	{{ end }}
 	
 	{{ if gt (len .Site.Taxonomies.topics ) 0 }}
 		
@@ -31,7 +32,7 @@
 			<ul id="topics" class="m-0 flex gap-1 flex-wrap">
 				{{ range $name, $taxonomy := .Site.Taxonomies.topics }}
 					<li>
-						<a hreF="/topics/{{ $name }}">{{ $name }}</a>		
+						<a href="/topics/{{ $name | urlize }}">{{ $name }}</a>
 					</li>
 				{{ end }}
 			</ul>

@@ -30,6 +30,7 @@ timeZone = 'Europe/Stockholm'
 	home = [ "HTML", "feed", "json", "calendar" ]
 	page = [ "HTML", "calendar" ]
 [params]
+	description = 'Ett litet kalendarium på webben för Sveriges sociala rörelser.'
 [params.author]
 	name = 'Gnistor'
 	email = 'hej@gnistor.se'

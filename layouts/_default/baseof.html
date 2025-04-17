@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<title>{{ .Page.Title }}</title>
+	<title>{{ if eq .Page.Type "locations" }}Vad händer i {{ .Page.Title }}?{{ else if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description }}{{ else }}{{ .Page.Title }}{{ end }}</title>
 	{{ $style := resources.Get "style.min.css" }}
 	<link rel="stylesheet" href="{{ $style.Permalink }}" media="print" onload="this.media='all'">
 	{{ if .Params.podcast }}

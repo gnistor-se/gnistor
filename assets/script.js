@@ -1,15 +1,4 @@
 window.onload = function(event) {
-	let filters = document.querySelectorAll('#filter li');
-	filters.forEach( filter => {
-		filter.addEventListener( 'click', function() {
-			if ( document.querySelector('body').dataset.filter === filter.classList.toString() ) {
-				document.querySelector('body').dataset.filter = "";	
-			} else {
-				document.querySelector('body').dataset.filter = filter.classList.toString();
-			}
-		});
-	});
-	
 	let toggle_nav = document.querySelectorAll('#toggle-nav');
 	let mobile_nav = document.querySelector('#mobile-nav');
 	let toggle_icons = document.querySelectorAll('#toggle-nav img');
