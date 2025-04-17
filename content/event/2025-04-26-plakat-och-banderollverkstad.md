@@ -3,7 +3,7 @@ title: "Plakat- och banderollverkstad!"
 date: "2025-04-26 10:00:00"
 enddate: "2025-04-29 21:00:00"
 locations: [Stockholm]
-topics: [1-maj]
+topics: ["1 maj"]
 forms: [Workshop]
 organizer: "Vänsterpartiet Storstockholm"
 addressName: 

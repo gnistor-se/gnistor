@@ -3,7 +3,7 @@ title: "1 maj Arbetarklassens internationella dag"
 date: 2025-05-01 11:00:00
 forms: [Manifestation]
 locations: [Stockholm]
-topics: [1-maj]
+topics: ["1 maj"]
 organizer: "Seko Tunnelbanan"
 addressName: "Slussen"
 streetAddress: ""

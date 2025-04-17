@@ -2,7 +2,7 @@
 title: "Dagens ETC:s 1 maj-fest: Släpp Joakim!"
 date: 2025-05-01 18:00:00
 forms: [Fest]
-topics: [1-maj]
+topics: ["1 maj"]
 locations: [Stockholm]
 organizer: "Dagens ETC"
 addressName: "Snövit Bar"

@@ -3,7 +3,7 @@ title: "Syndikalistiskt Första Maj"
 date: "2025-05-01 12:30:00"
 locations: [Göteborg]
 forms: [Demonstration]
-topics: [1-maj]
+topics: ["1 maj"]
 organizer: "Syndikalisterna Göteborgs LS"
 addressName: 
 streetAddress: "Masthuggstorget 5"

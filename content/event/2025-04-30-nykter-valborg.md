@@ -2,8 +2,8 @@
 title: "Nykter Valborg"
 date: "2025-04-30 16:00:00"
 enddate: "2025-04-30 20:00:00"
-locations: [Götegorg]
-topics: [1-maj]
+locations: [Göteborg]
+topics: ["1 maj"]
 forms: [Kafé]
 organizer: "Syndikalistiskt Forum"
 addressName: 

@@ -3,7 +3,7 @@ title: "Antifascistisk Första Maj 2025"
 date: "2025-05-01 12:30:00"
 locations: [Umeå]
 forms: [Demonstration]
-topics: [1-maj]
+topics: ["1 maj"]
 organizer: "Umeå LS av SAC"
 addressName: "Vänortsparken"
 streetAddress: ""

@@ -3,7 +3,7 @@ title: "Anarkistisk 1 Maj"
 date: 2024-05-01 14:30:00
 locations: [Stockholm]
 forms: [Demonstration]
-topics: [1-maj]
+topics: ["1 maj"]
 organizer: "Anarkistiskt 1 Maj Stockholm"
 streetAddress: "Stortorget"
 addressRegion: "Stockholm"

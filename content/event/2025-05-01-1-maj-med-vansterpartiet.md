@@ -4,7 +4,7 @@ date: "2025-05-01 09:30:00"
 enddate: "2025-05-01 23:59:00"
 locations: [Stockholm]
 forms: [Demonstration]
-topics: [1-maj]
+topics: ["1 maj"]
 organizer: "Vänsterpartiet Storstockholm"
 addressName: 
 streetAddress: "Medborgarplatsen 13"

@@ -3,7 +3,7 @@ title: "1 maj 2025 Malmö ◾ Nuet är kamp – framtiden är vår!"
 date: "2025-05-01 13:00:00"
 locations: [Malmö]
 forms: [Demonstration]
-topics: [1-maj]
+topics: ["1 maj"]
 organizer: "Vänsterpartiet Malmö"
 addressName: 
 streetAddress: "Möllevångstorget 5C"

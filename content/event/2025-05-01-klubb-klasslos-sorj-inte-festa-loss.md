@@ -3,7 +3,7 @@ title: "Klubb Klasslös: Sörj inte, festa loss!"
 date: "2025-05-01 17:00:00"
 locations: [Göteborg]
 forms: [Fest]
-topics: [1-maj]
+topics: ["1 maj"]
 organizer: "Syndikalistiskt Forum"
 addressName: 
 streetAddress: "Amerikagatan 2"

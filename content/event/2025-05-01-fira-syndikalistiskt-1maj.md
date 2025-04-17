@@ -3,7 +3,7 @@ title: "Syndikalistiskt 1 maj"
 date: 2025-05-01 12:00:00
 forms: [Demonstration]
 locations: [Stockholm]
-topics: [1-maj]
+topics: ["1 maj"]
 organizer: "Stockholms LS Av SAC"
 addressName: "Sergels Torg"
 streetAddress: ""

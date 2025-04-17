@@ -3,7 +3,7 @@ title: "1 maj med Cyklopen och Brand!"
 date: "2025-05-01 17:00:00"
 locations: [Stockholm]
 forms: [Fest]
-topics: [1-maj]
+topics: ["1 maj"]
 organizer: "Cyklopen"
 addressName: 
 streetAddress: "Magelungsvägen 170"
