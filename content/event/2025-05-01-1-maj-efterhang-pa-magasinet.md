@@ -2,6 +2,7 @@
 title: "1 MAJ - efterhäng på Magasinet!"
 date: 2025-05-01 15:00:00
 forms: [Fest]
+topics: ["1 maj"]
 locations: [Nyköping]
 organizer: "Kulturhuset Magasinet"
 addressName: "Kulturhuset Magasinet"
