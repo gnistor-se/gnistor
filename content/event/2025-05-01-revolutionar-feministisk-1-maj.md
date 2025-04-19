@@ -3,6 +3,7 @@ title: "Revolutionär feministisk 1:a maj!!"
 date: 2025-05-01 13:45:00
 forms: [Demonstration]
 locations: [Uppsala]
+topics: ["1 maj"]
 organizer: "Revolutionära feministiska första maj kommittén i Uppsala"
 addressName: "Carolina Rediviva"
 streetAddress: ""
