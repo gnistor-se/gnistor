@@ -3,6 +3,7 @@ title: "Insamling för Palestina med Queers for Palestine Malmö"
 date: "2025-04-26 14:00:00"
 enddate: "2025-04-26 19:00:00"
 locations: [Malmö]
+topics: [Palestina]
 forms: [Kafé]
 organizer: "Amalthea Bokkafé"
 addressName: 
