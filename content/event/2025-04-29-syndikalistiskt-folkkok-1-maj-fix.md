@@ -3,6 +3,7 @@ title: "Syndikalistiskt folkkök + 1 maj-fix"
 date: "2025-04-29 17:00:00"
 enddate: "2025-04-29 20:00:00"
 locations: [Norrköping]
+topics: ["1 maj"]
 forms: [Kafé]
 organizer: "Norrköpings LS av SAC"
 addressName: 
