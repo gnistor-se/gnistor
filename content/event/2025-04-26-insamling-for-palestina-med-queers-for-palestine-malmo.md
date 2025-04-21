@@ -12,7 +12,7 @@ addressRegion:
 addressCountry: "Sverige"
 source: https://www.facebook.com/events/1769172963666567/
 ---
-Kom och stöd Queers for Palestine sin insamling till förmån av MECA (Middle East Children's Alliance) den 26 april 2025!
+Kom och stöd Queers for Palestine sin insamling till förmån av MECA (Middle East Childrens Alliance) den 26 april 2025!
 
 Queerkören kommer uppträda och vi kommer ha affischer, fika och konst till försäljning! 
 
