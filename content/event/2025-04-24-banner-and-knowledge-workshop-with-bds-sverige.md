@@ -1,7 +1,6 @@
 ---
 title: "Banner and Knowledge Workshop with BDS Sverige"
 date: "2025-04-24 18:00:00"
-enddate: "1970-01-01 01:00:00"
 locations: [Malmö]
 forms: [Workshop]
 topics: [Palestina]
