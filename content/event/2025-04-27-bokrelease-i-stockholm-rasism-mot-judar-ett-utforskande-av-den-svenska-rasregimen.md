@@ -1,6 +1,6 @@
 ---
 title: "Bokrelease i Stockholm: Rasism mot judar - ett utforskande av den svenska rasregimen"
-date: "2025-04-27 12:00:00"
+date: "2025-04-27 14:00:00"
 locations: [Stockholm]
 forms: [Samtal]
 topics: []
