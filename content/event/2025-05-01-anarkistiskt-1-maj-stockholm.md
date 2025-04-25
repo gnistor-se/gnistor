@@ -3,6 +3,7 @@ title: "ANARKISTISKT 1A MAJ STOCKHOLM! "
 date: 2025-05-01 14:00:00
 forms: [Demonstration]
 locations: [Stockholm]
+topics: ["1 maj"]
 organizer: "@anarkistiskt1maj"
 addressName: ""
 streetAddress: "Stortorget, Gamla Stan"
