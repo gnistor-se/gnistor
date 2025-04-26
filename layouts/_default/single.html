@@ -53,11 +53,13 @@
 			{{ end }}
 			<div id="content" class="my-9">
 				{{ .Content }}
-				{{ if .Params.addressName }}
+				{{ if or .Params.addressName .Params.streetAddress }}
 				<h2>Adress</h2>
 				<address>
 					<p translate="no" typeof="schema:PostalAddress">
+						{{ if .Params.addressName }}
 						<span property="schema:name">{{.Params.addressName}}</span><br>
+						{{ end }}
 						{{ if .Params.streetAddress }}
 						<span property="schema:streetAddress">{{.Params.streetAddress}}</span><br>
 						{{ end }}

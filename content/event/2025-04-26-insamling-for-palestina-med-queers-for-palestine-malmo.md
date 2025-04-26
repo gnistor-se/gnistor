@@ -6,7 +6,7 @@ locations: [Malmö]
 topics: [Palestina]
 forms: [Kafé]
 organizer: "Amalthea Bokkafé"
-addressName: 
+addressName: ""
 streetAddress: "Sofielundsvägen 71"
 postalCode: "SE-214 34 Malmö"
 addressRegion:

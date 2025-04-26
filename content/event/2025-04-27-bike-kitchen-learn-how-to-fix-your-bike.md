@@ -5,7 +5,7 @@ enddate: "2025-04-27 13:00:00"
 locations: [Malmö]
 forms: [Workshop]
 organizer: "Amalthea Bokkafé"
-addressName: 
+addressName: ""
 streetAddress: "Sevedsgatan 1B"
 postalCode: "SE-214 45 Malmö"
 addressRegion:
