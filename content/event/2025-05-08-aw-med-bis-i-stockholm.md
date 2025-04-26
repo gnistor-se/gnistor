@@ -1,7 +1,7 @@
 ---
 title: "AW med BiS i Stockholm!"
 date: "2025-05-08 18:00:00"
-locations: [Samtal]
+locations: [Stockholm]
 forms: [Pub]
 organizer: "BiS - Bibliotek i Samhälle"
 addressName: 
