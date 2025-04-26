@@ -6,7 +6,7 @@ locations: [Malmö]
 topics: ["1 maj"]
 forms: [Kafé]
 organizer: "Amalthea Bokkafé"
-addressName: 
+addressName: "Jesusparken"
 streetAddress: "Falsterbogatan 29"
 postalCode: "SE-214 36 Malmö"
 addressRegion:

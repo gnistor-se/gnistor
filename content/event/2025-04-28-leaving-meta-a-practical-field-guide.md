@@ -4,10 +4,10 @@ date: "2025-04-28 19:00:00"
 locations: [Malmö]
 forms: [Samtal]
 organizer: "Amalthea Bokkafé"
-addressName: 
+addressName: "ABF Malmö"
 streetAddress: "Spånehusvägen 47"
 postalCode: "21158 Malmö"
-addressRegion:
+addressRegion: "Jesusparken"
 addressCountry: "Sweden"
 source: https://www.facebook.com/events/659470410038571/
 ---
