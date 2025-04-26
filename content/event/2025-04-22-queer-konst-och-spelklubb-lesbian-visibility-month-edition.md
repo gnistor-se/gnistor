@@ -2,7 +2,7 @@
 title: "Queer konst-och spelklubb-LESBIAN VISIBILITY MONTH EDITION!"
 date: "2025-04-22 18:00:00"
 enddate: "2025-04-22 20:00:00"
-locations: [Mlamö]
+locations: [Malmö]
 forms: [Spel]
 organizer: "RFSL Malmö"
 addressName: 
