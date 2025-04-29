@@ -14,7 +14,7 @@ source: "https://www.facebook.com/events/3538607503102311/"
 ---
 Resistance in The Age of Digital Fascism – How can we resist fascism in a digital world engineered for control, distraction, and profit?
 
-Comrades, siblings, beautiful army of lovers! It's time for us to learn more about how to protect ourselves from digital fascism!
+Comrades, siblings, beautiful army of lovers! Its time for us to learn more about how to protect ourselves from digital fascism!
 
 In an age where the digital platforms we depend on are increasingly controlled by corporate interests and shaped by algorithms that suppress people, how do we organize for justice, equity, and liberation for all?
 
