@@ -1,5 +1,5 @@
 ---
-title: "Aspuddens föräldrar mot nazister!"
+title: "UPPSKJUTET Aspuddens föräldrar mot nazister!"
 date: 2025-05-02 19:00:00
 forms: [Sport]
 locations: [Stockholm]
@@ -11,6 +11,8 @@ addressRegion: ""
 addressCountry: "Sweden"
 source: "https://www.facebook.com/events/546287891510824/"
 ---
+MATCH FLYTTAD. Kvällens herrmatch mellan IFK Aspudden-Tellus och Stuvsta spelas på hemlig plats. Detta efter ett beslut av Stockholms Fotbollsförbund i samverkan med oss i klubben och polisen. Du kan följa matchen via Min Fotboll.
+
 Den senaste tiden har våran lokala fotbollsklubb IFK Aspudden-Tellus kapats av nynazister som spridit hatiska budskap och skapat oro i närområdet.
 
 Vi kan inte låta detta ske i vår ort!
