@@ -1,6 +1,6 @@
 ---
 title: "Stordemonstration: Nakbadagen"
-date: 2025-04-26 14:00:00
+date: 2025-05-17 14:00:00
 forms: [Demonstration]
 locations: [Köpenhamn]
 topics: [Palestina]
