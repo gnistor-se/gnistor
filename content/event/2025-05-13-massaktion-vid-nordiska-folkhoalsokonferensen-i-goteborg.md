@@ -7,8 +7,8 @@ topics: [Klimatet]
 organizer: "Extinction Rebellion"
 addressName: ""
 streetAddress: "Drottningtorget 3"
-postalCode: " SE-411 03 Göteborg"
-addressRegion: ""
+postalCode: "411 03"
+addressRegion: "Göteborg"
 addressCountry: " Sverige"
 source: "https://www.facebook.com/events/990582339284440/"
 ---
