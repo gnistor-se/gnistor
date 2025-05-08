@@ -17,7 +17,7 @@ Nu protesterar vi mot regeringens, med stöd av Sverigedemokraterna, förslag at
 
 Förslaget innebär bland annat att maxbeloppet som patienter betalar innan frikort höjs från 2 900 till 3 800 kronor. Med ett ändrat högkostnadsskydd för läkemedel vill regeringen flytta över kostnader från staten till patienterna.
 
-Effekterna av förslaget kan öka vårdkostnaderna när patienter avstår från medicinering. ”Vad blir kostnaden för hälso- och sjukvården med en undermålig behandling av t.ex. diabetes?” Det är en fråga vi ställer oss?
+Effekterna av förslaget kan öka vårdkostnaderna när patienter avstår från medicinering. Vad blir kostnaden för hälso- och sjukvården med en undermålig behandling av t.ex. diabetes? Det är en fråga vi ställer oss?
 
 Staten räknar med att spara ca 2,7 miljarder på reformen. Samtidigt sänker man skatter på 23 miljarder. I stället för skattesänkningar, som gynnar de mest välbeställda så vore det rimligt med en skattesänkning på tre miljarder och därmed få utrymme för att med skattemedel finansiera medicinkostnaderna.
 
