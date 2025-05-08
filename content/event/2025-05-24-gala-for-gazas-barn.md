@@ -1,6 +1,6 @@
 ---
 title: "Gala för Gazas barn"
-date: 2025-05-25 19:00:00
+date: 2025-05-24 19:00:00
 forms: [Fest]
 topics: [Palestina]
 locations: [Stockholm]
