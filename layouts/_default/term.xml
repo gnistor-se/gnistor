@@ -1,0 +1,47 @@
+{{ `<?xml version="1.0" encoding="utf-8" standalone="yes"?>` | safeHTML }}
+<rss version="2.0" 
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:gnistor="https://www.gnistor.se/om"
+>
+	<channel>
+		<title>{{.Site.Title}}</title>
+		<link>{{.Site.BaseURL}}</link>
+		<description>{{.Site.Params.podcast.description}}</description>
+		<lastBuildDate>{{ now.Format "Mon, 02 Jan 2006 15:04:00 -0700" | safeHTML }}</lastBuildDate>
+		<language>sv-SE</language>
+		<atom:link href="{{.Site.BaseURL}}feed/index.xml" rel="self" type="application/rss+xml"/>
+		<generator>Hugo -- gohugo.io</generator>
+		{{ range where .Data.Pages.ByDate "Type" "event"}}
+			{{ if (time .Params.date).After (now.AddDate 0 0 0) }}
+				<item>
+					<title>{{ .Params.title }}</title>
+					<link>{{.Permalink}}</link>
+					<guid>{{.Permalink}}</guid>
+					<pubDate>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:00 -0700" | safeHTML }}</pubDate>
+					<gnistor:startdate>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:00 -0700" | safeHTML }}</gnistor:startdate>
+					{{ if isset .Params "enddate" }}
+					<gnistor:enddate>{{ (time .Params.enddate).Format "Mon, 02 Jan 2006 15:04:00 -0700" | safeHTML }}</gnistor:enddate>
+					{{ end }}
+					{{ if isset .Params "organizer" }}
+					<gnistor:organizer>{{ .Params.organizer }}</gnistor:organizer>
+					{{ end }}
+					{{ if isset .Params "forms" }}
+						<gnistor:forms>
+						{{ range (.GetTerms "forms") }}
+							{{ .Title }}
+						{{ end }}
+						</gnistor:forms>
+					{{ end }}
+					{{ if isset .Params "locations" }}
+						<gnistor:locations>
+						{{ range (.GetTerms "locations") }}
+							{{ .Title }}
+						{{ end }}
+						</gnistor:locations>
+					{{ end }}
+					<description>{{ .Content | plainify | truncate 257 }}</description>
+				</item>
+			{{end}}
+		{{end}}
+	</channel>
+</rss>

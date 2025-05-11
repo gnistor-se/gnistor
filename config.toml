@@ -29,6 +29,7 @@ timeZone = 'Europe/Stockholm'
 [outputs]
 	home = [ "HTML", "feed", "json", "calendar" ]
 	page = [ "HTML", "calendar" ]
+	term = [ "HTML", "feed", "calendar" ]
 [params]
 	description = 'Ett litet kalendarium på webben för Sveriges sociala rörelser.'
 [params.author]
