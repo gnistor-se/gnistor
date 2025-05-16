@@ -12,7 +12,7 @@ addressRegion: "Umeå"
 addressCountry: "Sweden"
 source: "https://www.facebook.com/events/684921487619284/"
 ---
-Den 13 juni besöker Drew Pendergrass, en av författarna till boken "Halvjordssocialism: en plan för att rädda framtiden från utrotning, klimatförändring och pandemier", till Umeå för ett författarsamtal på bokkafé Pilgatan. Samtalet hålls på engelska och modereras av Johan Örestig Kling från tidskriften Röda rummet.
+Den 13 juni besöker Drew Pendergrass, en av författarna till boken Halvjordssocialism: en plan för att rädda framtiden från utrotning, klimatförändring och pandemier, till Umeå för ett författarsamtal på bokkafé Pilgatan. Samtalet hålls på engelska och modereras av Johan Örestig Kling från tidskriften Röda rummet.
 
 Samtalet arrangeras av Verbal förlag och tidskriften Röda rummet.
 
