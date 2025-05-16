@@ -4,7 +4,7 @@ date: "2025-05-12 15:00:00"
 end_date: "2025-05-12 22:00:00"
 locations: [Lund]
 forms: [Film]
-topics: []
+topics: ["HBTQIA+"]
 organizer: "Smålands Nation"
 addressName: ""
 streetAddress: "Kastanjegatan 7"

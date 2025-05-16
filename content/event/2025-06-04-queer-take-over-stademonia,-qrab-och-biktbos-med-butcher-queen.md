@@ -4,7 +4,7 @@ date: "2025-06-04 15:00:00"
 end_date: "2025-06-04 18:00:00"
 locations: [Stockholm]
 forms: [Samtal]
-topics: []
+topics: ["HBTQIA+"]
 organizer: "ABF Stockholm"
 addressName: "ABF-huset"
 streetAddress: "Sveavägen 41"

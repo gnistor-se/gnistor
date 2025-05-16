@@ -3,7 +3,7 @@ title: "Resistance in The Age of Digital Fascism"
 date: "2025-05-15 17:00:00"
 locations: [Online]
 forms: [Samtal]
-topics: []
+topics: ["HBTQIA+"]
 organizer: "Queers Against Fascism Stockholm"
 addressName: ""
 streetAddress: ""

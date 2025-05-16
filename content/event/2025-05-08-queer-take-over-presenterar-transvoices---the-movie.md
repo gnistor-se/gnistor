@@ -4,7 +4,7 @@ date: "2025-05-08 16:00:00"
 end_date: "2025-05-08 18:45:00"
 locations: [Stockholm]
 forms: ["Film"]
-topics: []
+topics: ["HBTQIA+"]
 organizer: "ABF Stockholm"
 addressName: "ABF-huset"
 streetAddress: "Sveavägen 41"

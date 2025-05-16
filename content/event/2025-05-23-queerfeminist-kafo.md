@@ -4,7 +4,7 @@ date: "2025-05-23 15:00:00"
 end_date: "2025-05-23 19:00:00"
 locations: [Göteborg]
 forms: [Kafé]
-topics: []
+topics: ["HBTQIA+"]
 organizer: "Syndikalistiskt Forum"
 addressName: ""
 streetAddress: "Linnégatan 19"

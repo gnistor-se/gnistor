@@ -3,6 +3,7 @@ title: "QAF 🧡 The Orange Library - Stödfest"
 date: 2025-05-05 18:00:00
 forms: [Fest]
 locations: [Stockholm]
+topics: ["HBTQIA+"]
 organizer: "Queers Against Fascism Stockholm"
 addressName: "Cyklopen"
 streetAddress: "Magelungsvägen 170"
