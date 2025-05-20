@@ -1,15 +1,15 @@
 ---
-title: "Demonstration för Palestina i Uppsala "
-date: "2025-05-24 11:30:00"
-locations: []
-forms: []
-topics: []
-organizer: ""
-addressName: ""
-streetAddress: "Uppsala"
+title: "Demonstration för Palestina i Uppsala"
+date: "2025-05-24 13:30:00"
+locations: [Uppsala]
+forms: [Demonstration]
+topics: [Palestina]
+organizer: "Palestinska folkets förening m.fl."
+addressName: "Slottsbacken"
+streetAddress: ""
 postalCode: ""
-addressRegion: ""
-addressCountry: ""
+addressRegion: "Uppsala"
+addressCountry: "Sweden"
 source: "https://www.facebook.com/events/1262805331944639/"
 ---
 Häv blockaden i Gaza!

@@ -1,10 +1,10 @@
 ---
 title: "Rebellmammor för Gazas barn på Odenplan"
-date: "2025-05-31 11:00:00"
-locations: []
-forms: []
-topics: []
-organizer: ""
+date: "2025-05-31 13:00:00"
+locations: [Stockholm]
+forms: [Demonstrationen]
+topics: [Palestina]
+organizer: "Rebellmammor"
 addressName: ""
 streetAddress: "Odengatan 71"
 postalCode: " SE-113 22 Stockholm"
