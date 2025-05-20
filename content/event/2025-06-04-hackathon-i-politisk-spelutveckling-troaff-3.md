@@ -1,6 +1,6 @@
 ---
 title: "Hackathon i politisk spelutveckling - träff 3"
-date: "2025-06-04 16:00:00"
+date: "2025-06-04 17:00:00"
 locations: [Stockholm]
 forms: [Hackathon]
 topics: []

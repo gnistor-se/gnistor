@@ -1,6 +1,6 @@
 ---
 title: "Hyresgästorganisering med Ort till Ort"
-date: "2025-05-23 16:00:00"
+date: "2025-05-23 18:00:00"
 locations: [Umeå]
 forms: [Samtal]
 topics: []

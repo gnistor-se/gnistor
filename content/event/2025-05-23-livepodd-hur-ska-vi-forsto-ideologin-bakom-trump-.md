@@ -1,6 +1,6 @@
 ---
 title: "Livepodd! Hur ska vi förstå ideologin bakom Trump?"
-date: "2025-05-23 15:30:00"
+date: "2025-05-23 17:30:00"
 locations: [Stockholm]
 forms: [Samtal]
 topics: []

@@ -1,6 +1,6 @@
 ---
 title: "Demonstration för vapenembargo och sanktioner"
-date: "2025-05-24 12:00:00"
+date: "2025-05-24 14:00:00"
 locations: [Göteborg]
 forms: [Demonstration]
 topics: [Palestina]

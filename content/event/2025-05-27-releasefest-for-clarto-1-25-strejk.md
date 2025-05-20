@@ -1,6 +1,6 @@
 ---
 title: "Releasefest för Clarté #1/25 - STREJK"
-date: "2025-05-27 17:00:00"
+date: "2025-05-27 19:00:00"
 locations: [Stockholm]
 forms: [Fest]
 topics: []

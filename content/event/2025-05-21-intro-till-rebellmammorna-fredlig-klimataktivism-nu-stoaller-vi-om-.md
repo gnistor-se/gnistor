@@ -1,6 +1,6 @@
 ---
 title: "Intro till Rebellmammorna & fredlig klimataktivism -- Nu ställer vi om  --"
-date: "2025-05-21 15:00:00"
+date: "2025-05-21 17:00:00"
 end_date: "2025-05-21 17:00:00"
 locations: [Visby]
 forms: [Samtal]

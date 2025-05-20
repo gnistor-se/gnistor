@@ -1,6 +1,6 @@
 ---
 title: "Lyssningscirklar som verktyg i klimaträttviserörelsen"
-date: "2025-05-21 16:30:00"
+date: "2025-05-21 18:30:00"
 end_date: "2025-05-21 18:15:00"
 locations: [Stockholm]
 forms: [Samtal]

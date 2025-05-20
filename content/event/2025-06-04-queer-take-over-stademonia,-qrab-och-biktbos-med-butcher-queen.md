@@ -1,6 +1,6 @@
 ---
 title: "QUEER TAKE OVER: StaDemonia, QRAB och biktbås med Butcher Queen"
-date: "2025-06-04 15:00:00"
+date: "2025-06-04 17:00:00"
 end_date: "2025-06-04 18:00:00"
 locations: [Stockholm]
 forms: [Samtal]

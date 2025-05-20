@@ -1,6 +1,6 @@
 ---
 title: "Författarsamtal: Halvjordssocialism"
-date: "2025-06-13 16:30:00"
+date: "2025-06-13 18:30:00"
 locations: [Umeå]
 forms: [Samtal]
 topics: []

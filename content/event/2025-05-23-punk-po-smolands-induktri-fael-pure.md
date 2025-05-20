@@ -1,6 +1,6 @@
 ---
 title: "PUNK PÅ SMÅLANDS - INDUKTRI / FAEL / PURE"
-date: "2025-05-23 17:00:00"
+date: "2025-05-23 19:00:00"
 locations: [Lund]
 forms: [Musik]
 topics: []

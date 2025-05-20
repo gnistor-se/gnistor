@@ -1,6 +1,6 @@
 ---
 title: "Katalys-planen för full sysselsättning – Släppseminarium"
-date: "2025-05-26 10:00:00"
+date: "2025-05-26 12:00:00"
 locations: [Stockholm]
 forms: [Samtal]
 topics: []

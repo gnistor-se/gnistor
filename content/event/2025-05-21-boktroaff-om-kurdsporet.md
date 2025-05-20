@@ -1,6 +1,6 @@
 ---
 title: "Bokträff om Kurdspåret"
-date: "2025-05-21 16:00:00"
+date: "2025-05-21 18:00:00"
 locations: [Stockholm]
 forms: [Studiecirkel]
 topics: []

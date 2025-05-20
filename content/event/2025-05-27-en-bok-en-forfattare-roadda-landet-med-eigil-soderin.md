@@ -1,11 +1,10 @@
 ---
 title: "En bok - en författare: Rädda Landet med Eigil Söderin"
-date: "2025-05-27 16:00:00"
-end_date: "2025-05-27 17:00:00"
-locations: []
-forms: []
+date: "2025-05-27 18:00:00"
+locations: [Stockholm]
+forms: [Samtal]
 topics: []
-organizer: ""
+organizer: "ABF Stockholm"
 addressName: ""
 streetAddress: "Sveavägen 41"
 postalCode: " SE-111 34 Stockholm"

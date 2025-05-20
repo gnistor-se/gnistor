@@ -1,7 +1,6 @@
 ---
 title: "💊 Torgmöte för högkostnadsskyddet 💊"
-date: "2025-05-20 10:30:00"
-end_date: "2025-05-20 12:00:00"
+date: "2025-05-20 12:30:00"
 locations: [Stockholm]
 forms: [Manifestation]
 topics: []

@@ -1,5 +1,5 @@
 ---
-title: "Filmklubben | Dokumentär: Val "
+title: "Filmklubben | Dokumentär: Val"
 date: "2025-06-04 18:00:00"
 enddate: "2025-06-04 20:30:00"
 locations: [Stockholm]

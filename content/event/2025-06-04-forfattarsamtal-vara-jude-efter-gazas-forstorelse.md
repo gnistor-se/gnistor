@@ -1,6 +1,6 @@
 ---
 title: "Författarsamtal: Vara jude efter Gazas förstörelse"
-date: "2025-06-04 17:00:00"
+date: "2025-06-04 19:00:00"
 locations: [Stockholm]
 forms: [Samtal]
 topics: ["ABF Stockholm"]

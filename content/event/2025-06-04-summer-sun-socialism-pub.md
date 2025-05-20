@@ -1,6 +1,6 @@
 ---
 title: "SUMMER, SUN, & SOCIALISM PUB"
-date: "2025-06-04 15:00:00"
+date: "2025-06-04 17:00:00"
 end_date: "2025-06-04 20:00:00"
 locations: [Lund]
 forms: [Pub]

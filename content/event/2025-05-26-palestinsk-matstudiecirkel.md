@@ -1,7 +1,6 @@
 ---
 title: "Palestinsk matstudiecirkel"
-date: "2025-05-26 15:00:00"
-end_date: "2025-05-26 15:01:00"
+date: "2025-05-26 17:00:00"
 locations: [Sundsvall]
 forms: [Studiecirkel]
 topics: [Palestina]

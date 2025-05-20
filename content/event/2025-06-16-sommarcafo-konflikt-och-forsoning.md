@@ -1,6 +1,6 @@
 ---
 title: "Sommarcafé - Konflikt och försoning"
-date: "2025-06-16 16:00:00"
+date: "2025-06-16 18:00:00"
 locations: [Malmö]
 forms: [Samtal]
 topics: []
