@@ -3,7 +3,8 @@ title: "Författarsamtal: Vara jude efter Gazas förstörelse"
 date: "2025-06-04 19:00:00"
 locations: [Stockholm]
 forms: [Samtal]
-topics: ["ABF Stockholm"]
+topics: [Palestina]
+organizer: "ABF Stockholm"
 addressName: "ABF-huset"
 streetAddress: "Sveavägen 41"
 postalCode: " 111 34"
