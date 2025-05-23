@@ -4,7 +4,7 @@ date: 2025-05-23 17:15:00
 forms: [Aktion]
 locations: [Stockholm]
 topics: [Palestina]
-organizer: ""
+organizer: "Svenska Freds- och Skiljedomsföreningen"
 addressName: "Gustav Adolfs torg"
 streetAddress: ""
 postalCode: ""
