@@ -31,3 +31,5 @@ Vi marscherar för de barn som inte längre kan gå.
 Vi bär rösterna från ruinerna i Gaza.
 
 Ingen är fri förrän alla är fria!
+
+Vill du åka tillsammans med andra till demonstrationen? Kolla kartan och registrera din förort ifall den inte finns i listan: https://www.mittskifte.org/calendars/gemensam-resa-fran-stockholms-fororter
