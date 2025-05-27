@@ -1,15 +1,14 @@
 ---
 title: "Öppet kampanjmöte - Stäng ner Elbit! (Open meeting: Shut Elbit Down!)"
-date: "2025-06-03 15:30:00"
-end_date: "2025-06-03 17:30:00"
-locations: []
-forms: []
-topics: []
-organizer: ""
-addressName: ""
+date: "2025-06-03 17:30:00"
+locations: [Göteborg]
+forms: [Möte]
+topics: [Palestina]
+organizer: "Stäng ner Elbit"
+addressName: "Viktoriahuset"
 streetAddress: "Nordhemsgatan 40"
-postalCode: " SE-413 06 Göteborg"
-addressRegion: ""
+postalCode: "413 06"
+addressRegion: "Göteborg"
 addressCountry: " Sverige"
 source: "https://www.facebook.com/events/1404007587616038/"
 ---

@@ -2,14 +2,14 @@
 title: "Katalys seminarium på S-kongressen: En politik för full sysselsättning, tillväxt och prisstabilitet"
 date: "2025-05-29 10:00:00"
 locations: [Göteborg]
-forms: []
+forms: [Samtal]
 topics: []
-organizer: ""
-addressName: ""
-streetAddress: "Göteborg"
+organizer: "Katalys"
+addressName: "Svenska Mässan Göteborg"
+streetAddress: ""
 postalCode: ""
-addressRegion: ""
-addressCountry: ""
+addressRegion: "Göteborg"
+addressCountry: "Sweden"
 source: "https://www.facebook.com/events/1239049564620221/"
 ---
 Katalys presenterar rapporten En politik för full sysselsättning, tillväxt och prisstabilitet på Socialdemokraternas kongress i Göteborg. 

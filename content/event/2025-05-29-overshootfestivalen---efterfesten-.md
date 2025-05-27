@@ -1,15 +1,14 @@
 ---
 title: "Overshootfestivalen – Efterfesten!"
-date: "2025-05-29 17:00:00"
-end_date: "2025-05-29 23:00:00"
-locations: []
-forms: []
-topics: []
-organizer: ""
-addressName: ""
+date: "2025-05-29 19:00:00"
+locations: [Malmö]
+forms: [Festival]
+topics: [Klimat]
+organizer: "Overshootfestivalen"
+addressName: "Far i Hatten"
 streetAddress: "Galleri Jaktpaviljongen"
-postalCode: " SE-214 22 Malmö"
-addressRegion: ""
+postalCode: "214 22"
+addressRegion: "Malmö"
 addressCountry: " Sverige"
 source: "https://www.facebook.com/events/1158675649342342/"
 ---

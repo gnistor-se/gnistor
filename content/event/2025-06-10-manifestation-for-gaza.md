@@ -1,11 +1,11 @@
 ---
 title: "Manifestation för Gaza"
-date: "2025-06-10 15:00:00"
-locations: []
-forms: []
-topics: []
-organizer: ""
-addressName: ""
+date: "2025-06-10 17:00:00"
+locations: [Växjö]
+forms: [Manifestation]
+topics: [Palestina]
+organizer: "Vänsterpartiet Växjö"
+addressName: "Speakers Corner"
 streetAddress: "Storgatan 20"
 postalCode: " SE-352 31 Växjö"
 addressRegion: ""
