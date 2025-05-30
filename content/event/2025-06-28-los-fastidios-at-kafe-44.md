@@ -13,6 +13,14 @@ addressCountry: "Sverige"
 source: https://www.facebook.com/events/645582061647672/
 ---
 Los Fastidios LIVE at Kafé 44 
++ förband Skandalhuset från Uppsala.
+
+Det italienska punkbandet Los Fastidios kommer tillbaka till Stockholm! Med en ny skiva ute, och gamla hits som Antifa Hooligan och S.H.A.R.P i bagaget ser vi fram emot att välkomna dem tillbaka till Kafé 44! Som förband är vi glada att välkomna det svängiga gänget i Skandalhuset. 
+På plats går det att betala med swish eller kontanter.
+
+https://www.facebook.com/search/top?q=los%20fastidios%20-%20officialpage
+
+https://www.facebook.com/skandalhuset.se
 
 Saturday 28 June 2025
 
@@ -24,4 +32,6 @@ Age 18+
 
 Entry 175:-
 
-More information tba!
+Biljetter köper du genom denna länk eller på plats 28 juni 
+(med reservation för slutsålt);
+https://kulturbiljetter.se/kassa/
