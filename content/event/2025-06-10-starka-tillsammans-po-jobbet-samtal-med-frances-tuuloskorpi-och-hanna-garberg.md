@@ -12,9 +12,9 @@ addressRegion: "Stockholm"
 addressCountry: "Sweden"
 source: "https://www.facebook.com/events/1878868656240274/"
 ---
-”Det spelar ingen roll om jag säger ifrån på jobbet.”
+Det spelar ingen roll om jag säger ifrån på jobbet.
 
-Det är ofta sant. Men vad händer om vi byter ut "jag" mot "vi"?
+Det är ofta sant. Men vad händer om vi byter ut jag mot vi?
 
 Frances Tuuloskorpi har under fyra decennier arbetat på brödfabriker, i tvätterier och i storkök. På ”Bagarn” var hon ordförande i livsmedelsarbetareklubben under lång tid. 
 
