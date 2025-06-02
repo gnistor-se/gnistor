@@ -3,8 +3,8 @@ title: "Stödfest – Ingen Människa är Illegal!"
 date: "2025-09-05 19:00:00"
 locations: [Göteborg]
 forms: [Fest]
-topics: [Ingen Människa är Illegal - Göteborg]
-organizer: ""
+topics: []
+organizer: "Ingen Människa är Illegal - Göteborg"
 addressName: "Oceanen"
 streetAddress: "Stigbergstorget 10"
 postalCode: "414 63 "
