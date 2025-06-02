@@ -3,7 +3,7 @@ title: "Antinationaldagen med Queers Against Facism"
 date: "2025-06-06 19:00:00"
 locations: [Stockholm]
 forms: [Fest]
-topics: [HBTQI+]
+topics: [HBTQIA+]
 organizer: "Queers Against Facism"
 addressName: "Cyklopen"
 streetAddress: "Magelungsvägen 170"
