@@ -1,6 +1,6 @@
 ---
 title: "Sommarcafé - Förutsättningar och hinder för romskt liv i Malmö"
-date: "2025-08-27 22:00:00"
+date: "2025-08-27 18:30:00"
 locations: [Malmö]
 forms: [Samtal]
 topics: []
