@@ -1,8 +1,8 @@
 ---
 title: "Frys hyran! Demonstration 27/9"
 date: 2025-09-27 14:00:00
-forms: [Stockholm]
-locations: [Demonstration]
+forms: [Demonstration]
+locations: [Stockholm]
 organizer: "Ung Vänster Storstockholm"
 addressName: "Medborgarplatsen,"
 streetAddress: ""
