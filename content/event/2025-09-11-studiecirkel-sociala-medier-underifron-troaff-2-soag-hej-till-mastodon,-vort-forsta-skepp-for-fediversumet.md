@@ -5,7 +5,7 @@ locations: [Göteborg]
 forms: [Studiecirkel]
 topics: []
 organizer: "underifrån Göteborg"
-addressName: ""
+addressName: "Göteborgs LS"
 streetAddress: ""
 postalCode: ""
 addressRegion: "Göteborg"
