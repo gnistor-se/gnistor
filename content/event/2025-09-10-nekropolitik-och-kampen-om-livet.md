@@ -8,7 +8,7 @@ organizer: "Bokkafé Angbett"
 addressName: "Ordenshuset"
 streetAddress: ""
 postalCode: ""
-addressRegion: "Uppsala"
+addressRegion: "Umeå"
 addressCountry: "Sweden"
 source: "https://bokkafeangbett.noblogs.org/post/2025/08/23/forelasningsserie-pa-temat-fascism-anti-fascism/"
 ---
