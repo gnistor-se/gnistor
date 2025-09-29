@@ -11,7 +11,7 @@ addressRegion: "Uppsala"
 addressCountry: "Sweden"
 source: https://www.facebook.com/events/1868269484043158/
 ---
-Välkomna till vår nya studiecirkel 'Hur skapar man en antifascistisk rörelse?"
+Välkomna till vår nya studiecirkel Hur skapar man en antifascistisk rörelse?
 
 Cirkeln kommer vara diskussionsfokuserad och pågå under ett antal tillfällen.
 
