@@ -12,7 +12,7 @@ addressRegion: "Göteborg"
 addressCountry: "Sweden"
 source: "https://wiki.fripost.org/e-post/migrate-google/"
 ---
-Frigörelse på nätet -- det måste inte vara allt eller inget. Alltid något kan göras. Tillsammans fortsätter vi där var och en är.
+Frigörelse på nätet det måste inte vara allt eller inget. Alltid något kan göras. Tillsammans fortsätter vi där var och en är.
 
 Äntligen anordnar Fripost verkstäder (två till att börja med) kring att flytta adresser, e-post, kontakter, etc. från t.ex. Google till Fripost:
 
