@@ -18,4 +18,4 @@ Aktivisten Peter Main, som är medlem i Your Party, besöker nu Stockholm och be
 
 Välkommen på en politisk AW. Det blir diskussion, men också tilltugg, dryck och musikunderhållning. Mötet arrangeras av Arbetarmakt. Alla välkomna!
 
-Tid och plats: Fredag 10 oktober kl. 19.00, Solidaritetshuset (i lokalen Draken) i Stockholm.
+Tid och plats: Fredag 10 oktober kl. 19.00, Solidaritetshuset (i lokalen Världsbiblioteket) i Stockholm.
