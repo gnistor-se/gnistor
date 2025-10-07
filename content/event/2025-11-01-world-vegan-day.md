@@ -14,7 +14,7 @@ addressCountry: "Sweden"
 source: "https://muff.se/"
 ---
 ## November 1 nd:
-- Film screening of "For the lives of others" by Yama Rauff
+- Film screening of For the lives of others by Yama Rauff
 - Vegan activism workshop (Pelle/Adam)
 - Live music (Christian/Adam/Ask)
 - Punkoteka until late (Dj Pålle)
