@@ -1,7 +1,6 @@
 ---
 title: "Digital AW-hackathon"
-date: "2025-12-01 17:00:00"
-end_date: "2025-12-01 20:00:00"
+date: "2025-12-01 18:00:00"
 locations: [Online]
 forms: [Pub]
 topics: []
