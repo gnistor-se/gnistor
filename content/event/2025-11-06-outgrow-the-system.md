@@ -1,6 +1,6 @@
 ---
 title: "Outgrow the System"
-date: 2025-11-06 18:30
+date: 2025-11-06 18:30:00
 forms: [Film]
 locations: [Stockholm]
 topics: [Klimat]
