@@ -11,7 +11,7 @@ addressRegion: "Stockholm"
 addressCountry: "Sverige"
 source: https://www.facebook.com/events/1400760394363821/
 ---
-Göran Rosenberg samtalar om hans bok "Marcus Ehrenpreis obesvarade kärlek" (Bonniers 2021) med Calle Nathanson.
+Göran Rosenberg samtalar om hans bok Marcus Ehrenpreis obesvarade kärlek (Bonniers 2021) med Calle Nathanson.
 
 Göran Rosenberg är journalist, författare och debattör
 Calle Nathanson är studieombudsman och koncernchef på ABF Stockholm.
