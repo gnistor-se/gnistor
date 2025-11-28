@@ -1,6 +1,6 @@
 ---
 title: "NAZIFRITT SALEM – INGEN NY NAZISTMARSCH"
-date: 2025-11-06 14:00:00
+date: 2025-12-06 14:00:00
 forms: [Demonstration]
 locations: [Stockholm]
 topics: [Antifascism]
