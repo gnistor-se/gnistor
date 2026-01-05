@@ -12,7 +12,7 @@ addressRegion: "Stockholm"
 addressCountry: "Sweden"
 source: "https://www.facebook.com/p/Solidaritetsn%C3%A4tverket-Sverige-Palestina-61566614503476/"
 ---
-Visning av filmen "Viva Palästina" av Kamal El Salim
+Visning av filmen Viva Palästina av Kamal El Salim
 
 ## Medverkande i panelsamtal
 Linus Gardell, Ammar Makboul, Barbara Hagel och Nadja Al-Malki
