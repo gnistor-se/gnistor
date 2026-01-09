@@ -3,7 +3,7 @@ title: "Rise up for Rojava!"
 date: 2026-01-08 17:00:00
 forms: [Demonstration]
 locations: [Stockholm]
-topics: []
+topics: [Rojava]
 organizer: "Stortorget"
 addressName: ""
 streetAddress: ""
