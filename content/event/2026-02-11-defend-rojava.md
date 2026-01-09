@@ -3,7 +3,7 @@ title: "Defend Rojava"
 date: 2026-02-11 12:00:00
 forms: [Demonstration]
 locations: [Malmö]
-topics: []
+topics: [Rojava]
 organizer: ""
 addressName: "Triangeltorget"
 streetAddress: ""
