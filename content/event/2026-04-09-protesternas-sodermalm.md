@@ -19,6 +19,6 @@ Demonstrationer, upplopp och kravaller har genom åren utspelat sig på Söderma
 Vi undersöker varför och hur människor har protesterat, men också hur polisen och samhället runtomkring har reagerat på diverse protester – med alltifrån rädsla och hårdföra angrepp till respekt och solidaritet.
 
 Under vandringen får du bland annat höra om kvinnoupplopp och ungdomskravaller, sittstrejker och gatubråk, strejkande arbetare och aktionsgruppen mot rivningen av kvarteret Mullvaden.
-Guide
 
+## Guide
 Erik Gunnarsson, museipedagog, leder vandringen.
