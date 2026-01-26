@@ -13,7 +13,7 @@ source: https://www.facebook.com/events/1799379290753385/
 ---
 Varmt välkomna till en presentation av Pelle Sunvinvissons nya bok Andra vågen.
 
-Möt författaren Pelle Sunvisson som också är förhandlare och medgrundare av fackföreningen "Solidariska byggare" som organiserar migrantarbetare i Sverige.
+Möt författaren Pelle Sunvisson som också är förhandlare och medgrundare av fackföreningen Solidariska byggare som organiserar migrantarbetare i Sverige.
 
 Om boken "Andra vågen": I tyska Gräfenhausen vägrar en uzbekisk lastbilschaufför att köra vidare. I Sundbyberg störtar en hiss till marken. I en raststuga i Tyresta by försöker en utbränd författare hitta tillbaka till sig själv.
 
