@@ -19,6 +19,6 @@ DROTTNING ZILVIA
 
 SUN CITY GBG
 
-...fler band kommer snart 💜
+Fler band kommer snart 💜
 
 Bjud in din mamma, dina vänner, dina grannar – ta med alla!💃
