@@ -12,10 +12,10 @@ addressRegion: "Stockholm"
 addressCountry: "Sweden"
 source: "https://www.palestinagruppenstockholm.se/kalendarium"
 ---
-"Enskede för Gaza" till Läkare Utan Gränser (MSF) har nu uppnått 78 609 kr!
+Enskede för Gaza till Läkare Utan Gränser (MSF) har nu uppnått 78 609 kr!
 Ett varmt tack för alla generösa bidrag!
 
-Vi avslutar insamlingen med att i samarbete med Bio Reflexen i Kärrtorp visa filmen "Hind Rajab - rösten från Gaza".
+Vi avslutar insamlingen med att i samarbete med Bio Reflexen i Kärrtorp visa filmen Hind Rajab - rösten från Gaza.
 
 Efter filmen kommer vi att ha gäster, som berättar om den aktuella situationen i Gaza.
 Filmen har premiär i Sverige 30 januari och har internationellt fått stor uppmärksamhet.
