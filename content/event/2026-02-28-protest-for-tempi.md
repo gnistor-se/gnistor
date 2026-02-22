@@ -1,5 +1,5 @@
 ---
-title: "Protest for Tempu"
+title: "Protest for Tempi"
 date: 2026-02-28 18:00:00
 forms: [Manifestation]
 locations: [Göteborg]
