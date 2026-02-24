@@ -3,7 +3,7 @@ title: "AKTIVISTER - En film av Maj Wechselmann på Internationella kvinnodagen"
 date: 2026-03-08 14:00:00
 forms: [Film]
 locations: [Hörby]
-topics: []
+topics: [8mars]
 organizer: "Bio Sågen"
 addressName: "Bio Sågen"
 streetAddress: "Svensköp 6518"
