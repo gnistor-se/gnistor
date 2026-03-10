@@ -1,6 +1,7 @@
 ---
 title: "Protesthelg för human migrationspolitik"
-date: 2026-03-13 2026-03-15
+date: 2026-03-13 12:00:00
+endDate: 2026-03-15 12:00:00
 forms: [Demonstration]
 locations: [Hela Sverige]
 topics: [Migration]
