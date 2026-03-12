@@ -3,7 +3,7 @@ title: "Film och Samtal - Outgrow the System"
 date: 2026-03-18 18:00:00
 forms: [Film]
 locations: [Västerås]
-topics: [Klimatet]
+topics: [Klimat]
 organizer: "Västerås rebellmammor o rebellpappor"
 addressName: "Elektra Bio"
 streetAddress: "Sintervägen"
