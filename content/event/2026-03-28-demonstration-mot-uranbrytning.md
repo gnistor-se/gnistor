@@ -16,6 +16,6 @@ Landsomfattande demonstration 28 mars.
 
 Start Vilhelmina kyrka.
 
-Mut uranbrytning i alunskiffer. För skydd av vårt vatten, vår natur och vår framtid!
+Mot uranbrytning i alunskiffer. För skydd av vårt vatten, vår natur och vår framtid!
 
 Rör inte våra vitterstigar!
