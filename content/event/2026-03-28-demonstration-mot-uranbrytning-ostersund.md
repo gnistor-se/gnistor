@@ -2,15 +2,15 @@
 title: "Demonstration mot uranbrytning"
 date: 2026-03-28 12:00:00
 forms: [Demonstration]
-locations: [Vilhelmina]
+locations: [Östersund]
 topics: []
-organizer: "Samtalsgruppen mot brytning ur alunskiffer"
-addressName: "Vilhelmina kyrka"
-streetAddress: "Volgsjövägen 25"
-postalCode: "912 32"
-addressRegion: "Vilhelmina"
+organizer: "SVERIGE MOT BRYTNING I ALUNSKIFFER"
+addressName: "Österängen"
+streetAddress: "Rådhusgatan 70"
+postalCode: ""
+addressRegion: "Östersund"
 addressCountry: "Sweden"
-source: "https://www.facebook.com/events/25939238695766275/"
+source: "https://www.facebook.com/events/1422466112764381/"
 ---
 Rent dricksvatten är idag en bristvara i världen. Vi kan ersätta metaller. Men vi kan inte ersätta förstörda vatten.
 
