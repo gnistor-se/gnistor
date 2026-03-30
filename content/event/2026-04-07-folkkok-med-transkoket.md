@@ -1,5 +1,5 @@
 ---
-title: "Folkkök med Tranköket"
+title: "Folkkök med Transköket"
 date: 2026-04-07 11:00:00
 forms: [Kafé]
 locations: [Göteborg]
