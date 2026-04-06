@@ -21,3 +21,5 @@ Inspirationsföreläsning av Rebecka Bohlin, ETC
 Arr: UnderSammaTak & gruppen Politiska Samtal
 
 Fri entré. Förtäring till försäljning.
+
+Observera att man måte boka soppan, så vi vet hur många portioner (maria.wallin777@gmail.com).
