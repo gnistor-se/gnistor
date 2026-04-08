@@ -12,6 +12,6 @@ addressRegion: "Stockholm"
 addressCountry: "Sweden"
 source: ""
 ---
-Kom och njut av varm soppa och kamratskap i vinterkylan. Inget betaltvång, alla käkar oavsett.
+Kom och njut av varm mat och kamratskap. Inget betaltvång, alla käkar oavsett.
 
 Med föreläsning med tema Framtiden: de kommande 10 åren.
