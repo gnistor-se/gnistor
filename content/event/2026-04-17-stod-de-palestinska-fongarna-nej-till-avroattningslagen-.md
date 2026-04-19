@@ -1,6 +1,6 @@
 ---
 title: "Stöd de palestinska fångarna - nej till avrättningslagen!"
-date: "2026-04-17 16:00:00"
+date: "2026-04-17 18:00:00"
 locations: [Göteborg]
 forms: [Manifestation]
 topics: [Palestina]

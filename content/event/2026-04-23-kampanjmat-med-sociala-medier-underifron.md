@@ -1,6 +1,6 @@
 ---
 title: "Kampanjmat med Sociala medier underifrån"
-date: "2026-04-23 16:00:00"
+date: "2026-04-23 18:00:00"
 locations: []
 forms: []
 topics: []

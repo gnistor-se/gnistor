@@ -1,6 +1,6 @@
 ---
 title: "AW-hackathon i Stockholm"
-date: "2026-05-11 16:00:00"
+date: "2026-05-11 18:00:00"
 locations: [Stockholm]
 forms: [Workshop]
 topics: []

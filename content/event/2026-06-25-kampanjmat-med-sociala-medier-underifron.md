@@ -1,6 +1,6 @@
 ---
 title: "Kampanjmat med Sociala medier underifrån"
-date: "2026-06-25 16:00:00"
+date: "2026-06-25 18:00:00"
 locations: [Göteborg]
 forms: [Kafé]
 topics: []

@@ -1,6 +1,6 @@
 ---
 title: "Släpp av nummer 3: Krigets politik och ekonomi"
-date: "2026-04-11 13:30:00"
+date: "2026-04-11 15:30:00"
 locations: []
 forms: []
 topics: []

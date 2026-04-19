@@ -1,6 +1,6 @@
 ---
 title: "Critical Mass (April) 🔥🚲️"
-date: "2026-04-24 16:45:00"
+date: "2026-04-24 18:45:00"
 locations: [Stockholm]
 forms: [Aktion]
 topics: []

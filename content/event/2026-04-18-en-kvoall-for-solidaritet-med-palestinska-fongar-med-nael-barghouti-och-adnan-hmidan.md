@@ -1,6 +1,6 @@
 ---
 title: "En kväll för solidaritet med palestinska fångar med Nael Barghouti och Adnan Hmidan"
-date: "2026-04-18 16:00:00"
+date: "2026-04-18 18:00:00"
 locations: [Göteborg]
 forms: [Samtal]
 topics: [Palestina]

@@ -1,6 +1,6 @@
 ---
 title: "Politikerhearing om demokrati, miljö och rättvisa"
-date: "2026-04-15 11:00:00"
+date: "2026-04-15 13:00:00"
 locations: [Stockholm]
 forms: [Samtal]
 topics: []
