@@ -3,6 +3,7 @@ title: "Syndikalistisk 1a maj på Joe Hill-gården!"
 date: "2026-05-01 12:00:00"
 locations: [Gävle]
 forms: [Kafé]
+topics: [1maj]
 organizer: "Gävle LS"
 addressName: 
 streetAddress: "Nedre Bergsgatan 28"
