@@ -5,7 +5,7 @@ forms: [Fest]
 locations: [Stockholm]
 topics: [1maj]
 organizer: "Vänsterpartiet Stockholms stad"
-addressName: "Kägelbanan
+addressName: "Kägelbanan"
 streetAddress: ""
 postalCode: "116 46"
 addressRegion: "Stockholm"
