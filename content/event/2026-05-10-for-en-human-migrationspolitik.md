@@ -1,6 +1,6 @@
 ---
 title: "För en human migrationspolitik"
-date: 2025-05-10 13:00:00
+date: 2026-05-10 13:00:00
 forms: [Demonstration]
 locations: [Stockholm]
 topics: []
