@@ -1,6 +1,6 @@
 ---
 title: "Mamifestation på mors dag"
-date: 2026-05-31 11:00
+date: 2026-05-31 11:00:00
 forms: [Manifestation]
 locations: [Stockholm]
 topics: [Palestina]
