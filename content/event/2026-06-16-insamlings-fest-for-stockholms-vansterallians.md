@@ -1,7 +1,6 @@
 ---
 title: "16/6 Insamlingsfest för Stockholms Vänsterallians"
 date: "2026-06-16 18:00:00"
-enddate: "2026-06-16 24:00:00"
 locations: [Stockholm]
 forms: [Fest]
 organizer: "Stockholms Vänsterallians"
@@ -18,11 +17,11 @@ Den 16 juni slår vi upp dörrarna på Solidaritetshuset för en kväll fylld av
 
 🎵 BLUES (Raymond Peroti) – En av Sveriges främsta rappare och musiker som slog igenom stort 1998 med dunderhiten "Under ytan". Med album som 'Samhällstjänst' och hits som 'Mot alla odds' garanterar han ett otroligt gung!
 
-🎵 KRISTIN AMPARO – En av landets mest mångsidiga och dynamiska röster. Från succén i X-Factor till dunderhitsen "Din soldat" (med Albin) och "Dance Our Tears Away" – Kristin rör sig sömlöst mellan soul, jazz och pop och lämnar ingen oberörd.
+🎵 KRISTIN AMPARO – En av landets mest mångsidiga och dynamiska röster. Från succén i X-Factor till dunderhitsen Din soldat (med Albin) och Dance Our Tears Away – Kristin rör sig sömlöst mellan soul, jazz och pop och lämnar ingen oberörd.
 
 🎵 ISABELLA LUNDGREN – En av Sveriges absolut främsta jazzsångerskor och en artist i världsklass. Med sin fantastiska röst och unika, existentiella intensitet har hon en sällsynt förmåga att formligen trollbinda sin publik.
 
-🎵 ANDERS F. RÖNNBLOM – En levande progg- och rocklegend med över 30 album i bagaget. Mannen bakom klassiska album som 'Vit flagg' och den odödliga antijullåten "Det är inte snön som faller" bjuder på sin unika musikskatt.
+🎵 ANDERS F. RÖNNBLOM – En levande progg- och rocklegend med över 30 album i bagaget. Mannen bakom klassiska album som Vit flagg och den odödliga antijullåten Det är inte snön som faller bjuder på sin unika musikskatt.
 
 📝 ATHENA FARROKHZAD – En av Sveriges mest tongivande och hyllade poeter, dramatiker och översättare. Med sitt kraftfulla och politiskt laddade språk har hon etablerat sig som en central röst i den samtida svenska litteraturen.
 
