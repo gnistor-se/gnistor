@@ -14,20 +14,6 @@ window.onload = function(event) {
 	});
 };
 
-function show_hide_list(show, items) {
-	show--;
-	items.forEach( ( item, index ) => {
-		if( index <= show ) {
-			item.classList.remove('hidden');
-		} else {
-			item.classList.add('hidden');
-		}
-	} );
-	if(items.length<=(show+1)) {
-		document.querySelector('#load_more').remove();
-	}
-}
-
 function toggle_newsletter_banner(new_setting) {
 	const setting = localStorage.getItem('newsletter');
 	const newsletter = document.querySelector('#newsletter');
