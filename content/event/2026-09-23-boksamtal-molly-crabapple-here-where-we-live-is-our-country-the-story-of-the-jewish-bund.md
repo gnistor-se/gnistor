@@ -1,5 +1,5 @@
 ---
-title: "Boksamtal: Molly Crabapple - Here Where We Live Is Our Country: The Story Of The Jewish Bund
+title: "Boksamtal: Molly Crabapple - Here Where We Live Is Our Country: The Story Of The Jewish Bund"
 date: "2026-09-23 18:00:00"
 locations: [Stockholm]
 forms: [Samtal]
