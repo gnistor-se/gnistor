@@ -13,6 +13,8 @@ addressRegion: "Stockholm"
 addressCountry: "Sweden"
 source: "https://organisera.org/events/0989d474-dba1-40c2-98ae-f33593b10db1"
 ---
+Varje år försöker vi göra en större och bättre mässa än förra året, det betyder fler internationella gäster, fler lokaler men också ett nytt samarbete. I år har vi glädjen att arrangera bokmässan med våra kamrater på Bokhandeln INFo!
+
 ## Lördag 22/8
 
 ### 12.00-17.00 Oceania 2084 - Kalypso
@@ -33,6 +35,16 @@ Film screening: The Path to Freedom
 ### 20.00 Kampen - Scen 44 Vg.
 
 
-## Söndag 22/8
+## Söndag 23/8
 
-Mer information kommer.
+### 12.30 ABC Belarus - Scen 44
+Uprising against dictatorship
+
+### 14.00 NVMP - Scen 44
+Monitoring the Russian far-right: a presentation via link by NVMP Russia
+
+### 15.00 Knus Krigsmaskinen - Kalypso
+Smash the war machine: a infotalk of the squatted house in Hurummarka., Norway
+
+### 15.30 Solidariska städare - Scen 44
+Presentation och visning av filmen Robota Sweden (2026).
