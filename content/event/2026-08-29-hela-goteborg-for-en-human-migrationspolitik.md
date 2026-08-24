@@ -1,12 +1,12 @@
 ---
 title: "Hela Göteborg för en human migrationspolitik"
-date: "2026-08-29 14:00:00"
+date: "2026-08-29 15:00:00"
 locations: [Göteborg]
 forms: [Manifestation]
 organizer: "Ingen Människa är Illegal - Göteborg"
 addressName: 
-streetAddress: "Gustaf Adolfs Torg"
-postalCode: "411 10"
+streetAddress: "Olof Palmes Plats"
+postalCode: "413 04"
 addressRegion: "Göteborg"
 addressCountry: "Sweden"
 source: https://www.facebook.com/events/1010320471553620/
@@ -17,7 +17,7 @@ Lördagen den 29:e augusti samlas vi därför i en stor demonstration i Götebor
 
 I hela Sverige kommer det att vara manifestationer för en human migrationspolitik mellan den 28 augusti och 6 september (läs mer här: https://www.mittskifte.org/calendars/demonstrationsvecka-for-en-human-migrationspolitik )
 
-Vi ses på Gustaf Adolfs torg kl 14.00 där det kommer att vara tal och musik. Det kommer mer information om demonstrationsvägen därifrån framöver. 
+Vi ses på Olof Palmes Plats kl 15.00 där det kommer att vara tal och musik. Det kommer mer information om demonstrationsvägen därifrån framöver. 
 
 Den nuvarande migrationspolitiken skapar andra klassens medborgare och bidrar till utanförskap och parallellsamhällen. Asylrätten urholkas kontinuerligt, steg för steg, genom lagar
 
