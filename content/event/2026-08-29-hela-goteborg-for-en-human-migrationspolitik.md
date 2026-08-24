@@ -42,42 +42,54 @@ Medmänsklighet – lagar och tillämpning måste ta hänsyn till individens sit
 
 Vi närmar oss riksdagsvalet och vi har de senaste åren sett flera lagar drivas igenom som begränsar och hotar både asylrätten och mänskliga rättigheter. Lagar som kritiserats av tunga remissinstanser. Lagar som drivits igenom i ett högt tempo, vilket begränsat de demokratiska processerna runt lagstiftningen.
 
-Vi kräver
-
+## Vi kräver
 • att de redan instiftade lagarna som begränsar asylrätten rivs upp, och att det inte införs fler lagar som begränsar asylrätten
-
 • att det inte införs fler lagar som begränsar rätten att bli medborgare, och att de höjda kraven för att bli medborgare rivs upp
-
 • att det inte införs fler lagar som begränsar rättigheterna för våra medmänniskor som är asylsökande, papperslösa och har uppehållstillstånd, och att de lagar som redan införts rivs upp.
 
 Kampen för en human migrationspolitik är inte skild från kampen för ett rättvist samhälle.
+
 Solidariteten har inga gränser.
+
 Stoppa utvisningarna! Låt oss leva! En annan ordning är möjlig!
 
 ## Arrangörer av demonstrationen: 
+Allt åt alla
+Vi är 4700 arbetare
+Vi står inte ut Göteborg
+Frivilligorganisationen Agape Göteborg
+Ingen Människa är Illegal Göteborg
+MiM kunskapscentrum
+Föreningen Kawhtar
+Hope
+Människan i Kålltorp (MIK)
+FARR- Flyktinggruppernas riksråd
+Värnet (Skyddsvärnet)
+Rädda Barnens Ungdomsförbund
+Röda Korsets Ungdomsförbund
+Kravall
+Neutrala Ungdomsföreningen
+No pasarán- Tillsammans mot Tidö
+Musiker mot Rasism
 
-- Allt åt alla
-- Vi är 4700 arbetare
-- Vi står inte ut Göteborg
-- Frivilligorganisationen Agape Göteborg
-- Ingen Människa är Illegal Göteborg
-- MiM kunskapscentrum
-- Föreningen Kawhtar
-- Hope
-- Människan i Kålltorp (MIK)                                             
-- FARR- Flyktinggruppernas riksråd
-- Värnet (Skyddsvärnet)
-- Rädda Barnens Ungdomsförbund
-- Röda Korsets Ungdomsförbund
-- Kravall
-- Neutrala Ungdomsföreningen  
-
-Organisationer som har ställt sig bakom demonstrationen:
-
+## Organisationer som har ställt sig bakom demonstrationen:
 Framtidens Vänster Göteborg
 Kulturprojektet Folkets Ljus
 Ung Vänster Göteborg & Bohuslän
 Kulturförsvaret
+Svenska Freds Göteborg
+Vårdförbundet avd Västra Götaland
+Vänsterpartiet Göteborg
+Utopia socialdemokratiska föreningen i Göteborg
+Iranska Flyktingars Förening i Göteborg
+Föreningen Iranska flyktingrådet i Göteborg
+Amnesty Göteborg
+Kurdiska socialdemokratiska föreningen Göteborg
+Fridh Advokatbyrå
+Kvinnofolkhögskolan
+Folkets Röst
+Akademikerförbundet SSR:s distriktsförening i Göteborg.
+Angereds Folkhögskola
 
 Om du är i en organisation som vill vara med och ställa dig bakom demonstrationen skicka ett meddelande till Ingen Människa är Illegal Göteborgs messenger så uppdaterar vi här i eventet listan  över alla organisationer, föreningar etc. som har ställt sig bakom demonstrationen. 
 
