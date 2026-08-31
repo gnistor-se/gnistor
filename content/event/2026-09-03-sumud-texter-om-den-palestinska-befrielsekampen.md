@@ -1,7 +1,6 @@
 ---
 title: "Sumud. Texter om den palestinska befrielsekampen!"
 date: "2026-09-03 18:30:00"
-enddate: "1970-01-01 01:00:00"
 locations: [Stockholm]
 forms: [Samtal]
 organizer: "Rönnells Antikvariat"
