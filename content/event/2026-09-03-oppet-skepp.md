@@ -13,6 +13,6 @@ source: "https://actionnetwork.org/forms/oppet-skepp-en-kvall-pa-segelskutan-lov
 ---
 3 september tar vi emot ett 30-tal besökande aktivister som seglat upp längs Östersjökusten till Stockholm. Vi arrangerar ett öppet skepp med mat, musik och samtal under kvällen och hoppas du vill komma dit för att säga hej eller bara kolla in den fina segelskutan. Lovis är en tysk båt som byggdes i början av 2000-talet av människor ur ockupationsrörelsen.
 
-Båten planerar att lägga till i Norra Hammarbyhamnen (T Skanstull). Vill du få mer information och ett mejl om exakt tid och plats? Anmäl dig här. https://actionnetwork.org/forms/oppet-skepp-en-kvall-pa-segelskutan-lovis/
+Anmäl dig här. https://actionnetwork.org/forms/oppet-skepp-en-kvall-pa-segelskutan-lovis/
 
 Vi kommer även uppdatera den här sidan när mer information finns.
