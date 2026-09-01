@@ -1,11 +1,11 @@
 ---
 title: "Öppet skepp, en kväll på segelskutan Lovis"
-date: 2026-09-03 12:00:00
+date: 2026-09-03 19:00:00
 forms: [Möte]
 locations: [Stockholm]
 organizer: "Allt åt Alla Stockholm"
-addressName: "Norra Hammarbyhamnen (T Skanstull)"
-streetAddress: ""
+addressName: "Kastellholmen"
+streetAddress: "Örlogsvägen 11"
 postalCode: ""
 addressRegion: "Stockholm"
 addressCountry: "Sweden"
