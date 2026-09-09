@@ -1,6 +1,6 @@
 ---
 title: "Klimatafton med Kommando Nötskrika och XR-kören på Torpet i Orhem"
-date: 2026-09-12 16:00:00
+date: 2026-09-12 15:00:00
 forms: [Musik]
 locations: [Stockholm]
 topics: [Klimat]
