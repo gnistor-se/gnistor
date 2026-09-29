@@ -12,7 +12,7 @@ addressRegion: "Göteborg"
 addressCountry: "Sweden"
 source: ""
 ---
-✨️ GÖTEBORG! 📽 7 oktober blir Rebellhörnet ett filmkrypin! Vi samlas och tittar på filmen Earth's Greatest Enemy och samtalar informellt kring temat krig och klimat mellan 18-20.
+✨️ GÖTEBORG! 📽 7 oktober blir Rebellhörnet ett filmkrypin! Vi samlas och tittar på filmen Earths Greatest Enemy och samtalar informellt kring temat krig och klimat mellan 18-20.
 
 - När? Onsdag 7 oktober
 - Var? Rebellhörnet, Bruksgatan/Lantvärnsgatan, GBG

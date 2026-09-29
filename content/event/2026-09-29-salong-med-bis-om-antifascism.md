@@ -13,7 +13,7 @@ addressRegion:
 addressCountry: "Sverige"
 source: https://www.facebook.com/events/1435471865142705/
 ---
-Inför valet släppte BiS ett nytt bibliotekspolitiskt manifest med fokus på antifascism, antirasism och försvaret av det inkluderande biblioteket. "Det antifascistiska manifestet" utgör ryggraden till vårt tredje nummer av bis 2026, men det är också till stora delar ett utkast - och nu vill vi diskutera vidare det med dig!
+Inför valet släppte BiS ett nytt bibliotekspolitiskt manifest med fokus på antifascism, antirasism och försvaret av det inkluderande biblioteket. Det antifascistiska manifestet utgör ryggraden till vårt tredje nummer av bis 2026, men det är också till stora delar ett utkast - och nu vill vi diskutera vidare det med dig!
 
 Vi plockar upp tråden från manifestet denna kväll, och passar gärna på att göra lite eftervalsanalys. Hur ser det antifascistiska biblioteket ut? Hur ser framtiden ut, vilka hot och möjligheter uppenbarar sig såhär efter valet? Och vilka lärdomar kan biblioteken dra från andra verksamheter och rörelser?
 
