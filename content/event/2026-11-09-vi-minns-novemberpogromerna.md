@@ -1,7 +1,6 @@
 ---
 title: "Vi minns Novemberpogromerna"
 date: "2026-11-09 17:30:00"
-enddate: "1970-01-01 01:00:00"
 locations: [Malmö]
 forms: [Manifestation]
 topics: [Antifascism]
