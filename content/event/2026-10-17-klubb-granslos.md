@@ -4,7 +4,6 @@ date: 2026-10-17 18:00:00
 forms: [Fest]
 locations: [Stockholm]
 organizer: "Ingen Människa är Illegal Stockholm"
-organizer: "Cyklopen"
 addressName: 
 streetAddress: "Magelungsvägen 170"
 postalCode: "SE-124 59 Bandhagen"
