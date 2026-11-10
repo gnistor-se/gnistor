@@ -14,8 +14,8 @@ source: "https://www.instagram.com/p/DfQMOsXRSqv/?rpxt=aHc1dnRsaXdrZTc5"
 ---
 Sumud: Texter om den palestinska befrielsekampen samlar nyckeltexter om Palestinas kamp och historia och röster som sällan eller aldrig förekommer i det svenska offentliga samtalet.
 
- -🗓️ 25 november, onsdag, kl. 18:00-19:30
- -📍Cnema, Norrköping (Kungsgatan 56, 602 33)
+ - 🗓️ 25 november, onsdag, kl. 18:00-19:30
+ - 📍Cnema, Norrköping (Kungsgatan 56, 602 33)
 
 Vi har bjudit in bokens redaktör Samuel Carlshamre, doktoranden och en av bokens översättare Saleh Abdelaziz, samt idéhistorikern och författaren Patricia Lorenzoni. Panelsamtalet kommer att modereras av professor Anders Neergaard från Linköpings universitet.
 
