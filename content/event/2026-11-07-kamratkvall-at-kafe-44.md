@@ -12,6 +12,6 @@ addressRegion: "Stockholm"
 addressCountry: "Sweden"
 source: "https://www.instagram.com/p/DfNRDQ1oVXX/"
 ---
-Månadens första lördag på Kafé 44 =Folkök från 11 och >> Kamratkväll, som vanligt stabilt häng från 17 och prima mat från 18.
+Månadens första lördag på Kafe 44 = Folkök från 11 och Kamratkväll, som vanligt stabilt häng från 17 och prima mat från 18.
 
 18+

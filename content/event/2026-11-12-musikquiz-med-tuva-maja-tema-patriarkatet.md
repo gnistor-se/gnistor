@@ -13,7 +13,7 @@ source: https://www.facebook.com/events/1903584060613392/
 ---
 Andra torsdagen i månaden är en given quizdag! Då kommer Tuva Majas Populära Musikquiz till Bacchi Syre och ger oss alla en chans att briljera i musik, äta god mat och ha ett härligt häng.  
 
-November månad bjuder på fars dag, på "no shave november" och internationella mansdagen. Så vad passar bättre än ett musikquiz med tema Patriarkatet!? Hur ser könsfördelningen ut bland musiker? Hur många män krävs det egentligen för att producera en låt? Det och många andra frågor kommer vi lämna obesvarade medan vi quizar oss runt i en patriarkal musikvärld.
+November månad bjuder på fars dag, på no shave november och internationella mansdagen. Så vad passar bättre än ett musikquiz med tema Patriarkatet!? Hur ser könsfördelningen ut bland musiker? Hur många män krävs det egentligen för att producera en låt? Det och många andra frågor kommer vi lämna obesvarade medan vi quizar oss runt i en patriarkal musikvärld.
 
 Skramla ihop ett lag, quiza själv eller hoppa in i ett lag på plats.
 
