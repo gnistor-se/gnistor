@@ -4,7 +4,7 @@ date: "2026-11-20 15:00:00"
 locations: [Storstockholm]
 forms: [Demonstation]
 organizer: "Ung Vänster Storstockholm"
-addressName: 
+addressName: "Norra Bantorget"
 streetAddress: "Östra Järnvägsgatan 33"
 postalCode: "111 20"
 addressRegion: "Stockholm"
