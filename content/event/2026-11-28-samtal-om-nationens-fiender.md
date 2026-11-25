@@ -1,5 +1,5 @@
 ---
-title: "Samtal om Nationens fiender
+title: "Samtal om Nationens fiender"
 date: 2026-11-28 15:00:00
 forms: [Samtal]
 locations: [Göteborg]
